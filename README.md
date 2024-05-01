@@ -1654,10 +1654,9 @@ En cuanto a los avances de la implementación de nuestro segundo sprint, se pued
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 | - | - | - | - | - | - |
-|Landing-Page|docs/assets/styles/style.css|7a8d1c3f78a5757e1a9b66005983214c1f88165f|feat (footer)|se añadieron los estilos del footer|11/04/23|
-|Single-Page-Application| Feature/ | |feat ()||//|
-|Single-Page-Application| Feature/| |feat ()||//|
-|Single-Page-Application| Feature/ | |feat ()||//|
+|Single-Page-Application| Feature/patient-management-profile |625b693|feat(home-patient): add home-patient.|The home patient component was added with all its subcomponents.|30/04/2024|
+|Single-Page-Application| Feature/medical-profile-management |7054526 |feat(medical-profile-management): add medical profile|Medical profile added|30/04/2024|
+|Single-Page-Application| Feature/role-selection |03dc5f0|feat(select-user-role): component completed and imported|The role selection component has been completed and imported.|29/04/2024|
 |Single-Page-Application| Feature/| |feat ()||//|
 |Single-Page-Application| Feature/| |feat ()||//|
 
@@ -1666,9 +1665,11 @@ En cuanto a los avances de la implementación de nuestro segundo sprint, se pued
 
 A continuación, se muestra ....
 capturas
+
 ##### 5.2.2.5. Execution Evidence for Sprint Review.
 Lo alcanzado en este sprint es la implementación de 
 **_screenshots de las principales vistas implementadas:**
+
 <img src="images/vistalanding1.png">
 <img src="images/vistalanding2.png">
 
