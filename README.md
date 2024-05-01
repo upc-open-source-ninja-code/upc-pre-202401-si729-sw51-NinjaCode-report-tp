@@ -730,7 +730,7 @@ Finalmente, se realizó una encuesta de Formulario de Google para la obtención 
 <img src="images/Paciente quesistemaoperativousamas.png">
 </center>
 
-[Resultados de las respuesta de los pacientes](https://docs.google.com/spreadsheets/d/18ymG7icz4uSKDMLTZHZjehKpsIX3hhprjjFXo9H5tQ8/edit?usp=sharing)
+Resultados de las respuesta de los pacientes: https://docs.google.com/spreadsheets/d/18ymG7icz4uSKDMLTZHZjehKpsIX3hhprjjFXo9H5tQ8/edit?usp=sharing
 
 ##### >Segmento de usuario – Médicos endocrinólogos.
 Conclusión:
@@ -794,7 +794,7 @@ Finalmente, se realizó una encuesta de Formulario de Google para la obtención 
 <img src="images/Medico cualessunavegadorwebfavorito.png">
 </center>
 
-[Resultados de las respuestas de los médicos](https://docs.google.com/spreadsheets/d/1AG_PKOa8czbNz00sYfzPndJZ8FENAuJ3JxAp0Lld1-Y/edit?usp=sharing)
+Resultados de las respuestas de los médicos: https://docs.google.com/spreadsheets/d/1AG_PKOa8czbNz00sYfzPndJZ8FENAuJ3JxAp0Lld1-Y/edit?usp=sharing
 
 
 
@@ -807,13 +807,13 @@ La creación de User Personas es una práctica fundamental para comprender las n
 
 <img src="images/User Persona Paciente Juan Pérez.png">
 
-[Enlace User Persona Paciente](https://drive.google.com/file/d/1af4btl7i7yPwyeY1d4j_AxOK0WOzMXru/view?usp=sharing)
+Enlace User Persona Paciente: https://drive.google.com/file/d/1BVOK0Y27CCRhW_B7TyWO5fIP3flDIwbG/view?usp=sharing
 
 **Segmento médico:**
 
 <img src="images/User Persona Médico Alejandro Torres.png">
 
-[Enlace User Persona Médico](https://drive.google.com/file/d/1Ko71r-6_EvUxjYx1oJl8ELZcGRoFXeo4/view?usp=sharing)
+Enlace User Persona Médico: https://drive.google.com/file/d/1XPcrQL0Lfm-PvvzwE2hlTeC6D1LPRmwk/view?usp=sharing
 
 
 ### 2.3.2.   **User Task Matrix.** 
