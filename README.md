@@ -1599,6 +1599,96 @@ Para llevar a cabo la implementación automática de nuestra Landing Page, emple
 Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de la herramienta Visual Studio Code, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios en Visual Code y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github.
 <img src="images/collaboration.png">
 
+#### 5.2.2.   Sprint 2
+
+##### 5.2.2.1. Sprint Planning 2.
+|Sprint #|Sprint 2|
+| - | - |
+|**Sprint Planning Background**||
+|Date|19-04-2024|
+|Time|9:00|
+|Location|Reunión realizada mediante Discord|
+|Prepared By|Astuyauri Calderon Jherson David|
+|Attendees (to planning meeting)|Astuyauri Calderon Jherson David / Chinchihualpa Saldarriaga Luis Sebastian/Lobato Pozo Sebastian Valente/Lostaunau Pereira Estéfano Sebastián	/Quispesivana Torres Claudio Sandro|
+|**Sprint Goal & User Stories**||
+|Sprint 2 Goal|Realizar las funcionalidades de nuestras historias core de la aplicación para la segunda entrega.|
+|Sprint 2 Velocity|25|
+|Sum of Story Points||
+
+
+
+##### 5.2.2.2. Sprint Backlog 2.
+#### En el segundo sprint de nuestra aplicación "HormonalCare", hemos desarrollado lo que como equipo consideramos el core de la aplicación, donde se comprende el historial clinico y las funciones que relacionan a ambos perfiles de usuario. Además de algunas fncionalidades complmentarias para este entrega. 
+
+<table><tr><th colspan="2" valign="top">Sprint #</th><th colspan="6" valign="top">Sprint 2</th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task </td></tr>
+<tr><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Description</td><td colspan="1" valign="top"><p>Estimation</p><p>(Hours)</p></td><td colspan="1" valign="top">Assigned To</td><td colspan="1" valign="top">Status (To-do / In Process / To-Review / Done)</td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">US01</td><td colspan="1" rowspan="3" valign="top">Visualización del Header.</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Diseñar el Header</td><td colspan="1" valign="top">Crear un diseño atractivo y funcional para el header que incluya secciones como inicio, sobre nosotros, contacto, etc.</td><td colspan="1" valign="top">Luis</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Implementación del Header</td><td colspan="1" valign="top">Codificar el header basado en el diseño aprobado, utilizando HTML, CSS, y JavaScript si es necesario para interactividad.</td><td colspan="1" valign="top">Sandro</td><td colspan="1" valign="top">5</td><td colspan="1" valign="top"></td></tr>
+<tr><td colspan="1" valign="top">T03</td><td colspan="1" valign="top">Pruebas del Header</td><td colspan="1" valign="top">Realizar pruebas funcionales para asegurar la correcta visualización y funcionalidad del header.</td><td colspan="1" valign="top">Jherson</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">US02</td><td colspan="1" rowspan="2" valign="top">Información sobre Planes o Suscripciones.</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Diseño de la Sección de Planes</td><td colspan="1" valign="top">Elaborar el diseño de la sección que detalla los planes o suscripciones disponibles, incluyendo beneficios y precios. </td><td colspan="1" valign="top">Estéfano</td><td colspan="1" valign="top">5</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Implementación de la Sección de Planes</td><td colspan="1" valign="top">Codificar la sección de planes conforme al diseño, utilizando prácticas de desarrollo web responsivo para asegurar su correcta visualización en cualquier dispositivo.</td><td colspan="1" valign="top">Sebastian</td><td colspan="1" valign="top">5</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">US03</td><td colspan="1" rowspan="2" valign="top">Visualización del footer en la landing page.</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Diseñar el Footer</td><td colspan="1" valign="top">Crear un diseño para el footer que incluya información de contacto, enlaces rápidos a secciones relevantes, y créditos. </td><td colspan="1" valign="top">Estéfano</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Desarrollar el Footer</td><td colspan="1" valign="top">Codificar el footer basándose en el diseño aprobado, utilizando tecnologías web estándar para garantizar su funcionamiento.</td><td colspan="1" valign="top">Sebastian</td><td colspan="1" valign="top">5</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">US04</td><td colspan="1" rowspan="3" valign="top">Conocer la misión y visión de la aplicación.</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Creación de Contenido para Misión y Visión.</td><td colspan="1" valign="top">Desarrollar el contenido textual que describe la misión, visión y valores de la empresa para ser incluidos en la landing page. </td><td colspan="1" valign="top">Jherson</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top"><p>T02</p><p></p></td><td colspan="1" valign="top">Diseño de la Sección de Misión y Visión.</td><td colspan="1" valign="top">Diseñar una sección en la landing page que presente de manera atractiva la misión y visión de la empresa.</td><td colspan="1" valign="top">Sandro</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top"></td></tr>
+<tr><td colspan="1" valign="top">T03</td><td colspan="1" valign="top">Implementación de la Sección de Misión y Visión.</td><td colspan="1" valign="top">Codificar la sección de misión y visión en la página, utilizando el contenido y diseño aprobados. </td><td colspan="1" valign="top">Estéfano</td><td colspan="1" valign="top">5</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">US05</td><td colspan="1" rowspan="3" valign="top">Comunicación directa con el equipo de soporte.</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Diseñar Formulario de Contacto</td><td colspan="1" valign="top">Crear un diseño para un formulario de contacto o chat en vivo que permita a los visitantes enviar mensajes directos al equipo de soporte. </td><td colspan="1" valign="top">Sebastian</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Implementar Interfaz de Contacto</td><td colspan="1" valign="top">Implementar la interfaz de contacto en la página.</td><td colspan="1" valign="top">Jherson</td><td colspan="1" valign="top">5</td><td colspan="1" valign="top"></td></tr>
+<tr><td colspan="1" valign="top">T03</td><td colspan="1" valign="top">Pruebas de la Funcionalidad de Contacto</td><td colspan="1" valign="top">Realizar pruebas para asegurar que la funcionalidad de contacto funcione correctamente, los mensajes se envíen al equipo de soporte, y que toda la información se maneje de forma segura.</td><td colspan="1" valign="top">Luis</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Done</td></tr>
+</table>
+
+Además, se incluye en la herramienta recomendada que es Trello.
+<img src="images/trellosprint.png" alt="Sprint I en Trello">
+![](Aspose.Words.7c36b888-f087-49fb-b41f-b7c953698ffb.001.png)
+#### <a name="_toc163674911"></a>Enlace: <https://trello.com/invite/b/H8Ifc2ko/ATTIf05ba6e9b91d336c0560f121fd1002790D3D9927/sprint-1-hormonalcare>
+####
+##### 5.2.2.3. Development Evidence for Sprint Review.
+####
+En cuanto a los avances de la implementación de nuestro segundo sprint, se puede observar que 
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+| - | - | - | - | - | - |
+|Landing-Page|docs/assets/styles/style.css|7a8d1c3f78a5757e1a9b66005983214c1f88165f|feat (footer)|se añadieron los estilos del footer|11/04/23|
+|Single-Page-Application| Feature/ | |feat ()||//|
+|Single-Page-Application| Feature/| |feat ()||//|
+|Single-Page-Application| Feature/ | |feat ()||//|
+|Single-Page-Application| Feature/| |feat ()||//|
+|Single-Page-Application| Feature/| |feat ()||//|
+
+
+##### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+A continuación, se muestra ....
+capturas
+##### 5.2.2.5. Execution Evidence for Sprint Review.
+Lo alcanzado en este sprint es la implementación de 
+**_screenshots de las principales vistas implementadas:**
+<img src="images/vistalanding1.png">
+<img src="images/vistalanding2.png">
+
+Link al video: [video landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218451_upc_edu_pe/EbyAhQWeUI5MnsNLvfM42PcBVWQLQGO47PHjy2U5S_uHaA?e=OcifcD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+En este segundo Sprint tenemos los siguientes servicios:
+
+|EndPoint|Detalles|
+|/homeDoctor| En esta ruta se muestra la pantalla principal del medico endocrinologo.|
+|/calendar| En esta ruta se muestra el calendario del usuario.|
+|/messages| En esta ruta se muestra la pantalla de comunicación medico-paciente|
+|/notifications| En esta ruta se muestran los recordatorios.|
+|/doctorProfile| En esta ruta se muestra el perfil del medico endocrinologo.|
+
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Para llevar a cabo la implementación Para realizar el despliegue automático de nuestro Front-End, utilizamos la herramienta -----, el cual permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo. El link de nuestro Front-End es el siguiente: 
+
+
+##### 5.2.2.8. Team Collaboration Insights during Sprint.
+Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso de la herramienta Web Storm, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github. El líder del grupo aprobó los pull request correspondientes que se solicitaron. Además, cada integrante trabajó en uno o varios features y se realizaron merge entre los features y develop.
+
+<img src="images/collaboration.png">
+
 
 ## **CONCLUSIONES Y RECOMENDACIONES**
 
