@@ -38,6 +38,12 @@ Ciclo 2024-01
 </div>
 
 
+## Registro de versiones del informe
+
+| Versión |    Fecha   |    Autor   |    Descripción de la modificación    |
+|:-----:|:--------:|:--------:|:--------:|
+| TB1     | 11/04/2024 | NinjaCode | Para esta entrega se desarrollaron los capítulos I, II, III, IV y V, y se desplegó la primera versión de la landing page |
+| TP1     | 01/05/2024 | NinjaCode | Se corrigieron detalles del informe como problem statement, assumptions, student outcome, resumen del registro de entrevistas, user personas, user task matrix, ubiquitous language, product backlog, Web Applications Wireflow Diagrams, class diagrams, database diagrams. Se hizo el sprint 2 y se desarrolló la primera versión de la Web Application |
 
 
 
@@ -50,7 +56,7 @@ Enlace del Project Report: (https://github.com/upc-open-source-ninja-code/upc-pr
 
 ## Contenido
 
-### [Registro de versiones](#)
+### [Registro de versiones del informe](#)
 
 ### [Contenido](#)
 
