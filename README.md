@@ -1350,6 +1350,71 @@ Con el paciente se encuentre en la vista principal de la aplicación y haga clic
 
 <img src="images/patient-usergoal-10.png">
 
+**Médicos:**
+
+User Goal: Como médico deseo incluir en el historial médico del paciente la razón de su consulta en relación a sus síntomas para llevar un mejor control de mis pacientes.
+
+Cuando el médico se encuentre en su pantalla principal como médico, al ver todos sus pacientes del día, y haga clic en historial clínico, el sistema desplegara el historial clinico del paciente en el cual al hacer clic en el boton de Razon de consultas podra hacer dos cambios, el cual le mostrará un espacio para completar y luego podrá añadir en el cuadro de síntomas todos los símtomas que tuvo antes de la consulta del paciente. 
+
+<img src="images/doctor-usergoal-4.png">
+
+User Goal: Como médico deseo anotar el pasado historico de mis pacientes para tener información detallada del origen de su enfermedad hormonal.
+
+Cuando el médico se encuentre en su pantalla principal como médico, al ver todos sus pacientes del día, y haga clic en historial clínico, el sistema desplegara el historial clinico del paciente en el cual al hacer clic en el boton de "Background", el médico podrá completar o editar los espacios de "Personal history" y "Family background" con el botón editar.
+
+<img src="images/doctor-usergoal-5.png">
+
+User Goal: Como médico deseo recibir los resultados de laboratorio de mis pacientes para analizar el estado actual de su enfermedad hormonal.
+
+Cuando el médico se encuentre en su pantalla principal como médico, al ver todos sus pacientes del día, y haga clic en historial clínico, el sistema desplegara el historial clinico del paciente en el cual al hacer clic en el boton de "Medical exams", el sistema mostrará todos los examenes de laboratorio que fue subiendo el paciente, y al hacer clic en alguno de ellos, podrá ver la inforamción detallada de cada uno de ellos. 
+
+<img src="images/doctor-usergoal-6.png">
+
+User Goal: Como médico deseo ver los reportes externos que el paciente proporciona para analizar su estado físico en relación a la enfermedad hormonal que lo aqueja.
+
+Cuando el médico se encuentre en su pantalla principal como médico, al ver todos sus pacientes del día, y haga clic en historial clínico, el sistema desplegara el historial clinico del paciente en el cual al hacer clic en el boton de "External reports", el sistema mostrará todos los reportes que el paciente que tuvo el paciente con anteriordad a la consulta, cuando el médico decida hacer clic en uno de ellos, se mostrará como una ventan emergente y verá con más detalle cada uno de los reportes.
+
+<img src="images/doctor-usergoal-7.png">
+
+User Goal: Como médico deseo incluir los diagnosticos de mis pacientes para llevar un control de como a ido evulucionando su enfermedad hormonal.
+
+Cuando el médico se encuentre en su pantalla principal como médico, al ver todos sus pacientes del día, y haga clic en historial clínico, el sistema desplegara el historial clinico del paciente en el cual al hacer clic en el boton de "Diagnoses and treatment", el sistema le mostrará los diagnosticos que tuvo con anterioridad y podra ordernales o añadir uno nuevo con el botón "Add", el cual despliega una ventana donde podrá añadir información del diagnostico.
+
+<img src="images/doctor-usergoal-8.png">
+
+User Goal: Como médico deseo incluir el tratamiento de cada paciente para que sepan como deben llevar su vida cotidiana de ahora en adelante con los medicamentes que se les fue asignado.
+
+Cuando el médico se encuentre en su pantalla principal como médico, al ver todos sus pacientes del día, y haga clic en historial clínico, el sistema desplegara el historial clinico del paciente en el cual al hacer clic en el boton de "Diagnoses and treatment", el sistema le mostrará los tratamientos y medicación donde podrá ver todos los que fueron añadidos con anterior, podrá añadir más con el botón "Add", en el cual se despliega una ventana donde podrá añadir información del tratamiento.
+
+<img src="images/doctor-usergoal-9.png">
+
+User Goal: Como médico deseo anotar la medicación que adquirirá el paciente junto con sus medidas adecuadas para que el paciente pueda llevar su tratamiento sin complicaciones.
+
+Cuando el médico se encuentre en su pantalla principal como médico, al ver todos sus pacientes del día, y haga clic en historial clínico, el sistema desplegara el historial clinico del paciente en el cual al hacer clic en el boton de "Diagnoses and treatment", el sistema le mostrará los tratamientos y medicación donde podrá ver todos los que fueron añadidos con anterior, podrá añadir más con el botón "Add", en el cual se despliega una ventana donde podrá añadir información de la medicación y sus horas.
+
+<img src="images/doctor-usergoal-10.png">
+
+User Goal: Como médico deseo buscar a un colega dentro de la aplicación para que pueda asignarle a un paciente y pueda atenderlo.
+
+Cuando el médico inicie sesión y esté en la su pantalla principal al momento de hacer clic en la barra de navegación e ingrese el correo de su colega, el sistema mostrará el usuario con el que coincida el código y el médico podrá hacer un clic, lo cual desplegará una ventana emergente con todos los datos de su colega, en el cual al hacer clic en el botón "Assign patient " podra asignar un paciente a un determinado horario disponible de su colega para que pueda atenderlo.
+
+<img src="images/doctor-usergoal-1.png">
+
+
+User Goal: Como médico deseo cambiar mi plan de suscripción para entender a un número mayor de pacientes en la aplicación.
+
+Cuando el médico se encuentre en su pantalla principal como médico, al hacer clic en el botón de profile, el sistema desplegará su perfil, donde podrá hacer clic en el botón "Configure current plan" el cual al ser desplegado podrá todos los planes que tiene como médico, despues podrá escoger el plan que más le convenga dando clic en "Accept" para luego ingresar su tarjeta de debito o credito para el pago correspondiente del tipo de plan que escogio. 
+
+<img src="images/doctor-usergoal-2.png">
+
+User Goal: Como médico deseo configurar mi calendario para que pueda añadir a un paciente a una determinada hora.
+
+Cuando el médico se encuentre en su pantalla principal como médico, al hacer clic en el botón de calendario el sistema desplegará su calendario donde podrá hacer escoger los horarios y podrá escoger un pacinte par luego poder crear el evento.
+
+<img src="images/doctor-usergoal-3.png">
+
+
+
 
 #### 4.4.3.   Web Applications Mock-ups.
 
