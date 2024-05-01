@@ -350,27 +350,53 @@ La pregunta que guía nuestro proyecto es: ¿Cómo puede una aplicación web sup
 
    ##### 1.2.2.2.	Lean UX Assumptions.
 
+
+Features:
+
+1. Comunicación y consulta de datos: Plataforma que permite la comunicación bidireccional entre médicos y pacientes, así como el acceso a datos médicos y la carga de información relevante.
+2. Monitoreo en historial clínico: Funcionalidad que permite llevar un registro detallado del historial médico de los pacientes, incluyendo tratamientos previos, resultados de pruebas y mediciones relevantes.
+3. Reuniones médicas virtuales: Posibilidad de realizar consultas médicas en línea mediante videoconferencias, facilitando el seguimiento de tratamientos y la comunicación entre médico y paciente.
+4. Gestión de pacientes: Herramientas que permiten asignar pacientes a médicos específicos, organizar citas y seguimientos, y compartir información de manera segura entre profesionales de la salud.
+5. Análisis estadístico y de datos: Funcionalidad para generar análisis estadísticos detallados sobre el progreso de los pacientes, facilitando la toma de decisiones clínicas basadas en evidencia.
+
+Business Outcomes:
+
+1. Incremento de la eficiencia en la atención médica: Reducción de los tiempos de espera y traslados para pacientes y médicos, optimizando la gestión de recursos y aumentando la productividad de las consultas.
+2. Mejora en la calidad de la atención: Facilitación del seguimiento y tratamiento de enfermedades hormonales, lo que conduce a una atención más efectiva y personalizada para cada paciente.
+3. Aumento de la satisfacción del cliente: Mejora en la experiencia del usuario al ofrecer una plataforma intuitiva y eficaz, lo que se traduce en una mayor satisfacción tanto para médicos como para pacientes.
+
+Users:
+
+1. Médicos endocrinólogos: Profesionales de la salud especializados en el tratamiento de trastornos hormonales, quienes utilizan la plataforma para monitorear y gestionar el tratamiento de sus pacientes.
+2. Pacientes: Personas que requieren tratamiento médico hormonal, que utilizan la plataforma para acceder a consultas médicas virtuales, cargar información relevante y seguir el progreso de su tratamiento.
+
+User Outcomes & Benefits:
+
+1. Mayor accesibilidad a la atención médica: Posibilidad de recibir atención médica especializada sin necesidad de desplazarse a un centro de salud, lo que facilita el acceso a la atención en áreas remotas o con limitaciones de movilidad.
+2. Seguimiento personalizado del tratamiento: Mejora en el seguimiento y control de enfermedades hormonales, gracias al monitoreo continuo y al acceso a información detallada sobre el historial clínico y el progreso del tratamiento.
+3. Experiencia de usuario mejorada: Simplificación de procesos, reducción de tiempos de espera y mayor comodidad en la comunicación con el médico, lo que mejora la experiencia global del usuario y aumenta su satisfacción con el servicio ofrecido.
+
+
 Business Assumptions:
 1.	Creemos que nuestros usuarios necesitan agilizar su forma de llevar tratamientos médicos hormonales a través de la telemedicina puesto que esta ha demostrado ser rentable en cuanto a costos de servicios y que ha permitido la disminución de los gastos de traslado y tiempo que tienen los pacientes.
-2.	Estas necesidades se pueden satisfacer con una plataforma que permita la comunicación y consulta de datos en la cual se pueda llevar el monitoreo y el acceso a una reunión medica sin la necesidad de pactar una cita presencial, lo cual agilizaría el seguimiento y tratamiento de enfermedades hormonales.
-3.	Nuestros clientes iniciales serán médicos especializados en endocrinología quienes desean que el tratamiento de sus pacientes sea lo más estable y eficaz posible. Lo que permita su agilización en tiempos de monitoreo tanto para ellos como sus pacientes.
-4.	El valor más importante que un cliente quiere de nuestro servicio es la simplicidad y efectividad, puesto que los pacientes y los médicos necesitan de una comunicación constante y organizada, sin complicaciones durante el manejo de la plataforma que forma parte de la experiencia de usuario.
+2.	Podemos resolver estas necesidades con una plataforma que permita la comunicación y consulta de datos en la cual se pueda llevar el monitoreo en un historial clínico y el acceso a una reunión medica sin la necesidad de pactar una cita presencial, lo cual agilizaría el seguimiento y tratamiento de enfermedades hormonales.
+3.	Nuestros clientes iniciales serán médicos especializados en endocrinología quienes desean llevar un mejor control y que el tratamiento de sus pacientes sea lo más estable y eficaz posible. Lo que permitirá una mejora en cuanto a agilización en tiempos de monitoreo tanto para ellos como sus pacientes.
+4.	El valor más importante que un cliente quiere de nuestro servicio es la simplicidad y efectividad, puesto que los pacientes y los médicos necesitan de una comunicación constante y organizada, sin complicaciones durante el manejo de la plataforma, otorgando una mejor experiencia de usuario.
+5.	El cliente también va a obtener diversos beneficios adicionales como la organización que la plataforma da al momento del que el paciente ingrese sus controles de su respectiva enfermedad, el poder asignar pacientes a algún miembro de su red contactos y que la información del historial médico sea compartida de manera inmediata, y el poder subir los resutados de los exámenes de control, que hará el propio paciente en un laboratorio que se le fue asignado por su médico, y que enviará para que el médico pueda analizarlas.
 
-5.	El cliente también va a obtener diversos beneficios adicionales como la organización que la plataforma da al momento del que el paciente ingrese sus controles de su respectiva enfermedad, el poder asignar pacientes a algún miembro de su red contactos y que la información sea compartida de manera inmediata, y el poder agregar laboratorios para la realización de exámenes de control, que hará el propio paciente, y que enviará para que el medico pueda analizarlas.
+6.	Vamos a obtener la mayoría de nuestros clientes mediante los periodos de prueba que ofrece nuestra plataforma en la cual los médicos podrán experimentar con los beneficios antes de comprometerse al pago de una suscripción.
 
-6.	Vamos a obtener la mayoría de nuestros clientes por medio de los periodos de prueba que ofrece nuestra plataforma en la cual los médicos podrán experimentar con los beneficios antes de comprometerse al pago de una suscripción, y además de los descuentos por referencias como el referir a otros colegas a que suscriban a la aplicación.
+7.	Vamos a obtener ingresos mediante la suscripción que pagarán los médicos especializados en endocrinología quienes desean establecer una mejor relación en el tratamiento de sus pacientes agilizando los tiempos de cada control que se requiera y llevando un historial clínico del paciente que siempre estará a la disposición del médico encargado.
 
-7.	Vamos a obtener ingresos mediante la suscripción que pagarán los médicos especializados en endocrinología quienes desean establecer una mejor relación en el tratamiento de sus pacientes agilizando los tiempos de cada control que se requiera.
+8.	Nuestra competencia principal en el mercado serán aplicaciones de los propios centros de salud que han desarrollado para no depender de una herramienta externa para el tratamiento de enfermedades tales como Teleatiendo, que es la plataforma de Essalud, que gestiona la solicitud, registro y consulta de datos sobre los servicios de telemedicina y monitoreo.
 
-8.	Nuestra competencia en el mercado será aplicaciones de los propios centros de salud que han desarrollado para no depender de una herramienta externa para el tratamiento de estas enfermedades tal como Teleatiendo que es la plataforma de Essalud que gestiona la solicitud, registro y consulta de datos sobre los servicios de telemedicina y monitoreo.
+9.	Vamos a tener ventaja frente a nuestra competencia debido a la experiencia intuitiva de navegación que se ofrece tanto a pacientes como a médicos y la disponibilidad de un control detallado de la evoluación de la enfermedad hormonal del paciente. La experiencia de usuario acompañada de una buena gestión del historial médico marca una importante diferencia en cuanto a nuestros competidores.
 
-9.	Vamos a tener ventaja frente a nuestra competencia debido a la experiencia intuitiva de navegación que se ofrece tanto a pacientes como a médicos. La interfaz de usuario está diseñada para el fácil uso, la interacción y el flujo de trabajo tanto para los médicos como para los pacientes.
-
-10.	El mayor riesgo del servicio es la perdida de la escalabilidad si se experimenta un aumento repentino en el número de usuarios que accedan a la plataforma de manera simultánea.
+10.	El mayor riesgo del servicio es la perdida de la escalabilidad si se experimenta un aumento repentino en el número de usuarios que accedan a la plataforma de manera simultánea en un corto periodo de tiempo.
 
 11.	Lo resolveremos realizando una cuidadosa planificación y gestión de la capacidad de nuestros servidores y recursos informáticos, lo que nos permitirá ajustar dinámicamente la capacidad del sistema según la demanda.
 
-12.	Otras suposiciones podrían incluir la adaptación de nuestra estrategia empresarial según sea necesario para responder a cambios inesperados en el entorno médico.
+12.	Otras suposiciones podrían incluir que los médicos y pacientes estarán dispuestos a adoptar tecnología nueva y confiar en la telemedicina como una alternativa viable y segura para el seguimiento y tratamiento de enfermedades hormonales. O también que no surgirán barreras regulatorias o legales significativas que limiten la operación de nuestro servicio de telemedicina, como restricciones en la teleconsulta o requisitos adicionales de certificación médica para la atención a distancia.
 
 
 User Assumptions:
@@ -378,23 +404,24 @@ User Assumptions:
 
 1.	¿Quien es el usuario?
 
-Los médicos endocrinólogos son los principales suscriptores de nuestro servicio. Además, los pacientes son añadidos a los registros por los propios médicos sin incurrir en una suscripción. Sin embargo, los pacientes también tendrán su propia interfaz para mantener el contacto durante el tratamiento de sus enfermedades hormonales.
+Los médicos endocrinólogos son los principales son nuestros principales usuarios quienes se suscriben a nuestro servicio. Los pacientes también serán usuarios, pero no pagan una suscripción, contarán con su propia interfaz.
 
-2.	¿Qué problemas tiene nuestro producto?
-
-La realidad en Perú difiere considerablemente de la de los países más desarrollados. Según el INEI (2020), solo el 40,1% de los hogares peruanos cuenta con acceso a Internet. Esta situación representa una gran desventaja para los servicios de salud a distancia, como el que propone HormonalCare.
-
-3.	¿Qué características son importantes?
-
-Las estadísticas que respaldan el tratamiento médico y la gestión de datos de los exámenes de laboratorio ordenados por el médico responsable son fundamentales. Además, la capacidad de recuperación y transferencia de datos de manera eficiente es crucial en situaciones donde un médico decide delegar la responsabilidad de un paciente a uno de sus colegas.
-
-4.	¿Dónde encaja nuestro producto en su trabajo o vida?
+2.	¿Dónde encaja nuestro producto en su trabajo o vida?
 
 Según Castillo (2023), en áreas rurales o remotas donde la disponibilidad de servicios médicos especializados es limitada, la telemedicina ofrece la oportunidad de acceder a expertos sin la necesidad de realizar largos desplazamientos. En el sistema tradicional, los pacientes a menudo enfrentan largos tiempos de espera, a veces semanas o meses, para obtener una cita con un médico especialista, como un endocrinólogo. En este contexto, HormonalCare surge como una solución que permite a los médicos agilizar el tratamiento de sus pacientes sin requerir la presencia física, facilitando así la atención médica remota. Esto permite que los pacientes realicen sus rutinas médicas de forma autónoma, con la supervisión del médico correspondiente.
 
-5.	¿Cuándo y cómo es nuestro producto usado?
+
+3.	¿Qué problemas soluciona nuestro producto?
+
+ En primer lugar, facilita el acceso a la atención médica especializada en endocrinología, especialmente en áreas rurales o remotas donde la disponibilidad de servicios médicos especializados es limitada. Además, agiliza el seguimiento y tratamiento de enfermedades hormonales al permitir a los médicos monitorear de manera remota el progreso de sus pacientes sin la necesidad de citas presenciales. Esto optimiza el tiempo de los médicos al proporcionarles una plataforma organizada y eficiente para llevar el historial clínico de sus pacientes, lo que permite una mejor gestión y seguimiento de su tratamiento. Por último, mejora la experiencia del paciente al eliminar la necesidad de largos desplazamientos y tiempos de espera para obtener una consulta con un endocrinólogo, ofreciendo una alternativa conveniente y accesible a la atención médica tradicional.
+
+4.	¿Cuándo y cómo es nuestro producto usado?
 
 Nuestro servicio se utiliza cuando el paciente encuentra el espacio y el tiempo adecuados para concertar una reunión con su médico y llevar a cabo un autodiagnóstico cargando las pruebas de forma organizada en la plataforma. Durante esta sesión, el paciente es monitoreado por el médico a través de una videollamada. Dependiendo de los datos proporcionados por el paciente, HormonalCare genera un análisis estadístico detallado que permite al médico examinar con mayor precisión el comportamiento y los estímulos que experimenta el paciente durante el período de seguimiento autónomo. Estos datos se almacenan en el historial clínico del paciente, al cual solo el médico asignado tiene acceso, así como cualquier colega a quien pueda delegar el seguimiento.
+
+5.	¿Cuáles son las funcionalidades más importantes?
+
+Las estadísticas que respaldan el tratamiento médico y la gestión de datos de los exámenes de laboratorio ordenados por el médico responsable son fundamentales. Además, la capacidad de recuperación y transferencia de datos de manera eficiente es crucial en situaciones donde un médico decide delegar la responsabilidad de un paciente a uno de sus colegas.
 
 6.	¿Cómo debe verse nuestro producto y como debe comportarse?
 
