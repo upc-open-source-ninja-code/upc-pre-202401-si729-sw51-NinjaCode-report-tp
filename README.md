@@ -1678,6 +1678,7 @@ Link al video: [video landing page](https://upcedupe-my.sharepoint.com/:v:/g/per
 En este segundo Sprint tenemos los siguientes servicios:
 
 |EndPoint|Detalles|
+| - | - |
 |/homeDoctor| En esta ruta se muestra la pantalla principal del medico endocrinologo.|
 |/calendar| En esta ruta se muestra el calendario del usuario.|
 |/messages| En esta ruta se muestra la pantalla de comunicación medico-paciente|
