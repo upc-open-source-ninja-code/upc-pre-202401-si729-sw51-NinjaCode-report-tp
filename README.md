@@ -1035,8 +1035,8 @@ Para elaborar nuestro product backlog hemos utilizado la escala Fibonacci (1,2,3
 |50|US46|Ver notificaciones.|Como paciente, quiero poder recibir notificaciones sobre mensajes enviados por mi médico, para mantenerme informado sobre cualquier comunicación relevante relacionada con mi atención médica.|3|
 
 **Asimismo, se adjunta el enlace del product backlog en la herramienta indicada.**
-<img src="images/Product Backlog en Trello.png" >
-[Enlace product Backlog en Trello](https://trello.com/invite/b/66EkeO8t/ATTI7681f5c932b9217761b0224c0051dd4cC0E965E5/aplicaciones-web-hormonalcare) 
+<img src="images/product-backlog-new.png" >
+[Enlace product Backlog en Trello](https://trello.com/invite/b/66EkeO8t/ATTI7681f5c932b9217761b0224c0051dd4cC0E965E5/product-backlog-hormonalcare) 
 
 
 
