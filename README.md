@@ -11,13 +11,13 @@ Ciclo 2024-01
 
 <hr>
 
-# <center>Aplicaciones Web</center>
+# <center>Desarrollo de Aplicaciones Open Source</center>
 
 ## TF REPORT
 
 **Sección:** SW53
 
-**Profesor**: Alex Humberto Sánchez Ponce
+**Profesor**: Angel Augusto Velasquez Nuñez
 
 
 *StartUp Name*: NinjaCode
@@ -1275,9 +1275,81 @@ Enlace: [https://www.figma.com/file/mNslBv5s2hX1S8Yc1M25gV/Minimal-Wireframe-Kit
 
 #### 4.4.2.   Web Applications Wireflow Diagrams.
 
-<img src="images/Web Applications Wireflow Diagrams.png">
 
-Enlace: [https://lucid.app/lucidchart/81746e82-7355-4883-af97-39e90c1214e8/edit?viewport_loc=-30442%2C5295%2C129066%2C44793%2C0_0&invitationId=inv_5a5a8229-a89a-422f-b095-b21994fcc49a](https://lucid.app/lucidchart/81746e82-7355-4883-af97-39e90c1214e8/edit?viewport_loc=-30442%2C5295%2C129066%2C44793%2C0_0&invitationId=inv_5a5a8229-a89a-422f-b095-b21994fcc49a)
+Para la realización de los Wireflow Diagrams hemos separado cada diagrama por User Goals y User Personas correspondientes a nuestro proyecto.
+
+**Pacientes:**
+
+User Goal: Como paciente deseo registrarme para ingresar a la aplicación.
+
+Para este objetivo el paciente se encuentra en la página de log in de la aplicación y al hacer click en el botón register, se le dirigirá a una pestaña en la que podrá seleccionar su tipo de usuario. Luego de seleccionar la opción de Paciente como tipo de usuario, se le redirigirá a una instancia en la que podrá llenar un formulario con sus datos. Una vez completados los datos y le dé click al botón de Register, se le dirigirá al home de la aplicación
+
+<img src="images/patient-usergoal-1.png">
+
+
+User Goal: Como paciente deseo visualizar los médicos disponibles para seleccionar el que crea conveniente.
+
+Para este objetivo el paciente se encuentra en el home principal de la aplicación y cuando le dé clic al botón de médicos disponibles se le dirigirá a una pestaña en la que podrá ver, buscar y seleccionar a su médico. Una vez que haga clic en el médico escogido podrá ver el perfil con sus datos más relevantes.
+
+<img src="images/patient-usergoal-2.png">
+
+
+User Goal: Como paciente deseo agendar mi primera cita con el médico escogido para iniciar con mi tratamiento.
+
+Para este objetivo una vez que el paciente se encuentre en el perfil del médico escogido y haga clic en el botón de reservar una cita, la aplicación desplegará la vista de un calendario en el que el paciente podrá escoger sus horarios disponibles. Luego, cuando el paciente decida confirmar horario, el sistema redirigirá a una vista en la que el paciente podrá elegir el método de pago y cuando haga clic en el botón pagar, se habilitará una pestaña flotante dependiendo del método de pago que haya escogido y cuando haga clic en el botón aceptar se le redirigirá a la vista principal del paciente y podrá ver su cita agendada.
+
+<img src="images/patient-usergoal-3.png">
+
+
+User Goal: Como paciente deseo iniciar sesión con mis credenciales para ingresar a la aplicación.
+
+Con el paciente se encuentre en la página de login de la aplicación, digite sus credenciales y haga clic en el botón login, será redirigido a la vista principal del paciente.
+
+<img src="images/patient-usergoal-4.png">
+
+
+User Goal: Como paciente deseo acceder a mi cita médica para poder recibir mi tratamiento.
+
+Cuando el paciente se encuentre en la vista principal y haga clic en el botón de su cita agendada a la hora pactada con el médico, el sistema de plegará una pestaña flotante con Google para que el paciente puede ingresar a su cita.
+
+<img src="images/patient-usergoal-5.png">
+
+
+User Goal: Como paciente deseo acceder a un calendario para poder visualizar mis próximas citas.
+
+Cuando el paciente se encuentra en la vista principal y haga clic en el icono de calendario del toolbar principal, el sistema desplegará un calendario para que el paciente pueda ver las fechas de sus próximas citas.
+
+<img src="images/patient-usergoal-6.png">
+
+
+User Goal: Como paciente deseo acceder a las notificaciones para mantenerme al tanto de las actualizaciones de mi tratamiento.
+
+
+Cuándo el paciente se encuentra en la vista principal y haga clic en el ícono de campana de la barra de navegación, el sistema desplegará pestaña flotante en el que se podrá visualizar todas sus notificaciones, y cuando el paciente haga click cada una de ellas se desplegará una ventana flotante con los detalles de la notificación. Cuando el paciente haga clic en la X de la ventana flotante será redirigido a la vista principal de la aplicación.
+
+<img src="images/patient-usergoal-7.png">
+
+
+User Goal: Como paciente deseo subir mis exámenes pendientes para poder continuar con mi tratamiento.
+
+Cuando el paciente se encuentre en la vista principal y haga clic en el botón subir sus exámenes, se desplegará una ventana flotante en la cual estarán los exámenes pendientes a subir por parte del paciente. Cuando el paciente haga clic en uno de esos exámenes, el sistema plegará una ventana flotante en la cual el paciente podrá subir el archivo de tal examen requerido por el médico. Cuando el paciente haga clic en enviar, el sistema eliminará la ventana flotante y el paciente se encontrará en la vista principal de la aplicación.
+
+<img src="images/patient-usergoal-8.png">
+
+
+User Goal: Como paciente deseo chatear con mi doctor para poder absolver consultas.
+
+Cuando el paciente se encuentre en la pestaña principal de la aplicación y haga clic sobre el icono del sobre en la barra de navegación, el sistema desplegará una pestaña en la cual el paciente podrá acceder a un Chat con su doctor. Cuando el paciente haga click en el icono de la X, se cerrará la ventana flotante y se le redirigirá a la pestaña principal.
+
+<img src="images/patient-usergoal-9.png">
+
+
+User Goal: Como usuario deseo editar los datos de mi perfil.
+
+Con el paciente se encuentre en la vista principal de la aplicación y haga clic sobre el icono de su foto de perfil en la barra de navegación, el paciente podrá acceder a su perfil y poder editar su información personal.
+
+<img src="images/patient-usergoal-10.png">
+
 
 #### 4.4.3.   Web Applications Mock-ups.
 
