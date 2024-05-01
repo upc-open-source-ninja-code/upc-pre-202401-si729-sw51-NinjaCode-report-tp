@@ -38,6 +38,11 @@ Ciclo 2024-01
 </div>
 
 
+## Registro de versiones del informe
+
+| Versión |    Fecha   |    Autor    |    Descripción de la modificación    |
+| :-----: | :--------: | :--------: | :--------: |
+| TB1     | 11/04/2024 | NinjaCode | Para esta entrega se desarrollaron los capítulos I, II, III, IV y V, y se desplegó la primera versión de la landing page |
 
 
 
@@ -50,7 +55,7 @@ Enlace del Project Report: (https://github.com/upc-open-source-ninja-code/upc-pr
 
 ## Contenido
 
-### [Registro de versiones](#)
+### [Registro de versiones del informe](#)
 
 ### [Contenido](#)
 
