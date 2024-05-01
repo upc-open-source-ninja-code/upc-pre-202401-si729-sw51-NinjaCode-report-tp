@@ -1856,8 +1856,8 @@ En cuanto a los avances de la implementación de nuestro segundo sprint, se pued
 |Single-Page-Application| Feature/patient-management-profile |625b693|feat(home-patient): add home-patient.|The home patient component was added with all its subcomponents.|30/04/2024|
 |Single-Page-Application| Feature/medical-profile-management |7054526 |feat(medical-profile-management): add medical profile|Medical profile added|30/04/2024|
 |Single-Page-Application| Feature/role-selection |03dc5f0|feat(select-user-role): component completed and imported|The role selection component has been completed and imported.|29/04/2024|
-|Single-Page-Application| Feature/| |feat ()||//|
-|Single-Page-Application| Feature/| |feat ()||//|
+|Single-Page-Application| Feature/medical-history-upload|b50e69d|feat (medical-history-upload): Add DiagnosesTreatment component. |Added DiagnosesTreatment component for displaying patient's diagnoses and treatments|1/05/2024|
+|Single-Page-Application| Feature/medical-history-upload| |feat (medical-history-upload): Introduce MedicalExams component.|Introduce MedicalExams component to display patient's medical examination results|1/05/2024|
 
 
 ##### 5.2.2.4. Testing Suite Evidence for Sprint Review.
