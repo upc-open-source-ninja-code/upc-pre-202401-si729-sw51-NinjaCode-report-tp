@@ -1644,9 +1644,8 @@ Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de
 
 
 Además, se incluye en la herramienta recomendada que es Trello.
-<img src="images/sprint2.png alt="Sprint II en Trello">
-![https://trello.com/invite/b/mSimNo04/ATTI125c821416efcad4fb8cb0bafc415bbdFFF7F7D5/sprint-2-hormonalcare](https://trello.com/invite/b/mSimNo04/ATTI125c821416efcad4fb8cb0bafc415bbdFFF7F7D5/sprint-2-hormonalcare)
-#### <a name="_toc163674911"></a>Enlace: <https://trello.com/invite/b/H8Ifc2ko/ATTIf05ba6e9b91d336c0560f121fd1002790D3D9927/sprint-1-hormonalcare>
+<img src="images/sprint2.png">
+#### <a name="_toc163674911"></a>Enlace: <https://trello.com/invite/b/mSimNo04/ATTI125c821416efcad4fb8cb0bafc415bbdFFF7F7D5/sprint-2-hormonalcare>
 ####
 ##### 5.2.2.3. Development Evidence for Sprint Review.
 ####
