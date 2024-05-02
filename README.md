@@ -48,10 +48,36 @@ Ciclo 2024-01
 
 
 ## Project Report Collaboration Insights
-Enlace del Project Report: (https://github.com/upc-open-source-ninja-code/upc-pre-202401--si729-sw51-NinjaCode-report-tb1/blob/main/readme.md)
+
+TB1:
+
+
+Para la primera entrega de nuestro informe de proyecto, utilizamos un enfoque colaborativo y transparente para desarrollar y mejorar continuamente nuestro trabajo. Establecimos un repositorio en la organización de GitHub de nuestro equipo, donde cada miembro contribuyó activamente al desarrollo del informe. El URL del repositorio se encuentra en: https://github.com/upc-open-source-ninja-code/upc-pre-202401-si729-sw51-NinjaCode-report-tp/edit/main/README.md.
+
+Nuestras actividades de elaboración del informe se llevaron a cabo de manera coordinada y eficiente. A través de reuniones periódicas en Discord, asignamos partes específicas del informe a cada miembro del equipo, asegurando un equilibrio en la distribución de tareas y responsabilidades. Durante estas sesiones, proporcionamos orientación y apoyo mutuo para abordar cualquier pregunta o inquietud que surgiera durante el proceso de redacción.
+Además, fomentamos un ambiente de retroalimentación constructiva, donde revisamos periódicamente el progreso del proyecto y compartimos sugerencias para mejorar la calidad y la coherencia del informe. Estas sesiones de retroalimentación fueron fundamentales para identificar áreas de mejora y garantizar que nuestro trabajo reflejara de manera precisa los objetivos y logros de nuestro proyecto.
+
+Para respaldar nuestra colaboración y transparencia, presentamos un gráfico de los commits en GitHub, proporcionando evidencia visual de la participación activa de cada miembro del equipo en el desarrollo del informe. Estos commits están en nuestro repositorio de GitHub y reflejan nuestro compromiso con la colaboración y la responsabilidad compartida en el proceso de elaboración del informe.
+
 
 <div  align="center">
 <img src="images/GeneralCommits.png">
+</div>
+
+Este enfoque colaborativo no solo fortaleció la calidad del informe, sino que también promovió un sentido de pertenencia y compromiso con el proyecto en todos los miembros del equipo. Estamos comprometidos a mantener este nivel de colaboración y excelencia en futuras entregas del informe.
+
+
+TP1:
+
+ En la segunda entrega de nuestro informe de proyecto, continuamos con nuestro enfoque colaborativo y centrado en la mejora continua. Utilizamos un proceso similar al de la primera entrega, donde cada miembro del equipo asumió la responsabilidad de corregir las partes del informe señaladas por el profesor para mejorar su calidad y precisión. A través de un esfuerzo conjunto, abordamos estas correcciones, asegurando que el informe reflejara de manera precisa los avances y desarrollos de nuestro proyecto.  
+ 
+Durante este período, manteníamos una comunicación constante a través de reuniones en Discord y colaborábamos estrechamente para superar cualquier desafío que enfrentáramos. La retroalimentación mutua y el apoyo continuo fueron fundamentales para resolver los problemas de manera efectiva y asegurar que tanto el informe como la aplicación web reflejaran con precisión nuestros logros y progresos.  
+
+Para respaldar nuestra colaboración y transparencia, presentamos una imagen de los commits en GitHub, demostrando nuestro compromiso con la participación activa y la responsabilidad compartida en el desarrollo del informe y la aplicación. 
+
+
+<div  align="center">
+<img src="images/GeneralCommits2.png">
 </div>
 
 ## Contenido
