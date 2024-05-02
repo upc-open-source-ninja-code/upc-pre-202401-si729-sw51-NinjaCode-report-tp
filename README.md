@@ -1625,43 +1625,60 @@ Link: [https://upcedupe-my.sharepoint.com/:b:/g/personal/u202211742_upc_edu_pe/E
 
 **Project Management:**
 
-Discord: Utilizamos Discord como plataforma principal de comunicación y colaboración entre los miembros del equipo de desarrollo y gestión del proyecto. Discord proporcionó canales de comunicación en tiempo real para discusiones, reuniones y actualizaciones del proyecto.
+Trello: Además de ser utilizado para la gestión de tareas, Trello sirvió como una herramienta integral de gestión de proyectos, permitiendo la asignación de tareas, la definición de fechas límite y el seguimiento del progreso de manera colaborativa. https://trello.com/signup
 
-WhatsApp: Se utilizó WhatsApp como una herramienta de comunicación para mantener el contacto con los miembros del equipo y colaborar en cierta medida.
+Structurizr: Empleado para crear diagramas de arquitectura de software y documentación de la arquitectura del sistema, lo cual puede ser útil para la gestión de aspectos técnicos del proyecto. https://structurizr.com/
 
-Landing Page: Para dar vida a la primera impresión de nuestra landing page, decidimos usar HTML, CSS y JavaScrip que son ampliamente conocidas y utilizadas en la creación de páginas web. Estas tecnologías permitieron crear una página atractiva, funcional y adaptada a las necesidades del proyecto.
+Microsoft Stream (Videos): Utilizado para la publicación, almacenamiento y compartición de videos relacionados con el proyecto. Esta plataforma nos permite como equipo centralizar todos nuestros recursos visuales. https://www.microsoft.com/en-us/microsoft-365/microsoft-stream
+
+Google Drive: Utilizado para el almacenamiento y colaboración de documentos, archivos y recursos del proyecto. https://www.google.com/drive/
+
+GitHub Desktop: Utilizado para la gestión del control de versiones del código fuente, facilitando la colaboración entre el equipo de desarrollo. https://desktop.github.com/
+
+Google Forms: Utilizamos Google Forms para recopilar retroalimentación y realizar encuestas de usuarios. Google Forms nos permitió recoger datos relevantes sobre la experiencia de los usuarios y las necesidades del cliente, lo que influyó en el diseño y desarrollo del producto. https://www.google.com/forms/about/
 
 
 **Requirements Management:**
 
-Miro: Utilizamos Miro como herramienta principal para la gestión de requisitos. En Miro, creamos mapas mentales y diagramas que ayudaron a visualizar y organizar los requisitos del proyecto, incluyendo características, funcionalidades y objetivos clave.
+Miro: Utilizamos Miro como herramienta principal para la gestión de requisitos. En Miro, creamos mapas mentales y diagramas que ayudaron a visualizar y organizar los requisitos del proyecto, incluyendo características, funcionalidades y objetivos clave. https://miro.com/signup/
 
-Lucidchart: Además, utilizamos Lucidchart como herramienta para realizar diagramas y documentación.
+Lucidchart: Además, utilizamos Lucidchart como herramienta para realizar diagramas y documentación. https://www.lucidchart.com/users/register
 
 
 
 **Product UX/UI Design:** 
 
-Figma: Empleamos Figma para el diseño de la interfaz de usuario (UI) y la experiencia de usuario (UX) de la aplicación HormonalCare. Figma permitió la creación de prototipos, wireframes y diseños visuales que guiarán el desarrollo del producto final. 
-UXPressia: Utilizamos UXPressia como herramienta especializada en la creación de mapas de experiencia de usuario, perfiles de clientes y otros elementos relacionados con el diseño de UX. UXPressia nos permitió visualizar y comprender la experiencia del usuario en profundidad, ayudando a mejorar la usabilidad y el diseño de la aplicación.
-Canva: Incorporamos Canva en la etapa de diseño para la creación de recursos gráficos adicionales, como imágenes, gráficos y presentaciones, que mejoró la estética y la presentación del producto.
-Google Forms: Utilizamos Google Forms para recopilar retroalimentación y realizar encuestas de usuarios. Google Forms nos permitió recoger datos relevantes sobre la experiencia de los usuarios y las necesidades del cliente, lo que influyó en el diseño y desarrollo del producto.
+Figma: Empleamos Figma para el diseño de la interfaz de usuario (UI) y la experiencia de usuario (UX) de la aplicación HormonalCare. Figma permitió la creación de prototipos, wireframes y diseños visuales que guiarán el desarrollo del producto final. https://www.figma.com/signup
+
+UXPressia: Utilizamos UXPressia como herramienta especializada en la creación de mapas de experiencia de usuario, perfiles de clientes y otros elementos relacionados con el diseño de UX. UXPressia nos permitió visualizar y comprender la experiencia del usuario en profundidad, ayudando a mejorar la usabilidad y el diseño de la aplicación. https://uxpressia.com
+
+Canva: Incorporamos Canva en la etapa de diseño para la creación de recursos gráficos adicionales, como imágenes, gráficos y presentaciones, que mejoró la estética y la presentación del producto. https://www.canva.com/signup
+
 
 
 
 **Software Development:**
 
-IDE (Entorno de Desarrollo Integrado): Utilizamos Visual Studio Code como nuestro IDE principal debido a su capacidad para facilitar el desarrollo web moderno y eficiente. Visual Studio Code ofrece soporte robusto para los lenguajes y tecnologías clave que utilizamos, como HTML, CSS, JavaScript y frameworks como Angular o Vue.js. Además, su interfaz intuitiva y extensibilidad mediante plugins nos permitió trabajar de manera más productiva, asegurando una codificación de calidad y una depuración eficaz.
+IDE (Entorno de Desarrollo Integrado): 
+Visual Studio Code: Utilizado como nuestro IDE principal para el desarrollo de la landing page, debido a su capacidad para facilitar el desarrollo web moderno y eficiente. https://code.visualstudio.com/download
 
-Control de Versiones: Git será fundamental para el control de versiones del código fuente. La integración nativa con sistemas de control de versiones como Git también es crucial para nuestra gestión de proyectos, lo cual, nos permitió un control preciso de nuestro código fuente y facilitando la colaboración entre el equipo de desarrollo.
+WebStorm: Empleado como entorno de desarrollo integrado (IDE) adicional para el desarrollo de nuestra aplicación Single Page Application. https://www.jetbrains.com/webstorm/download/
 
-Gestión de Dependencias: Usamos npm (Node Package Manager) para gestionar las dependencias del proyecto, incluyendo bibliotecas y paquetes necesarios para el desarrollo.
+IntelliJ IDEA: Utilizado para realizar el backend con Java, aprovechando sus características avanzadas para el desarrollo en este lenguaje. https://www.jetbrains.com/idea/download/
+
+Control de Versiones: Git será fundamental para el control de versiones del código fuente. La integración nativa con sistemas de control de versiones como Git también es crucial para nuestra gestión de proyectos, lo cual, nos permitió un control preciso de nuestro código fuente y facilitando la colaboración entre el equipo de desarrollo. https://git-scm.com/downloads
+
+Gestión de Dependencias: Usamos npm (Node Package Manager) para gestionar las dependencias del proyecto, incluyendo bibliotecas y paquetes necesarios para el desarrollo. https://docs.npmjs.com/about-npm-versions
+
 
 
 
 **Software Documentation:**
 
-GitHub: Empleamos GitHub como plataforma principal para la documentación del código y la colaboración en el desarrollo. Utilizamos el README.md para documentar el proceso de desarrollo.
+GitHub: Empleamos GitHub como plataforma principal para la documentación del código y la colaboración en el desarrollo. Utilizamos el README.md para documentar el proceso de desarrollo. https://github.com/join
+
+Structurizr: Empleado para crear diagramas de arquitectura de software y documentación de la arquitectura del sistema. https://structurizr.com/
+
 
   
 #### 5.1.2.   Source Code Management.
