@@ -1711,17 +1711,17 @@ Como equipo, hemos dividido nuestro trabajo en varios repositorios para gestiona
 
 En relación al manejo del Gitflow en nuestro proyecto, se llevó a cabo de la siguiente manera:
 
-Durante el desarrollo del proyecto, establecimos una rama ‘develop’ que sirvió como base para las versiones finales de cada feature que íbamos desarrollando. A partir de esta rama ‘develop’, creamos ramas individuales para cada feature específico.
+Durante el desarrollo del proyecto, establecimos una rama develop que sirvió como base para las versiones finales de cada feature que íbamos desarrollando. A partir de esta rama develop, creamos ramas individuales para cada feature específico.
 
 Nuestro flujo de trabajo se estructuró de la siguiente manera:
 
-Identificamos el ‘bounded context’ en el que íbamos a trabajar.
-Definimos el feature del ‘bounded context’ que íbamos a desarrollar.
+Identificamos el bounded context en el que íbamos a trabajar.
+Definimos el feature del bounded context que íbamos a desarrollar.
 Nos desplazamos a la rama correspondiente a ese feature.
-Realizamos un ‘merge’ para traer todo el contenido de ‘develop’ a la rama del feature.
+Realizamos un merge para traer todo el contenido de develop a la rama del feature.
 Trabajamos en el desarrollo del feature, asegurándonos de que cada cambio o mejora se reflejara en él.
 Verificamos la correcta ejecución del feature, probando su funcionalidad y rendimiento.
-Una vez que el feature estaba correctamente desarrollado y probado, realizamos un ‘merge’ para pasar todos los cambios (commits) a la rama ‘develop’.
+Una vez que el feature estaba correctamente desarrollado y probado, realizamos un merge para pasar todos los cambios (commits) a la rama develop.
 Este proceso se repitió para cada feature, permitiéndonos desarrollar nuestra aplicación web de manera eficiente y ordenada. Nos aseguramos de que cada feature se implementara correctamente antes de integrarlo en la versión principal.
 
 captura...............
@@ -1735,24 +1735,28 @@ captura sprint........
 Nuestro equipo adoptó las siguientes convenciones y guías de estilo para garantizar un código fuente coherente, legible y mantenible en los diferentes lenguajes y tecnologías utilizados en nuestra solución:
 
 
-HTML:
-•	Se utilizó la sangría adecuada y un formato limpio para mejorar la legibilidad.
-•	Se incluyó comentarios descriptivos cuando fue necesario, especialmente en secciones relacionadas con la estructura de la aplicación web y la renderización de componentes.
-•	Se utilizó etiquetas semánticas adecuadas para mejorar la accesibilidad.
+HTML: 
+• Se adoptó la “HTML Style Guide and Coding Conventions” para garantizar un código HTML coherente y legible. 
+• Se utilizó la nomenclatura en inglés para los nombres de las clases y los ID. 
+• Se utilizó etiquetas semánticas adecuadas para mejorar la accesibilidad y la comprensión del código. 
 
-CSS:
-•	Se prefirió el uso de abreviaturas y valores numéricos sin unidades cuando sea posible.
-•	Se utilizaron comentarios para separar y organizar secciones del código CSS.
-•	Se aplicaron principios de diseño responsivo y accesibilidad en los estilos.
+CSS: 
+• Se adoptó la “Google HTML/CSS Style Guide” para garantizar un código CSS coherente y legible. 
+• Se prefirió el uso de abreviaturas y valores numéricos sin unidades cuando sea posible. 
+• Se aplicaron principios de diseño responsivo y accesibilidad en los estilos.
 
-JavaScript:
-•	Las declaraciones de variables se realizaron al principio de su ámbito.
-•	Se prefirió el uso de const y let sobre var.
-•	Se incluyó comentarios descriptivos para explicar la funcionalidad de componentes, servicios y secciones complejas.
-•	Se aplicaron principios de programación reactiva y patrones de diseño adecuados para la construcción de la aplicación web.
+JavaScript y TypeScript: 
+• Se adoptó la “Google TypeScript Style Guide” y el “Angular coding style guide” para garantizar un código JavaScript y TypeScript coherente y legible. 
+• Las declaraciones de variables se realizaron al principio de su ámbito. 
+• Se prefirió el uso de const y let sobre var. 
+• Se utilizó la notación de camelCase para nombrar variables y funciones. 
+
+Gherkin: 
+• Se adoptaron las “Gherkin Conventions for Readable Specifications”. 
+• Se utilizó un lenguaje claro para los escenarios y los pasos. 
+• Se utilizó la nomenclatura en inglés para los nombres de los escenarios y los pasos.
 
 
-Para la gestión de versiones, adoptamos el flujo de trabajo Gitflow, que define un modelo estricto de ramificación enfocado en la publicación del proyecto. Este enfoque permitió a nuestro equipo trabajar independientemente en funcionalidades, correcciones de errores y otras tareas sin afectar el trabajo de los demás. Creamos ramas separadas para cada capítulo. Estas ramas se fusionaron con la rama principal (main) para su despliegue. Gitflow aumentó la velocidad de entrega, disminuyó los errores al mezclar ramas, eliminó dependencias al entregar código y nos proporcionó un control riguroso sobre versiones y cambios.
 
 #### 5.1.4.   Software Deployment Configuration.
 
