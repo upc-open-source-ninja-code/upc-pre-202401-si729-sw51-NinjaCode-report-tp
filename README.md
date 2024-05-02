@@ -72,9 +72,9 @@ Este enfoque colaborativo no solo fortaleció la calidad del informe, sino que t
 
 TP1:
 
- En la segunda entrega de nuestro informe de proyecto, continuamos con nuestro enfoque colaborativo y centrado en la mejora continua. Utilizamos un proceso similar al de la primera entrega, donde cada miembro del equipo asumió la responsabilidad de corregir las partes del informe señaladas por el profesor para mejorar su calidad y precisión. A través de un esfuerzo conjunto, abordamos estas correcciones, asegurando que el informe reflejara de manera precisa los avances y desarrollos de nuestro proyecto.  
+En la segunda entrega de nuestro informe de proyecto, continuamos con nuestro enfoque colaborativo y centrado en la mejora continua. Utilizamos un proceso similar al de la primera entrega, donde cada miembro del equipo asumió la responsabilidad de corregir las partes del informe señaladas por el profesor para mejorar su calidad y precisión. A través de un esfuerzo conjunto, abordamos estas correcciones, asegurando que el informe reflejara de manera precisa los avances y desarrollos de nuestro proyecto.
  
-Durante este período, manteníamos una comunicación constante a través de reuniones en Discord y colaborábamos estrechamente para superar cualquier desafío que enfrentáramos. La retroalimentación mutua y el apoyo continuo fueron fundamentales para resolver los problemas de manera efectiva y asegurar que tanto el informe como la aplicación web reflejaran con precisión nuestros logros y progresos.  
+Durante este período, manteníamos una comunicación constante a través de reuniones en Discord y colaborábamos estrechamente para superar cualquier desafío que enfrentáramos. La retroalimentación mutua y el apoyo continuo fueron fundamentales para resolver los problemas de manera efectiva y asegurar que tanto el informe como la aplicación web reflejaran con precisión nuestros logros y progresos.
 
 Para respaldar nuestra colaboración y transparencia, presentamos una imagen de los commits en GitHub, demostrando nuestro compromiso con la participación activa y la responsabilidad compartida en el desarrollo del informe y la aplicación. 
 
@@ -263,8 +263,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 |Criterio específico|Acciones realizadas|Conclusiones|
 | - | - | - |
-|c1. Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|<p>**Astuyauri Calderon Jherson David**	</p><p>TB1: Para esta entrega, me enfoqué en comunicar oralmente el problem statement y los resúmenes de entrevistas a mi equipo. Durante nuestras reuniones, aseguré que mi presentación fuera clara y accesible para todos los niveles jerárquicos y especialidades, facilitando así una comprensión común de los desafíos y objetivos del proyecto.<p>TP1:Al trabajar en equipo me he comunicado de forma asertiva y clara con mis compañeros para coordinar los avances, mejoras y demás del desarrollo de la aplicación web en el segundo sprint. </p>  	</p><p>**Chinchihualpa Saldarriaga Luis Sebastian**	</p><p>TB1: En este trabajo, presenté oralmente nuestras ideas y enfoques durante el proceso de selección del tema del proyecto a diversos públicos, incluyendo desarrolladores, médicos y pacientes. Me aseguré de adaptar mi lenguaje para garantizar que los conceptos técnicos y médicos fueran entendidos adecuadamente por todos, especialmente durante las entrevistas a médicos endocrinólogos para definir claramente las funcionalidades necesarias. </p> <p>TP1: En reuniones de equipo, comuniqué de manera clara y objetiva el progreso y los desafíos del proyecto, adaptando mi enfoque según la audiencia. Utilicé medios audiovisuales adecuados y facilité sesiones de retroalimentación para fomentar la colaboración y la comprensión. Antes de emitir juicios críticos, escuché activamente a mis compañeros y buscando siempre la conciliación para avanzar de manera efectiva en el proyecto.</p> <p>**Lostaunau Pereira Estéfano Sebatián**</p><p>TB1: Para esta primera entrega, me encargué de presentar oralmente nuestras Hypothesis Statements y User Stories al equipo y a los stakeholders, explicando cómo nuestras estrategias competirían en el mercado. Además, comuniqué los detalles de los Class Diagrams y el Database Diagram asegurándome de que todos los niveles técnicos y no técnicos entendieran nuestra propuesta de arquitectura y diseño de datos. </p> <p>TP1: Para esta entrega, me encargué de presentar oralmente el perfil de paciente. Me comuniqué técnicamente para expresar mis ideas para mejorar el desarrollo del proyecto. </p> <p>**Quispesivana Torres Claudio Sandro**</p><p>TB1: Para el desarrollo de nuestra guía de estilos, presenté y justifiqué la selección de colores y diseños durante las reuniones con el equipo y stakeholders, explicando cómo estos elementos influirían positivamente en la experiencia de los usuarios, tanto pacientes como médicos. Me aseguré de que todos los participantes comprendieran la importancia de una interfaz amigable y acorde a las necesidades del usuario.</p><p> TP1: Durante nuestra colaboración en equipo, me he enfocado en mantener una comunicación abierta y clara, compartiendo de manera efectiva los avances y desafíos del proyecto. He adaptado mi estilo de comunicación según las preferencias y necesidades del grupo, utilizando herramientas visuales y facilitando sesiones de retroalimentación para promover la colaboración y el entendimiento mutuo. </p><p>**Sebastian Valente Lobato Pozo:**</p><p>TB1: En esta entrega, fui responsable de comunicar los avances de nuestros Lean UX Canvas y de compartir los insights obtenidos de las entrevistas con pacientes durante las reuniones de equipo. Presenté los mock-ups de la aplicación web, asegurándome de que cada elemento fuera comprendido claramente por todos los miembros del equipo, facilitando así una visión integrada y coherente del proyecto. </p>|<br>En conclusión, durante la fase inicial del proyecto hemos integrado las ideas y esfuerzos de todos los miembros del equipo, asegurando que nuestras actividades estén alineadas con los objetivos y parámetros establecidos. Esta colaboración ha sido fundamental para avanzar en el desarrollo del proyecto de manera efectiva y enfocada.|
-|c2. Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|<p>**Astuyauri Calderon Jherson David**	</p><p>TB1: En esta entrega, me dediqué a la elaboración de customer journey mappings y los escenarios As is y To be para ambos segmentos objetivos, asegurándome de documentar estos procesos de manera clara y detallada. Redacté las historias de usuario, el product backlog y los detalles del Sprint I, presentando la información de manera que fuera accesible y comprensible para todos los miembros del equipo y stakeholders, independientemente de su especialidad técnica.</p><p>TP1: En esta entrega, contribuí al colocar varias ideas en onenote para definir los nombres de cada feature. También, anotar las cosas que debemos mejorar y algunos puntos importantes que debemos tener en cuenta para esta segunda entrega.</p><p>**Chinchihualpa Saldarriaga Luis Sebastian**	</p><p>TB1: Utilizo un lenguaje claro y conciso al redactar los informes de progreso y documentación técnica relacionada con el proyecto. Me aseguro de que la información esté organizada de manera lógica y fácil de entender para diferentes audiencias, adaptando el nivel de detalle y tecnicismo según sea necesario. Además, mantengo una postura objetiva al presentar resultados y conclusiones, respaldando mis afirmaciones con datos y evidencia cuando sea posible. </p><p>TP1: Durante la segunda entrega del proyecto, me centré en comunicar de manera clara y objetiva las ideas y los resultados a través de la documentación revisada y mejorada, así como en la web application desarrollada. Aseguré que la información fuera comprensible para diferentes audiencias, buscando retroalimentación para garantizar la precisión y utilidad de lo comunicado.</p><p>**Lostaunau Pereira Estéfano Sebatián**</p><p>TB1: Contribuí activamente redactando secciones clave de nuestra documentación técnica y reportes de progreso. Mi enfoque estuvo en garantizar que la comunicación escrita reflejara objetividad y claridad, adecuando el contenido a las necesidades de comprensión de nuestros diversos stakeholders, desde ingenieros hasta inversores y usuarios finales.</p></p> <p>TP1: Para esta entrega, me comuniqué de manera clara y especifica para desarrollar mis ideas, contribuyendo con el desarrollo de nuestra aplicacion web. </p> <p>**Sebastian Valente Lobato Pozo:**</p><p>TB1: Durante esta entrega, fui responsable de documentar el proceso de los Lean UX Canvas y las entrevistas realizadas al segmento de pacientes. Me aseguré de que todos los detalles estuvieran claramente redactados, permitiendo que el equipo y los stakeholders comprendieran los objetivos y los insights obtenidos. También contribuí a la redacción detallada de las especificaciones para los mock-ups de la aplicación web.<br>**Quispesivana Torres Claudio Sandro**</p><p>TB1: En mi contribución a la aplicación de wireframes y mock-ups, me enfoqué en redactar documentos que siguieran las Style Guidelines y Architecture Information establecidas. Aseguré que la documentación fuera precisa y fácil de entender, permitiendo que tanto desarrolladores técnicos como personal no técnico pudieran seguir y comprender las especificaciones y el impacto visual propuesto para la aplicación.</p><p> TP1: Para esta entrega, me enfoque en el desarrollo de una Fake API con la contribución de mis compañeros al momento de escoger que datos serían los más relevantes a la hora de hacer validaciones en la aplicación. Además de la contribución para el feature doctor-doctor-collaboration dentro del bounded context Comunication Managment.</p>|<br>En resumen, en esta etapa del proyecto nos enfocamos en realizar el desarrollo tanto del reporte como de la aplicación web de manera colaborativa, con cada miembro del equipo trabajando en sus respectivas ramas y coordinando los cambios para prevenir conflictos que surgieron durante la depuración en el framework Angular, especialmente en la capa de presentación para los usuarios. |
+|c1. Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|<p>**Astuyauri Calderon Jherson David**	</p><p>TB1: Para esta entrega, me enfoqué en comunicar oralmente el problem statement y los resúmenes de entrevistas a mi equipo. Durante nuestras reuniones, aseguré que mi presentación fuera clara y accesible para todos los niveles jerárquicos y especialidades, facilitando así una comprensión común de los desafíos y objetivos del proyecto.<p>TP1:Al trabajar en equipo me he comunicado de forma asertiva y clara con mis compañeros para coordinar los avances, mejoras y demás del desarrollo de la aplicación web en el segundo sprint. </p>  	</p><p>**Chinchihualpa Saldarriaga Luis Sebastian**	</p><p>TB1: En este trabajo, presenté oralmente nuestras ideas y enfoques durante el proceso de selección del tema del proyecto a diversos públicos, incluyendo desarrolladores, médicos y pacientes. Me aseguré de adaptar mi lenguaje para garantizar que los conceptos técnicos y médicos fueran entendidos adecuadamente por todos, especialmente durante las entrevistas a médicos endocrinólogos para definir claramente las funcionalidades necesarias. </p> <p>TP1: En reuniones de equipo, comuniqué de manera clara y objetiva el progreso y los desafíos del proyecto, adaptando mi enfoque según la audiencia. Utilicé medios audiovisuales adecuados y facilité sesiones de retroalimentación para fomentar la colaboración y la comprensión. Antes de emitir juicios críticos, escuché activamente a mis compañeros y buscando siempre la conciliación para avanzar de manera efectiva en el proyecto.</p> <p>**Lostaunau Pereira Estéfano Sebatián**</p><p>TB1: Para esta primera entrega, me encargué de presentar oralmente nuestras Hypothesis Statements y User Stories al equipo y a los stakeholders, explicando cómo nuestras estrategias competirían en el mercado. Además, comuniqué los detalles de los Class Diagrams y el Database Diagram asegurándome de que todos los niveles técnicos y no técnicos entendieran nuestra propuesta de arquitectura y diseño de datos. </p> <p>TP1: Para esta entrega, me encargué de presentar oralmente el perfil de paciente. Me comuniqué técnicamente para expresar mis ideas para mejorar el desarrollo del proyecto. </p> <p>**Quispesivana Torres Claudio Sandro**</p><p>TB1: Para el desarrollo de nuestra guía de estilos, presenté y justifiqué la selección de colores y diseños durante las reuniones con el equipo y stakeholders, explicando cómo estos elementos influirían positivamente en la experiencia de los usuarios, tanto pacientes como médicos. Me aseguré de que todos los participantes comprendieran la importancia de una interfaz amigable y acorde a las necesidades del usuario.</p><p> TP1: Durante nuestra colaboración en equipo, me he enfocado en mantener una comunicación abierta y clara, compartiendo de manera efectiva los avances y desafíos del proyecto. He adaptado mi estilo de comunicación según las preferencias y necesidades del grupo, utilizando herramientas visuales y facilitando sesiones de retroalimentación para promover la colaboración y el entendimiento mutuo. </p><p>**Sebastian Valente Lobato Pozo:**</p><p>TB1: En esta entrega, fui responsable de comunicar los avances de nuestros Lean UX Canvas y de compartir los insights obtenidos de las entrevistas con pacientes durante las reuniones de equipo. Presenté los mock-ups de la aplicación web, asegurándome de que cada elemento fuera comprendido claramente por todos los miembros del equipo, facilitando así una visión integrada y coherente del proyecto. </p>|<br>TB1:  En conclusión, durante la fase inicial del proyecto hemos integrado las ideas y esfuerzos de todos los miembros del equipo, asegurando que nuestras actividades estén alineadas con los objetivos y parámetros establecidos. Esta colaboración ha sido fundamental para avanzar en el desarrollo del proyecto de manera efectiva y enfocada.<br> TP1: En el trabajo de profundización, hemos consolidado y ampliado nuestra capacidad para comunicar oralmente ideas y resultados de manera objetiva a audiencias diversas, incluyendo diferentes especialidades y niveles jerárquicos. Durante el Sprint 2, enfocado en la implementación de las historias de usuario core, hemos mejorado nuestra habilidad para transmitir con claridad y precisión el progreso del proyecto, así como para recibir y responder a retroalimentación constructiva. Esta fase ha evidenciado un nivel avanzado de comunicación oral, fundamental para el éxito continuo del proyecto de ingeniería.|
+|c2. Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|<p>**Astuyauri Calderon Jherson David**	</p><p>TB1: En esta entrega, me dediqué a la elaboración de customer journey mappings y los escenarios As is y To be para ambos segmentos objetivos, asegurándome de documentar estos procesos de manera clara y detallada. Redacté las historias de usuario, el product backlog y los detalles del Sprint I, presentando la información de manera que fuera accesible y comprensible para todos los miembros del equipo y stakeholders, independientemente de su especialidad técnica.</p><p>TP1: En esta entrega, contribuí al colocar varias ideas en onenote para definir los nombres de cada feature. También, anotar las cosas que debemos mejorar y algunos puntos importantes que debemos tener en cuenta para esta segunda entrega.</p><p>**Chinchihualpa Saldarriaga Luis Sebastian**	</p><p>TB1: Utilizo un lenguaje claro y conciso al redactar los informes de progreso y documentación técnica relacionada con el proyecto. Me aseguro de que la información esté organizada de manera lógica y fácil de entender para diferentes audiencias, adaptando el nivel de detalle y tecnicismo según sea necesario. Además, mantengo una postura objetiva al presentar resultados y conclusiones, respaldando mis afirmaciones con datos y evidencia cuando sea posible. </p><p>TP1: Durante la segunda entrega del proyecto, me centré en comunicar de manera clara y objetiva las ideas y los resultados a través de la documentación revisada y mejorada, así como en la web application desarrollada. Aseguré que la información fuera comprensible para diferentes audiencias, buscando retroalimentación para garantizar la precisión y utilidad de lo comunicado.</p><p>**Lostaunau Pereira Estéfano Sebatián**</p><p>TB1: Contribuí activamente redactando secciones clave de nuestra documentación técnica y reportes de progreso. Mi enfoque estuvo en garantizar que la comunicación escrita reflejara objetividad y claridad, adecuando el contenido a las necesidades de comprensión de nuestros diversos stakeholders, desde ingenieros hasta inversores y usuarios finales.</p></p> <p>TP1: Para esta entrega, me comuniqué de manera clara y especifica para desarrollar mis ideas, contribuyendo con el desarrollo de nuestra aplicacion web. </p> <p>**Sebastian Valente Lobato Pozo:**</p><p>TB1: Durante esta entrega, fui responsable de documentar el proceso de los Lean UX Canvas y las entrevistas realizadas al segmento de pacientes. Me aseguré de que todos los detalles estuvieran claramente redactados, permitiendo que el equipo y los stakeholders comprendieran los objetivos y los insights obtenidos. También contribuí a la redacción detallada de las especificaciones para los mock-ups de la aplicación web.<br>**Quispesivana Torres Claudio Sandro**</p><p>TB1: En mi contribución a la aplicación de wireframes y mock-ups, me enfoqué en redactar documentos que siguieran las Style Guidelines y Architecture Information establecidas. Aseguré que la documentación fuera precisa y fácil de entender, permitiendo que tanto desarrolladores técnicos como personal no técnico pudieran seguir y comprender las especificaciones y el impacto visual propuesto para la aplicación.</p><p> TP1: Para esta entrega, me enfoque en el desarrollo de una Fake API con la contribución de mis compañeros al momento de escoger que datos serían los más relevantes a la hora de hacer validaciones en la aplicación. Además de la contribución para el feature doctor-doctor-collaboration dentro del bounded context Comunication Managment.</p>|<br>TB1: En resumen, en esta etapa del proyecto nos enfocamos en realizar el desarrollo tanto del reporte como de la aplicación web de manera colaborativa, con cada miembro del equipo trabajando en sus respectivas ramas y coordinando los cambios para prevenir conflictos que surgieron durante la depuración en el framework Angular, especialmente en la capa de presentación para los usuarios.<br> TP1: En el trabajo de profundización, hemos avanzado significativamente en nuestra habilidad para comunicar de manera escrita ideas y resultados de manera objetiva, adaptándonos a públicos de diferentes especialidades y niveles jerárquicos. Durante la colaboración en el desarrollo del reporte y la aplicación web, hemos perfeccionado nuestra capacidad para coordinar cambios y prevenir conflictos, especialmente en la depuración en Angular. Este avance evidencia una comunicación escrita más efectiva y precisa, crucial para el éxito continuo del proyecto en ingeniería.|
 
 ### 1.1. Startup Profile
 #### 1.1.1.Descripción de la Startup
@@ -1610,6 +1610,26 @@ Link: [https://www.figma.com/file/5bhJ7aAWlbKHEJgjVZ8Gfc/ninjacode?type=design&n
 
 ## 4.7.      Software Object-Oriented Design.
 ### 4.7.1.   Class Diagrams.
+
+
+#### Identity & Access Class Diagram
+![](images/Identity&Access_diagram.png)
+#### Profile Class Diagram
+![](images/Profile_diagram.png)
+#### Communication Class Diagram
+![](images/Communication_diagram.png)
+#### Subscription and Payments Class Diagram
+![](images/SubscriptionandPayments_diagram.png)
+#### Medical Appointment Class Diagram
+![](images/MedicalAppointment_diagram.png)
+#### History Medical Class Diagram
+![](images/HistoryMedical_diagram.png)
+#### Calendar Class Diagram
+![](images/Calendar_diagram.png)
+#### Notification Class Diagram
+![](images/Notification_diagram.png)
+
+#### Class Diagram
 ![](images/ClassDiagrams.png)
 
 Link: [https://lucid.app/lucidchart/abe981e7-1c29-4d33-af25-1a2ba48c3300/edit?viewport_loc=-7598%2C-884%2C3976%2C2123%2C0_0&invitationId=inv_34e168e9-90db-4b20-9ca7-1c81ca7a0310](https://lucid.app/lucidchart/abe981e7-1c29-4d33-af25-1a2ba48c3300/edit?viewport_loc=-7598%2C-884%2C3976%2C2123%2C0_0&invitationId=inv_34e168e9-90db-4b20-9ca7-1c81ca7a0310)
@@ -1643,6 +1663,31 @@ Link: [https://lucid.app/lucidchart/abe981e7-1c29-4d33-af25-1a2ba48c3300/edit?vi
 ## 4.8.      Database Design.
 ### 4.8.1.   Database Diagram.
 
+
+#### Identity & Access Database Diagram
+![](images/Identity&Access_databasediagram.png)
+#### Profile Database Diagram
+![](images/Profile_databasediagram.png)
+#### Communication Database Diagram
+![](images/Communication_databasediagram.png)
+#### Subscription and Payments Database Diagram
+![](images/SubscriptionandPayments_databasediagram.png)
+#### Medical Appointment Database Diagram
+![](images/MedicalAppointment_databasediagram.png)
+#### History Medical Database Diagram
+![](images/HistoryMedical_databasediagram.png)
+#### Calendar Database Diagram
+![](images/Calendar_databasediagram.png)
+#### Notification Database Diagram
+![](images/Notification_databasediagram.png)
+
+
+
+
+
+
+
+#### Database Diagram
 ![](images/DatabaseDiagram.png)
 
 Link: [https://upcedupe-my.sharepoint.com/:b:/g/personal/u202211742_upc_edu_pe/ERqeXmr72tpJsapVhOFRtwUBSZTw8gd5x9iD1lB0_XhtLw?e=lFrKWs](https://upcedupe-my.sharepoint.com/:b:/g/personal/u202211742_upc_edu_pe/ERqeXmr72tpJsapVhOFRtwUBSZTw8gd5x9iD1lB0_XhtLw?e=lFrKWs)
@@ -1654,34 +1699,56 @@ Link: [https://upcedupe-my.sharepoint.com/:b:/g/personal/u202211742_upc_edu_pe/E
 
 **Project Management:**
 
-Trello: Además de ser utilizado para la gestión de tareas, Trello sirvió como una herramienta integral de gestión de proyectos, permitiendo la asignación de tareas, la definición de fechas límite y el seguimiento del progreso de manera colaborativa. https://trello.com/signup
+Trello: Además de ser utilizado para la gestión de tareas, Trello sirvió como una herramienta integral de gestión de proyectos, permitiendo la asignación de tareas, la definición de fechas límite y el seguimiento del progreso de manera colaborativa. 
 
-Structurizr: Empleado para crear diagramas de arquitectura de software y documentación de la arquitectura del sistema, lo cual puede ser útil para la gestión de aspectos técnicos del proyecto. https://structurizr.com/
+https://trello.com/signup
 
-Microsoft Stream (Videos): Utilizado para la publicación, almacenamiento y compartición de videos relacionados con el proyecto. Esta plataforma nos permite como equipo centralizar todos nuestros recursos visuales. https://www.microsoft.com/en-us/microsoft-365/microsoft-stream
+Structurizr: Empleado para crear diagramas de arquitectura de software y documentación de la arquitectura del sistema, lo cual puede ser útil para la gestión de aspectos técnicos del proyecto. 
 
-Google Drive: Utilizado para el almacenamiento y colaboración de documentos, archivos y recursos del proyecto. https://www.google.com/drive/
+https://structurizr.com/
 
-GitHub Desktop: Utilizado para la gestión del control de versiones del código fuente, facilitando la colaboración entre el equipo de desarrollo. https://desktop.github.com/
+Microsoft Stream (Videos): Utilizado para la publicación, almacenamiento y compartición de videos relacionados con el proyecto. Esta plataforma nos permite como equipo centralizar todos nuestros recursos visuales. 
 
-Google Forms: Utilizamos Google Forms para recopilar retroalimentación y realizar encuestas de usuarios. Google Forms nos permitió recoger datos relevantes sobre la experiencia de los usuarios y las necesidades del cliente, lo que influyó en el diseño y desarrollo del producto. https://www.google.com/forms/about/
+https://www.microsoft.com/en-us/microsoft-365/microsoft-stream
+
+Google Drive: Utilizado para el almacenamiento y colaboración de documentos, archivos y recursos del proyecto. 
+
+https://www.google.com/drive/
+
+GitHub Desktop: Utilizado para la gestión del control de versiones del código fuente, facilitando la colaboración entre el equipo de desarrollo. 
+
+https://desktop.github.com/
+
+Google Forms: Utilizamos Google Forms para recopilar retroalimentación y realizar encuestas de usuarios. Google Forms nos permitió recoger datos relevantes sobre la experiencia de los usuarios y las necesidades del cliente, lo que influyó en el diseño y desarrollo del producto. 
+
+https://www.google.com/forms/about/
 
 
 **Requirements Management:**
 
-Miro: Utilizamos Miro como herramienta principal para la gestión de requisitos. En Miro, creamos mapas mentales y diagramas que ayudaron a visualizar y organizar los requisitos del proyecto, incluyendo características, funcionalidades y objetivos clave. https://miro.com/signup/
+Miro: Utilizamos Miro como herramienta principal para la gestión de requisitos. En Miro, creamos mapas mentales y diagramas que ayudaron a visualizar y organizar los requisitos del proyecto, incluyendo características, funcionalidades y objetivos clave. 
 
-Lucidchart: Además, utilizamos Lucidchart como herramienta para realizar diagramas y documentación. https://www.lucidchart.com/users/register
+https://miro.com/signup/
+
+Lucidchart: Además, utilizamos Lucidchart como herramienta para realizar diagramas y documentación. 
+
+https://www.lucidchart.com/users/register
 
 
 
 **Product UX/UI Design:** 
 
-Figma: Empleamos Figma para el diseño de la interfaz de usuario (UI) y la experiencia de usuario (UX) de la aplicación HormonalCare. Figma permitió la creación de prototipos, wireframes y diseños visuales que guiarán el desarrollo del producto final. https://www.figma.com/signup
+Figma: Empleamos Figma para el diseño de la interfaz de usuario (UI) y la experiencia de usuario (UX) de la aplicación HormonalCare. Figma permitió la creación de prototipos, wireframes y diseños visuales que guiarán el desarrollo del producto final. 
 
-UXPressia: Utilizamos UXPressia como herramienta especializada en la creación de mapas de experiencia de usuario, perfiles de clientes y otros elementos relacionados con el diseño de UX. UXPressia nos permitió visualizar y comprender la experiencia del usuario en profundidad, ayudando a mejorar la usabilidad y el diseño de la aplicación. https://uxpressia.com
+https://www.figma.com/signup
 
-Canva: Incorporamos Canva en la etapa de diseño para la creación de recursos gráficos adicionales, como imágenes, gráficos y presentaciones, que mejoró la estética y la presentación del producto. https://www.canva.com/signup
+UXPressia: Utilizamos UXPressia como herramienta especializada en la creación de mapas de experiencia de usuario, perfiles de clientes y otros elementos relacionados con el diseño de UX. UXPressia nos permitió visualizar y comprender la experiencia del usuario en profundidad, ayudando a mejorar la usabilidad y el diseño de la aplicación. 
+
+https://uxpressia.com
+
+Canva: Incorporamos Canva en la etapa de diseño para la creación de recursos gráficos adicionales, como imágenes, gráficos y presentaciones, que mejoró la estética y la presentación del producto. 
+
+https://www.canva.com/signup
 
 
 
@@ -1689,24 +1756,39 @@ Canva: Incorporamos Canva en la etapa de diseño para la creación de recursos g
 **Software Development:**
 
 IDE (Entorno de Desarrollo Integrado): 
-• Visual Studio Code: Utilizado como nuestro IDE para el desarrollo de la landing page, debido a su capacidad para facilitar el desarrollo web moderno y eficiente. https://code.visualstudio.com/download
+• Visual Studio Code: Utilizado como nuestro IDE para el desarrollo de la landing page, debido a su capacidad para facilitar el desarrollo web moderno y eficiente. 
 
-• WebStorm: Empleado como entorno de desarrollo integrado (IDE) adicional para el desarrollo de nuestra aplicación Single Page Application. https://www.jetbrains.com/webstorm/download/
+https://code.visualstudio.com/download
 
-• IntelliJ IDEA: Utilizado para realizar el backend con Java, aprovechando sus características avanzadas para el desarrollo en este lenguaje. https://www.jetbrains.com/idea/download/
+• WebStorm: Empleado como entorno de desarrollo integrado (IDE) adicional para el desarrollo de nuestra aplicación Single Page Application. 
 
-Control de Versiones: Git será fundamental para el control de versiones del código fuente. La integración nativa con sistemas de control de versiones como Git también es crucial para nuestra gestión de proyectos, lo cual, nos permitió un control preciso de nuestro código fuente y facilitando la colaboración entre el equipo de desarrollo. https://git-scm.com/downloads
+https://www.jetbrains.com/webstorm/download/
 
-Gestión de Dependencias: Usamos npm (Node Package Manager) para gestionar las dependencias del proyecto, incluyendo bibliotecas y paquetes necesarios para el desarrollo. https://docs.npmjs.com/about-npm-versions
+• IntelliJ IDEA: Utilizado para realizar el backend con Java, aprovechando sus características avanzadas para el desarrollo en este lenguaje. 
+
+https://www.jetbrains.com/idea/download/
+
+Control de Versiones: Git será fundamental para el control de versiones del código fuente. La integración nativa con sistemas de control de versiones como Git también es crucial para nuestra gestión de proyectos, lo cual, nos permitió un control preciso de nuestro código fuente y facilitando la colaboración entre el equipo de desarrollo. 
+
+https://git-scm.com/downloads
+
+Gestión de Dependencias: Usamos npm (Node Package Manager) para gestionar las dependencias del proyecto, incluyendo bibliotecas y paquetes necesarios para el desarrollo. 
+
+https://docs.npmjs.com/about-npm-versions
 
 
 
 
 **Software Documentation:**
 
-GitHub: Empleamos GitHub como plataforma principal para la documentación del código y la colaboración en el desarrollo. Utilizamos el README.md para documentar el proceso de desarrollo. https://github.com/join
+GitHub: Empleamos GitHub como plataforma principal para la documentación del código y la colaboración en el desarrollo. Utilizamos el README.md para documentar el proceso de desarrollo. 
 
-Structurizr: Empleado para crear diagramas de arquitectura de software y documentación de la arquitectura del sistema. https://structurizr.com/
+https://github.com/join
+
+
+Structurizr: Empleado para crear diagramas de arquitectura de software y documentación de la arquitectura del sistema. 
+
+https://structurizr.com/
 
 
   
@@ -1721,19 +1803,30 @@ Esta organización sirve como un espacio centralizado donde todos los miembros d
 A continuación, se presentan los repositorios:
 
 Project Report: Este repositorio contiene el informe del proyecto. En él se documentan todos los aspectos del proyecto, desde la concepción de la idea hasta la implementación final. Este informe es crucial para mantener a todos los miembros del equipo al tanto del progreso del proyecto y para proporcionar una referencia para futuras mejoras o modificaciones. 
+
 https://github.com/upc-open-source-ninja-code/upc-pre-202401-si729-sw51-NinjaCode-report-tp
 
+
 Landing Page: Este repositorio contiene el código fuente de la página de inicio del proyecto. La página de inicio es esencial para proporcionar a los usuarios una visión general de lo que ofrece el proyecto y para guiarlos a través de las diferentes características y funcionalidades disponibles.
+
 https://github.com/upc-open-source-ninja-code/Landing-Page
 
+
 Single Page Application: Este repositorio contiene el código fuente de la aplicación web principal del proyecto. Esta aplicación es el núcleo del proyecto y es donde los usuarios interactúan con las principales características y funcionalidades del proyecto.
+
 https://github.com/upc-open-source-ninja-code/Single-Page-Application
 
+
 Acceptance Test: Este repositorio contiene las pruebas de aceptación del proyecto. Estas pruebas son esenciales para garantizar que todas las características y funcionalidades del proyecto funcionan como se esperaba y para identificar y corregir cualquier problema o error que pueda surgir.
+
 https://github.com/upc-open-source-ninja-code/Acceptance-Test
 
+
 Web Application Deployed: Este repositorio es donde se aloja el enlace a la aplicación web desplegada del proyecto. Es donde se proporciona un enlace directo a la versión en línea de la aplicación, que ha sido desplegada utilizando el servicio de GitHub Pages. Este enlace permite a los usuarios acceder a la aplicación en un entorno de producción desde cualquier lugar y en cualquier momento. Este repositorio es esencial para aumentar la accesibilidad y usabilidad del proyecto, ya que permite que la aplicación sea accesible a una audiencia global en cualquier momento.
+
 https://github.com/upc-open-source-ninja-code/Web-Aplication-Deployed
+
+
 
 Como equipo, hemos dividido nuestro trabajo en varios repositorios para gestionar de manera más eficiente el código y facilitar la colaboración. Esta estructura nos permite centrarnos en tareas específicas sin interferir con el trabajo de los demás. Además, nos ayuda a seguir los cambios y a identificar problemas de manera eficaz, ya que cada cambio está asociado a una tarea específica en un repositorio determinado. Esta organización en GitHub es un reflejo de nuestro compromiso con la eficiencia, la colaboración y la calidad en nuestro proyecto.
 
