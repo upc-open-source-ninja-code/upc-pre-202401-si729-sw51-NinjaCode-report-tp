@@ -1760,7 +1760,10 @@ Gherkin:
 
 #### 5.1.4.   Software Deployment Configuration.
 
-Utilizamos el servicio GitHub Pages para desplegar la landing page de HormonalCare. Este servicio nos permitió hospedar nuestra landing page directamente desde nuestro repositorio de GitHub. Los pasos que seguimos:
+Landing Page: Utilizamos el servicio GitHub Pages para desplegar la landing page de NinjaCode. Este servicio nos permitió hospedar nuestra landing page directamente desde nuestro repositorio de GitHub.
+ 
+
+Los pasos que seguimos:
 
 1.	Después de haber integrado los cambios y nuevas versiones de la landing page en el repositorio, y de asegurarnos de que las ramas estén actualizadas, ingresaremos a la plataforma de GitHub y nos dirigiremos a nuestro repositorio del proyecto.
 2.	Dentro del repositorio, accedimos a la pestaña de "Settings" y buscamos la sección denominada "Pages" en el menú lateral.
@@ -1768,6 +1771,17 @@ Utilizamos el servicio GitHub Pages para desplegar la landing page de HormonalCa
 4.	Después de haber seleccionado la rama, confirmamos los cambios realizados, y GitHub realizo el proceso de despliegue de la landing page.
 5.	Una vez que el proceso de despliegue finalizó, GitHub nos proporcionó el enlace para ver nuestra landing page publicada ([https://upc-open-source-ninja-code.github.io/Landing-Page/index.html]( https://upc-open-source-ninja-code.github.io/Landing-Page/index.html)).
 
+
+Frontend Web Applications: Para desplegar las aplicaciones web de frontend, utilizaremos Vercel. Este servicio nos permitió  alojar nuestras aplicaciones directamente desde nuestro repositorio en GitHub. 
+
+
+Los pasos que seguimos:
+
+1. Tras integrar los cambios y las nuevas versiones de las aplicaciones en el repositorio, y asegurarnos de que las ramas estén actualizadas, ingresamos a la plataforma de Vercel y nos dirigimos a nuestro repositorio del proyecto.
+2.	Dentro del repositorio, accedemos a la pestaña “Settings” y buscamos la sección “Deploy” en el menú lateral.
+3.	En la sección “Deploy”, seleccionamos la rama main desde la cual se desplegará las aplicaciones.
+4.	Tras seleccionar la rama, confirmamos los cambios realizados, y Vercel realizo el proceso de despliegue de las aplicaciones.
+5.	Una vez finalizado el proceso de despliegue, Vercel nos proporcionó el enlace para ver nuestra frontend web applications publicadas ([]()).
 
 
 
