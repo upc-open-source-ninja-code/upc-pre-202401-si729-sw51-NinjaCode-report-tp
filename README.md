@@ -1660,11 +1660,11 @@ Canva: Incorporamos Canva en la etapa de diseño para la creación de recursos g
 **Software Development:**
 
 IDE (Entorno de Desarrollo Integrado): 
-Visual Studio Code: Utilizado como nuestro IDE principal para el desarrollo de la landing page, debido a su capacidad para facilitar el desarrollo web moderno y eficiente. https://code.visualstudio.com/download
+• Visual Studio Code: Utilizado como nuestro IDE para el desarrollo de la landing page, debido a su capacidad para facilitar el desarrollo web moderno y eficiente. https://code.visualstudio.com/download
 
-WebStorm: Empleado como entorno de desarrollo integrado (IDE) adicional para el desarrollo de nuestra aplicación Single Page Application. https://www.jetbrains.com/webstorm/download/
+• WebStorm: Empleado como entorno de desarrollo integrado (IDE) adicional para el desarrollo de nuestra aplicación Single Page Application. https://www.jetbrains.com/webstorm/download/
 
-IntelliJ IDEA: Utilizado para realizar el backend con Java, aprovechando sus características avanzadas para el desarrollo en este lenguaje. https://www.jetbrains.com/idea/download/
+• IntelliJ IDEA: Utilizado para realizar el backend con Java, aprovechando sus características avanzadas para el desarrollo en este lenguaje. https://www.jetbrains.com/idea/download/
 
 Control de Versiones: Git será fundamental para el control de versiones del código fuente. La integración nativa con sistemas de control de versiones como Git también es crucial para nuestra gestión de proyectos, lo cual, nos permitió un control preciso de nuestro código fuente y facilitando la colaboración entre el equipo de desarrollo. https://git-scm.com/downloads
 
@@ -1683,15 +1683,52 @@ Structurizr: Empleado para crear diagramas de arquitectura de software y documen
   
 #### 5.1.2.   Source Code Management.
 
-Para garantizar la eficiencia y evitar conflictos en el desarrollo de soluciones, los proyectos de NinjaCode se gestionaron en una organización de GitHub. Dentro de esta organización, se encuentran los repositorios correspondientes a cada proyecto. Aquí están los enlaces a los repositorios:
+Para garantizar la eficiencia y evitar conflictos en el desarrollo del proyecto, los productos de NinjaCode se gestionaron en una organización de GitHub.
 
-Landing page: [https://upc-open-source-ninja-code.github.io/Landing-Page/index.html](https://upc-open-source-ninja-code.github.io/Landing-Page/index.html)
+NinjaCode organization: https://github.com/upc-open-source-ninja-code
 
-Tests de Aceptación: [https://github.com/upc-open-source-ninja-code/Acceptance-Test](https://github.com/upc-open-source-ninja-code/Acceptance-Test)
+Esta organización sirve como un espacio centralizado donde todos los miembros del equipo pueden acceder y contribuir al código del proyecto. Dentro de esta organización, se encuentran los repositorios correspondientes a cada aspecto del proyecto. Cada repositorio tiene un propósito específico y juntos forman la estructura completa del proyecto.
 
-En cuanto al manejo del Gitflow, fue de la siguiente forma:
+A continuación, se presentan los repositorios:
 
-En el desarrollo de ‘HormonalCare’, cada cambio que se realizó en los archivos se marcó con un mensaje con el formato “Conventional Commits”. Esta práctica facilitó la identificación de los cambios realizados en cada commit, permitió un seguimiento más eficiente del proyecto. Además, este modelo incluye la rama main, que contuvo las versiones finales y estables del proyecto. Para mantener una organización clara del proyecto, se creó una rama específica para cada capítulo del proyecto. Esto permitió un seguimiento más detallado y una mejor organización del código."
+Project Report: Este repositorio contiene el informe del proyecto. En él se documentan todos los aspectos del proyecto, desde la concepción de la idea hasta la implementación final. Este informe es crucial para mantener a todos los miembros del equipo al tanto del progreso del proyecto y para proporcionar una referencia para futuras mejoras o modificaciones. 
+https://github.com/upc-open-source-ninja-code/upc-pre-202401-si729-sw51-NinjaCode-report-tp
+
+Landing Page: Este repositorio contiene el código fuente de la página de inicio del proyecto. La página de inicio es esencial para proporcionar a los usuarios una visión general de lo que ofrece el proyecto y para guiarlos a través de las diferentes características y funcionalidades disponibles.
+https://github.com/upc-open-source-ninja-code/Landing-Page
+
+Single Page Application: Este repositorio contiene el código fuente de la aplicación web principal del proyecto. Esta aplicación es el núcleo del proyecto y es donde los usuarios interactúan con las principales características y funcionalidades del proyecto.
+https://github.com/upc-open-source-ninja-code/Single-Page-Application
+
+Acceptance Test: Este repositorio contiene las pruebas de aceptación del proyecto. Estas pruebas son esenciales para garantizar que todas las características y funcionalidades del proyecto funcionan como se esperaba y para identificar y corregir cualquier problema o error que pueda surgir.
+https://github.com/upc-open-source-ninja-code/Acceptance-Test
+
+Web Application Deployed: Este repositorio es donde se aloja el enlace a la aplicación web desplegada del proyecto. Es donde se proporciona un enlace directo a la versión en línea de la aplicación, que ha sido desplegada utilizando el servicio de GitHub Pages. Este enlace permite a los usuarios acceder a la aplicación en un entorno de producción desde cualquier lugar y en cualquier momento. Este repositorio es esencial para aumentar la accesibilidad y usabilidad del proyecto, ya que permite que la aplicación sea accesible a una audiencia global en cualquier momento.
+https://github.com/upc-open-source-ninja-code/Web-Aplication-Deployed
+
+Como equipo, hemos dividido nuestro trabajo en varios repositorios para gestionar de manera más eficiente el código y facilitar la colaboración. Esta estructura nos permite centrarnos en tareas específicas sin interferir con el trabajo de los demás. Además, nos ayuda a seguir los cambios y a identificar problemas de manera eficaz, ya que cada cambio está asociado a una tarea específica en un repositorio determinado. Esta organización en GitHub es un reflejo de nuestro compromiso con la eficiencia, la colaboración y la calidad en nuestro proyecto.
+
+
+En relación al manejo del Gitflow en nuestro proyecto, se llevó a cabo de la siguiente manera:
+
+Durante el desarrollo del proyecto, establecimos una rama ‘develop’ que sirvió como base para las versiones finales de cada feature que íbamos desarrollando. A partir de esta rama ‘develop’, creamos ramas individuales para cada feature específico.
+
+Nuestro flujo de trabajo se estructuró de la siguiente manera:
+
+Identificamos el ‘bounded context’ en el que íbamos a trabajar.
+Definimos el feature del ‘bounded context’ que íbamos a desarrollar.
+Nos desplazamos a la rama correspondiente a ese feature.
+Realizamos un ‘merge’ para traer todo el contenido de ‘develop’ a la rama del feature.
+Trabajamos en el desarrollo del feature, asegurándonos de que cada cambio o mejora se reflejara en él.
+Verificamos la correcta ejecución del feature, probando su funcionalidad y rendimiento.
+Una vez que el feature estaba correctamente desarrollado y probado, realizamos un ‘merge’ para pasar todos los cambios (commits) a la rama ‘develop’.
+Este proceso se repitió para cada feature, permitiéndonos desarrollar nuestra aplicación web de manera eficiente y ordenada. Nos aseguramos de que cada feature se implementara correctamente antes de integrarlo en la versión principal.
+
+captura...............
+
+Además, para la organización de los sprints y la gestión del producto backlog, utilizamos la herramienta Trello. Esta nos permitió dividir el trabajo de manera eficiente. Cada miembro del equipo se encargó de una parte específica, avanzando en su respectiva área de acuerdo a los story points asignados. De esta manera, pudimos darle prioridad a las tareas más relevantes y asegurar un progreso constante en nuestro proyecto. Adicionalmente, realizamos revisiones grupales de manera periódica. Estas sesiones nos permitieron consolidar nuestro trabajo de la mejor manera posible.
+
+captura sprint........
 
 
 #### 5.1.3.   Source Code Style Guide & Conventions.
