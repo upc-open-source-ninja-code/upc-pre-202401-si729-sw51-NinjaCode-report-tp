@@ -1724,11 +1724,12 @@ Verificamos la correcta ejecución del feature, probando su funcionalidad y rend
 Una vez que el feature estaba correctamente desarrollado y probado, realizamos un merge para pasar todos los cambios (commits) a la rama develop.
 Este proceso se repitió para cada feature, permitiéndonos desarrollar nuestra aplicación web de manera eficiente y ordenada. Nos aseguramos de que cada feature se implementara correctamente antes de integrarlo en la versión principal.
 
-captura...............
+<img src="images/networkgragh.png">
 
 Además, para la organización de los sprints y la gestión del producto backlog, utilizamos la herramienta Trello. Esta nos permitió dividir el trabajo de manera eficiente. Cada miembro del equipo se encargó de una parte específica, avanzando en su respectiva área de acuerdo a los story points asignados. De esta manera, pudimos darle prioridad a las tareas más relevantes y asegurar un progreso constante en nuestro proyecto. Adicionalmente, realizamos revisiones grupales de manera periódica. Estas sesiones nos permitieron consolidar nuestro trabajo de la mejor manera posible.
 
-captura sprint........
+<img src="images/sprint2.png">
+Enlace: https://trello.com/invite/b/mSimNo04/ATTI125c821416efcad4fb8cb0bafc415bbdFFF7F7D5/sprint-2-hormonalcare
 
 
 #### 5.1.3.   Source Code Style Guide & Conventions.
@@ -1858,7 +1859,7 @@ Lo alcanzado en este sprint es la implementación de nuestra landing page, junto
 <img src="images/vistalanding3.png">
 <img src="images/vistalanding4.png">
 <img src="images/vistalanding5.png">
-Link al video: [video landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218451_upc_edu_pe/EbyAhQWeUI5MnsNLvfM42PcBVWQLQGO47PHjy2U5S_uHaA?e=OcifcD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Link al video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218451_upc_edu_pe/EbyAhQWeUI5MnsNLvfM42PcBVWQLQGO47PHjy2U5S_uHaA?e=OcifcD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ##### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 Este primer Sprint solo trata la implementación del landing page, por lo que no se empleó ningún servicio adicional.
