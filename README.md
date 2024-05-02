@@ -1886,10 +1886,21 @@ capturas
 Lo alcanzado en este sprint es la implementación de 
 **_screenshots de las principales vistas implementadas:**
 
-<img src="images/vistalanding1.png">
-<img src="images/vistalanding2.png">
 
-Link al video: [video landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218451_upc_edu_pe/EbyAhQWeUI5MnsNLvfM42PcBVWQLQGO47PHjy2U5S_uHaA?e=OcifcD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+<img src="images/evidence-spring2-1.png">
+<img src="images/evidence-spring2-2.png">
+<img src="images/evidence-spring2-3.png">
+<img src="images/evidence-spring2-4.png">
+<img src="images/evidence-spring2-5.png">
+<img src="images/evidence-spring2-6.png">
+<img src="images/evidence-spring2-7.png">
+<img src="images/evidence-spring2-8.png">
+<img src="images/evidence-spring2-9.png">
+<img src="images/evidence-spring2-10.png">
+<img src="images/evidence-spring2-11.png">
+
+
+Link al video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218451_upc_edu_pe/EbyAhQWeUI5MnsNLvfM42PcBVWQLQGO47PHjy2U5S_uHaA?e=OcifcD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218451_upc_edu_pe/EbyAhQWeUI5MnsNLvfM42PcBVWQLQGO47PHjy2U5S_uHaA?e=OcifcD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 En este segundo Sprint tenemos los siguientes servicios:
