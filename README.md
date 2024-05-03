@@ -15,7 +15,7 @@ Ciclo 2024-01
 
 ## TF REPORT
 
-**Sección:** SW53
+**Sección:** SW51
 
 **Profesor**: Angel Augusto Velasquez Nuñez
 
