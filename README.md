@@ -2118,6 +2118,113 @@ Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso d
 
 <img src="images/collaboration.png">
 
+#### 5.3.2.   Sprint 3
+
+##### 5.2.3.1. Sprint Planning 3.
+|Sprint #|Sprint 3|
+| - | - |
+|**Sprint Planning Background**||
+|Date|29-05-2024|
+|Time|22:00|
+|Location|Reunión realizada mediante Discord|
+|Prepared By|Astuyauri Calderon Jherson David|
+|Attendees (to planning meeting)|Astuyauri Calderon Jherson David / Chinchihualpa Saldarriaga Luis Sebastian/Lobato Pozo Sebastian Valente/Lostaunau Pereira Estéfano Sebastián	/Quispesivana Torres Claudio Sandro|
+|**Sprint Goal & User Stories**||
+|Sprint 3 Goal|Lograr una primera implementación de la API rest para HormonalCare.|
+|Sprint 3 Velocity|26|
+|Sum of Story Points|24|
+
+
+
+##### 5.2.3.2. Sprint Backlog 3.
+#### En la tercera entrega de nuestro proyecto, realizamos la implementación de la priemra versión de la API rest. Además, de agregar algunas funcionalidades al frontend de nuestra aplicación.
+| ID   | User Story                                                                                                | Work-Item / Task                                       | Description                                                                                                                             | Estimation (Hours) | Assigned To | Status              |
+|------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|---------------------|
+| US47 | Visualización de la Historia Clínica del paciente por parte del médico                                   | T01: Diseño de la interfaz de Historia Clínica        | Crear un diseño para la interfaz que muestre los datos de la historia clínica del paciente.                                           | 3                  | Sebastian    |      Done           |
+|      |                                                                                                           | T02: Implementación de la interfaz de Historia Clínica | Codificar la interfaz de la historia clínica basada en el diseño, utilizando tecnologías web estándar.                                | 8                  | Sebastian      |      Done           |
+|      |                                                                                                           | T03: Pruebas de la interfaz de Historia Clínica       | Realizar pruebas para garantizar que la visualización de la historia clínica funcione correctamente y sea fácil de usar.               | 3                  | Jherson     |      Done           |
+| US48 | Ingreso de información y edición de la historia clínica del paciente por parte del médico               | T01: Diseño del formulario de ingreso y edición       | Crear un diseño para el formulario que permita al médico ingresar y editar la información de la historia clínica del paciente.       | 4                  | Estefano    |      Done           |
+|      |                                                                                                           | T02: Implementación del formulario de ingreso y edición | Codificar el formulario de ingreso y edición basado en el diseño, con validaciones adecuadas y funcionalidad de guardado.             | 8                  | Sandro      |      Done           |
+|      |                                                                                                           | T03: Pruebas del formulario de ingreso y edición      | Realizar pruebas exhaustivas para asegurar que el formulario funcione correctamente y que los datos se guarden correctamente.          | 3                  | Luis     |      Done           |
+| US23 | Ver la medicación del paciente                                                                           | T01: Diseño de la sección de Medicación              | Crear un diseño para la sección que muestre la medicación del paciente, incluyendo detalles relevantes como dosis y frecuencia.        | 3                  | Estefano    |      Done           |
+|      |                                                                                                           | T02: Implementación de la sección de Medicación       | Codificar la sección de medicación basada en el diseño, y conectarla con la fake-API para obtener datos de medicación simulados.       | 8                  | Estefano   |      Done           |
+|      |                                                                                                           | T03: Pruebas de la sección de Medicación              | Realizar pruebas para asegurar que la sección de medicación muestre correctamente la información del paciente y sea fácil de entender. | 3                  | Jherson        |      Done           |
+| US49 | Diagnóstico y tratamiento                                                                                | T01: Diseño del formulario de Diagnóstico y Tratamiento | Crear un diseño para el formulario que permita al médico añadir diagnósticos y tratamientos a la historia clínica del paciente.    | 4                  | Sandro    |      Done           |
+|      |                                                                                                           | T02: Implementación del formulario de Diagnóstico y Tratamiento | Codificar el formulario de diagnóstico y tratamiento, conectándolo con la fake-API para guardar los datos en la historia clínica.  | 8                  | Luis      |      In process        |
+|      |                                                                                                           | T03: Pruebas del formulario de Diagnóstico y Tratamiento | Realizar pruebas exhaustivas para garantizar que el formulario funcione correctamente y que los datos se guarden adecuadamente.      | 3                  | Sebastian     |      In process        |
+| US12 | Selección de Rol                                                                                         | T01: Diseño de la interfaz de selección de Rol      | Crear un diseño para la interfaz que permita al usuario seleccionar su rol (paciente o médico) al iniciar sesión en la aplicación.  | 3                  | Luis    |      Done           |
+|      |                                                                                                           | T02: Implementación de la interfaz de selección de Rol | Codificar la interfaz de selección de rol basada en el diseño, con funcionalidad de inicio de sesión diferenciada según el rol.       | 5                  | Luis   |      Done           |
+|      |                                                                                                           | T03: Pruebas de la interfaz de selección de Rol     | Realizar pruebas para asegurar que la selección de rol funcione correctamente y que los usuarios puedan acceder a las funciones adecuadas según su rol. | 2                  | Jherson        |      Done           |
+| US10 | Registro de usuario                                                                                      | T01: Diseño del formulario de Registro de Usuario    | Crear un diseño para el formulario que permita a los usuarios registrarse en la aplicación.                                          | 3                  | Sandro    |      Done           |
+|      |                                                                                                           | T02: Implementación del formulario de Registro de Usuario | Codificar el formulario de registro basado en el diseño, con validaciones y funcionalidad de creación de cuenta.                      | 5                  | Luis   |      Done           |
+|      |                                                                                                           | T03: Pruebas del formulario de Registro de Usuario   | Realizar pruebas exhaustivas para garantizar que el formulario de registro funcione correctamente y que las cuentas se creen con éxito. | 2                  | Jherson     |      Done           |
+| US29 | Ver el historial médico de un paciente                                                                   | T01: Implementación de la funcionalidad de historial médico | Codificar la funcionalidad que permite a los médicos ver el historial médico de sus pacientes, conectándola con la fake-API.           | 8                  | Jherson      |      Done           |
+|      |                                                                                                           | T02: Pruebas de la funcionalidad de historial médico  | Realizar pruebas para asegurar que los médicos puedan acceder y visualizar correctamente el historial médico de sus pacientes.       | 3                  | Estefano        |      Done           |
+
+
+Además, se incluye en la herramienta recomendada que es Trello.
+<img src="images/sprint2.png">
+#### <a name="_toc163674911"></a>Enlace: <https://trello.com/invite/b/mSimNo04/ATTI125c821416efcad4fb8cb0bafc415bbdFFF7F7D5/sprint-2-hormonalcare>
+####
+##### 5.2.3.3. Development Evidence for Sprint Review.
+####
+En cuanto a los avances de la implementación de nuestro tercer sprint, se puede observar que:
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+| - | - | - | - | - | - |
+|hormonal-care-backend| Feature/medical-record-medication |3fad856|feat(medical-record-medication): added medication aggregate and value objects.|-|30/05/2024|
+|hormonal-care-backend| Feature/medical-record-medication |cac397c|feat(medical-record-medication): added interface MedicationCommandService|-|30/05/2024|
+|hormonal-care-backend| Feature/medical-record-reason-of-consultation |4f36c05|feat(ReasonOfConsultationQueryServiceImpl): added class that implements jpa repository and handle methods|-|30/05/2024|
+|hormonal-care-backend| Feature/medical-record-reason-of-consultation|997c7e9|feat(ReasonOfConsultationCommandService): added a new method in the interface to update information with a command |-|2/06/2024|
+|hormonal-care-backend| Feature/medical-record-treatment |1db2495|feat(UpdateTreatmentCommandFromResourceAssembler): creating UpdateTreatmentCommandFromResourceAssembler|Introduce MedicalExams component to display patient's medical examination results|2/06/2024|
+
+
+##### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+A continuación, se muestra ....
+capturas
+
+##### 5.2.2.5. Execution Evidence for Sprint Review.
+Lo alcanzado en este sprint es la implementación de 
+**_screenshots de las principales vistas implementadas:**
+
+
+<img src="images/evidence-spring2-1.png">
+<img src="images/evidence-spring2-2.png">
+<img src="images/evidence-spring2-3.png">
+<img src="images/evidence-spring2-4.png">
+<img src="images/evidence-spring2-5.png">
+<img src="images/evidence-spring2-6.png">
+<img src="images/evidence-spring2-7.png">
+<img src="images/evidence-spring2-8.png">
+<img src="images/evidence-spring2-9.png">
+<img src="images/evidence-spring2-10.png">
+<img src="images/evidence-spring2-11.png">
+
+
+Link al video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218451_upc_edu_pe/EbyAhQWeUI5MnsNLvfM42PcBVWQLQGO47PHjy2U5S_uHaA?e=OcifcD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218451_upc_edu_pe/EbyAhQWeUI5MnsNLvfM42PcBVWQLQGO47PHjy2U5S_uHaA?e=OcifcD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+En este segundo Sprint tenemos los siguientes servicios:
+
+|EndPoint|Detalles|
+| - | - |
+|/homeDoctor| En esta ruta se muestra la pantalla principal del medico endocrinologo.|
+|/calendar| En esta ruta se muestra el calendario del usuario.|
+|/messages| En esta ruta se muestra la pantalla de comunicación medico-paciente|
+|/notifications| En esta ruta se muestran los recordatorios.|
+|/doctorProfile| En esta ruta se muestra el perfil del medico endocrinologo.|
+
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Para llevar a cabo la implementación Para realizar el despliegue automático de nuestro Front-End, utilizamos la herramienta -----, el cual permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo. El link de nuestro Front-End es el siguiente: 
+
+
+##### 5.2.2.8. Team Collaboration Insights during Sprint.
+Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso de la herramienta Web Storm, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github. El líder del grupo aprobó los pull request correspondientes que se solicitaron. Además, cada integrante trabajó en uno o varios features y se realizaron merge entre los features y develop.
+
+<img src="images/collaboration.png">
+
 
 ## **CONCLUSIONES Y RECOMENDACIONES**
 
