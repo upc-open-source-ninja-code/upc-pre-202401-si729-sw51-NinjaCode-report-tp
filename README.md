@@ -44,6 +44,7 @@ Ciclo 2024-01
 |:-----:|:--------:|:--------:|:--------:|
 | TB1     | 11/04/2024 | NinjaCode | Para esta entrega se desarrollaron los capítulos I, II, III, IV y V, y se desplegó la primera versión de la landing page |
 | TP1     | 01/05/2024 | NinjaCode | Se corrigieron detalles del informe como problem statement, assumptions, student outcome, resumen del registro de entrevistas, user personas, user task matrix, ubiquitous language, product backlog, Web Applications Wireflow Diagrams, class diagrams, database diagrams. Se hizo el sprint 2 y se desarrolló la primera versión de la Web Application |
+| TB2     | 06/06/2024 | NinjaCode | Se llevó a cabo la segunda versión de la implementación del frontend y la primera versión del backend de HormonalCare. |
 
 
 
@@ -75,6 +76,18 @@ TP1:
 En la segunda entrega de nuestro informe de proyecto, continuamos con nuestro enfoque colaborativo y centrado en la mejora continua. Utilizamos un proceso similar al de la primera entrega, donde cada miembro del equipo asumió la responsabilidad de corregir las partes del informe señaladas por el profesor para mejorar su calidad y precisión. A través de un esfuerzo conjunto, abordamos estas correcciones, asegurando que el informe reflejara de manera precisa los avances y desarrollos de nuestro proyecto.
  
 Durante este período, manteníamos una comunicación constante a través de reuniones en Discord y colaborábamos estrechamente para superar cualquier desafío que enfrentáramos. La retroalimentación mutua y el apoyo continuo fueron fundamentales para resolver los problemas de manera efectiva y asegurar que tanto el informe como la aplicación web reflejaran con precisión nuestros logros y progresos.
+
+Para respaldar nuestra colaboración y transparencia, presentamos una imagen de los commits en GitHub, demostrando nuestro compromiso con la participación activa y la responsabilidad compartida en el desarrollo del informe y la aplicación. 
+
+
+<div  align="center">
+<img src="images/GeneralCommits2.png">
+</div>
+
+
+TB2:
+
+En la tercera entrega de nuestro informe del proyecto HormonalCare, nos centramos en el desarrollo del backend para crear una API robusta y escalable. Mantenemos nuestro enfoque colaborativo con reuniones periódicas en Discord y utilizando GitHub para la gestión del código y la transparencia, reflejando nuestra participación activa y compromiso continuo en el desarrollo del proyecto.
 
 Para respaldar nuestra colaboración y transparencia, presentamos una imagen de los commits en GitHub, demostrando nuestro compromiso con la participación activa y la responsabilidad compartida en el desarrollo del informe y la aplicación. 
 
@@ -2104,6 +2117,207 @@ Para llevar a cabo la implementación Para realizar el despliegue automático de
 Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso de la herramienta Web Storm, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github. El líder del grupo aprobó los pull request correspondientes que se solicitaron. Además, cada integrante trabajó en uno o varios features y se realizaron merge entre los features y develop.
 
 <img src="images/collaboration.png">
+
+#### 5.3.2.   Sprint 3
+
+##### 5.2.3.1. Sprint Planning 3.
+|Sprint #|Sprint 3|
+| - | - |
+|**Sprint Planning Background**||
+|Date|29-05-2024|
+|Time|22:00|
+|Location|Reunión realizada mediante Discord|
+|Prepared By|Astuyauri Calderon Jherson David|
+|Attendees (to planning meeting)|Astuyauri Calderon Jherson David / Chinchihualpa Saldarriaga Luis Sebastian/Lobato Pozo Sebastian Valente/Lostaunau Pereira Estéfano Sebastián	/Quispesivana Torres Claudio Sandro|
+|**Sprint Goal & User Stories**||
+|Sprint 3 Goal|Lograr una primera implementación de la API rest para HormonalCare.|
+|Sprint 3 Velocity|26|
+|Sum of Story Points|24|
+
+
+
+##### 5.2.3.2. Sprint Backlog 3.
+#### En la tercera entrega de nuestro proyecto, realizamos la implementación de la priemra versión de la API rest. Además, de agregar algunas funcionalidades al frontend de nuestra aplicación.
+| ID   | User Story                                                                                                | Work-Item / Task                                       | Description                                                                                                                             | Estimation (Hours) | Assigned To | Status              |
+|------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|---------------------|
+| US47 | Visualización de la Historia Clínica del paciente por parte del médico                                   | T01: Diseño de la interfaz de Historia Clínica        | Crear un diseño para la interfaz que muestre los datos de la historia clínica del paciente.                                           | 3                  | Sebastian    |      Done           |
+|      |                                                                                                           | T02: Implementación de la interfaz de Historia Clínica | Codificar la interfaz de la historia clínica basada en el diseño, utilizando tecnologías web estándar.                                | 8                  | Sebastian      |      Done           |
+|      |                                                                                                           | T03: Pruebas de la interfaz de Historia Clínica       | Realizar pruebas para garantizar que la visualización de la historia clínica funcione correctamente y sea fácil de usar.               | 3                  | Jherson     |      Done           |
+| US48 | Ingreso de información y edición de la historia clínica del paciente por parte del médico               | T01: Diseño del formulario de ingreso y edición       | Crear un diseño para el formulario que permita al médico ingresar y editar la información de la historia clínica del paciente.       | 4                  | Estefano    |      Done           |
+|      |                                                                                                           | T02: Implementación del formulario de ingreso y edición | Codificar el formulario de ingreso y edición basado en el diseño, con validaciones adecuadas y funcionalidad de guardado.             | 8                  | Sandro      |      Done           |
+|      |                                                                                                           | T03: Pruebas del formulario de ingreso y edición      | Realizar pruebas exhaustivas para asegurar que el formulario funcione correctamente y que los datos se guarden correctamente.          | 3                  | Luis     |      Done           |
+| US23 | Ver la medicación del paciente                                                                           | T01: Diseño de la sección de Medicación              | Crear un diseño para la sección que muestre la medicación del paciente, incluyendo detalles relevantes como dosis y frecuencia.        | 3                  | Estefano    |      Done           |
+|      |                                                                                                           | T02: Implementación de la sección de Medicación       | Codificar la sección de medicación basada en el diseño, y conectarla con la fake-API para obtener datos de medicación simulados.       | 8                  | Estefano   |      Done           |
+|      |                                                                                                           | T03: Pruebas de la sección de Medicación              | Realizar pruebas para asegurar que la sección de medicación muestre correctamente la información del paciente y sea fácil de entender. | 3                  | Jherson        |      Done           |
+| US49 | Diagnóstico y tratamiento                                                                                | T01: Diseño del formulario de Diagnóstico y Tratamiento | Crear un diseño para el formulario que permita al médico añadir diagnósticos y tratamientos a la historia clínica del paciente.    | 4                  | Sandro    |      Done           |
+|      |                                                                                                           | T02: Implementación del formulario de Diagnóstico y Tratamiento | Codificar el formulario de diagnóstico y tratamiento, conectándolo con la fake-API para guardar los datos en la historia clínica.  | 8                  | Luis      |      In process        |
+|      |                                                                                                           | T03: Pruebas del formulario de Diagnóstico y Tratamiento | Realizar pruebas exhaustivas para garantizar que el formulario funcione correctamente y que los datos se guarden adecuadamente.      | 3                  | Sebastian     |      In process        |
+| US12 | Selección de Rol                                                                                         | T01: Diseño de la interfaz de selección de Rol      | Crear un diseño para la interfaz que permita al usuario seleccionar su rol (paciente o médico) al iniciar sesión en la aplicación.  | 3                  | Luis    |      Done           |
+|      |                                                                                                           | T02: Implementación de la interfaz de selección de Rol | Codificar la interfaz de selección de rol basada en el diseño, con funcionalidad de inicio de sesión diferenciada según el rol.       | 5                  | Luis   |      Done           |
+|      |                                                                                                           | T03: Pruebas de la interfaz de selección de Rol     | Realizar pruebas para asegurar que la selección de rol funcione correctamente y que los usuarios puedan acceder a las funciones adecuadas según su rol. | 2                  | Jherson        |      Done           |
+| US10 | Registro de usuario                                                                                      | T01: Diseño del formulario de Registro de Usuario    | Crear un diseño para el formulario que permita a los usuarios registrarse en la aplicación.                                          | 3                  | Sandro    |      Done           |
+|      |                                                                                                           | T02: Implementación del formulario de Registro de Usuario | Codificar el formulario de registro basado en el diseño, con validaciones y funcionalidad de creación de cuenta.                      | 5                  | Luis   |      Done           |
+|      |                                                                                                           | T03: Pruebas del formulario de Registro de Usuario   | Realizar pruebas exhaustivas para garantizar que el formulario de registro funcione correctamente y que las cuentas se creen con éxito. | 2                  | Jherson     |      Done           |
+| US29 | Ver el historial médico de un paciente                                                                   | T01: Implementación de la funcionalidad de historial médico | Codificar la funcionalidad que permite a los médicos ver el historial médico de sus pacientes, conectándola con la fake-API.           | 8                  | Jherson      |      Done           |
+|      |                                                                                                           | T02: Pruebas de la funcionalidad de historial médico  | Realizar pruebas para asegurar que los médicos puedan acceder y visualizar correctamente el historial médico de sus pacientes.       | 3                  | Estefano        |      Done           |
+
+
+Además, se incluye en la herramienta recomendada que es Trello.
+<img src="images/sprint2.png">
+#### <a name="_toc163674911"></a>Enlace: <https://trello.com/invite/b/mSimNo04/ATTI125c821416efcad4fb8cb0bafc415bbdFFF7F7D5/sprint-2-hormonalcare>
+####
+##### 5.2.3.3. Development Evidence for Sprint Review.
+####
+En cuanto a los avances de la implementación de nuestro tercer sprint, se puede observar que:
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+| - | - | - | - | - | - |
+|hormonal-care-backend| Feature/medical-record-medication |3fad856|feat(medical-record-medication): added medication aggregate and value objects.|-|30/05/2024|
+|hormonal-care-backend| Feature/medical-record-medication |cac397c|feat(medical-record-medication): added interface MedicationCommandService|-|30/05/2024|
+|hormonal-care-backend| Feature/medical-record-reason-of-consultation |4f36c05|feat(ReasonOfConsultationQueryServiceImpl): added class that implements jpa repository and handle methods|-|30/05/2024|
+|hormonal-care-backend| Feature/medical-record-reason-of-consultation|997c7e9|feat(ReasonOfConsultationCommandService): added a new method in the interface to update information with a command |-|2/06/2024|
+|hormonal-care-backend| Feature/medical-record-treatment |1db2495|feat(UpdateTreatmentCommandFromResourceAssembler): creating UpdateTreatmentCommandFromResourceAssembler|Introduce MedicalExams component to display patient's medical examination results|2/06/2024|
+
+
+##### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+A continuación, se muestra ....
+capturas
+
+##### 5.2.3.5. Execution Evidence for Sprint Review.
+Lo alcanzado en este sprint es la implementación de lso siguientes endpoints de la API rest.
+**_screenshots de las principales vistas implementadas:**
+
+
+<img src="images/evidence-spring2-1.png">
+
+
+Link al video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218451_upc_edu_pe/EbyAhQWeUI5MnsNLvfM42PcBVWQLQGO47PHjy2U5S_uHaA?e=OcifcD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218451_upc_edu_pe/EbyAhQWeUI5MnsNLvfM42PcBVWQLQGO47PHjy2U5S_uHaA?e=OcifcD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+En este segundo Sprint tenemos los siguientes servicios:
+
+|EndPoint|Detalles|
+| - | - |
+|/homeDoctor| En esta ruta se muestra la pantalla principal del medico endocrinologo.|
+|/calendar| En esta ruta se muestra el calendario del usuario.|
+|/messages| En esta ruta se muestra la pantalla de comunicación medico-paciente|
+|/notifications| En esta ruta se muestran los recordatorios.|
+|/doctorProfile| En esta ruta se muestra el perfil del medico endocrinologo.|
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Para llevar a cabo la implementación Para realizar el despliegue automático de nuestro Front-End, utilizamos la herramienta -----, el cual permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo. El link de nuestro Front-End es el siguiente: 
+
+
+##### 5.2.3.8. Team Collaboration Insights during Sprint.
+Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso de la herramienta Web Storm, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github. El líder del grupo aprobó los pull request correspondientes que se solicitaron. Además, cada integrante trabajó en uno o varios features y se realizaron merge entre los features y develop.
+
+<img src="images/collaboration.png">
+
+### 5.3. Validation Interviews
+
+#### 5.3.1. Diseño de Entrevistas
+
+##### Segmento 1: Paciente con enfermades hormonales.
+**Landing Page**
+- **Navegación a través de todas las sección de la landing page.**
+**Principales tareas en la aplicación**
+- **Navegación a través de la aplicación web**
+
+**User Flow: **
+1. El 
+2. P
+3. R
+4. 
+
+**Preguntas**
+- ¿Cómo describirías tu experiencia general al usar la aplicación HormonalCare?
+- ¿Qué fue lo primero que pensaste o sentiste al ver la landing page y la interfaz de la aplicación?
+- ¿Qué tan intuitiva encontraste la navegación dentro de la aplicación?
+- ¿Qué funcionalidades de la aplicación te parecieron más útiles y por qué?
+- ¿Hay algún aspecto o característica de la aplicación que realmente te haya impresionado? ¿Cuál y por qué?
+- ¿Encontraste alguna dificultad o problema mientras usabas la aplicación? ¿Puedes describirlo?
+- ¿Te sentiste bien informado(a) durante tu uso de la aplicación? ¿Hubo algo que te resultó confuso o poco claro?
+- ¿La aplicación cumplió con tus expectativas iniciales? ¿En qué aspectos sí o no?
+- ¿Cómo te resultó la experiencia de acceder y gestionar tu información médica desde la sección de Historia Médica?
+- ¿Qué cambios o mejoras sugerirías para que la aplicación sea más efectiva y satisfactoria para ti como paciente?
+
+### Segmento 2: Médicos endocrinólogos
+
+**Landing Page**
+- **Navegación a través de todas las sección de la landing page.**
+**Principales tareas en la aplicación**
+- **Navegación a través de la aplicación web**
+
+**User Flow: **
+1. El usuario ingresa a la Landing Page
+2. Puls
+
+**User Flow: P**
+1. 
+**Preguntas Principales**
+- ¿Cómo describirías tu experiencia general al usar la aplicación HormonalCare?
+- ¿Qué fue lo primero que pensaste o sentiste al ver la landing page y la interfaz de la aplicación?
+- ¿Qué tan intuitiva encontraste la navegación dentro de la aplicación?
+- ¿Qué funcionalidades de la aplicación te parecieron más útiles y por qué?
+- ¿Hay algún aspecto o característica de la aplicación que realmente te haya impresionado? ¿Cuál y por qué?
+- ¿Encontraste alguna dificultad o problema mientras usabas la aplicación? ¿Puedes describirlo?
+- ¿Te sentiste bien informado(a) durante tu uso de la aplicación? ¿Hubo algo que te resultó confuso o poco claro?
+- ¿La aplicación cumplió con tus expectativas iniciales? ¿En qué aspectos sí o no?
+- ¿Cómo te resultó la experiencia de acceder y gestionar la información de tus pacientes desde la sección de Historia Clínica?
+- ¿Qué cambios o mejoras sugerirías para que la aplicación sea más efectiva y satisfactoria para ti como médico?
+
+## 5.3.2. Registro de Entrevistas
+##### >Segmento de usuario – Médicos endocrinólogos.
+
+***Médico 1:***
+| Datos del médico: | Entrevista |
+|---|---|
+|  <p>Nombres:  Luis Hernán</p> <p>Apellidos: Chinchihualpa Montes</p> <p> Edad: 53 años</p> <p> Localidad: La Molina </p> <p> Timing: 0 </p> <p> Duración: 4:59 </p> <p style="max-width: 350px;"> Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211742_upc_edu_pe/EUllch4GompOqxssrbxIvcoBUD8-Mf3YKlc-FjtRF528dA?e=FGGt36&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]</p>| <img src="images/EntrevistaLuisChinchihualpa.png" width=400> |
+| Resumen:<p>Luis Chinchihualpa proporciona una visión detallada de sus opiniones sobre la atención endocrinológica actual y la telemedicina. Destaca los desafíos presentes en la atención endocrinológica, como los largos tiempos de espera y la escasez de médicos, resaltando la importancia de mejorar la accesibilidad y la eficiencia del servicio. En cuanto a la telemedicina, considera que una aplicación ideal debería ser fácil de usar y ofrecer información clara sobre la patología y el tratamiento, así como permitir el registro de datos del paciente y facilitar el seguimiento del progreso. Destaca el potencial de la telemedicina para mejorar la calidad de vida de los pacientes con enfermedades endocrinas. Además, se menciona que Luis utiliza macOS como sistema operativo, Google Chrome como navegador web y un iPhone como dispositivo móvil, mostrando familiaridad con el ecosistema de productos de Apple. También se destaca su experiencia con programas propios de Essalud y Minsa para la gestión de pacientes.</p> | 
+
+
+| **Fila 2** |
+***Médico 2:***
+| Datos del médico: | Entrevista |
+|---|---|
+|  <p>Nombres:  Rica </p> <p>Apellidos: Durand</p> <p> Edad: 48 años</p> <p> Localidad: Surco</p> <p> Timing: 4:59 </p> <p> Duración: 4:59 </p> <p style="max-width: 350px;"> Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211742_upc_edu_pe/EUllch4GompOqxssrbxIvcoBUD8-Mf3YKlc-FjtRF528dA?e=FGGt36&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]</p>| <img src="images/EntrevistaRicardoDurand.png" width=400> |
+| Resumen:<p>
+</p> | 
+
+| Resumen |
+***Médico 3:***
+| Datos del médico: | Entrevista |
+|---|---|
+|  <p>Nombres:  Roxana </p> <p>Apellidos: Podésta</p> <p> Edad: 38 años</p> <p> Localidad: La Victoria </p> <p> Timing: 9.58 </p> <p> Duración: 5:00 </p> <p style="max-width: 350px;"> Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211742_upc_edu_pe/EUllch4GompOqxssrbxIvcoBUD8-Mf3YKlc-FjtRF528dA?e=FGGt36&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]</p>| <img src="images/EntrevistaRoxanaPodesta.png" width=400> |
+| Resumen:<p></p> | 
+</p> | 
+
+##### >Segmento de usuario – Pacientes con enfermedades hormonales.
+
+***Paciente 1:***
+| Datos del paciente: | Entrevista |
+|---|---|
+|  <p>Nombres:  Joaquin </p> <p>Apellidos: Benavides</p> <p> Edad: 20 años</p> <p> Localidad: San Miguel </p> <p> Timing: 14:58 </p> <p> Duración: 4:52 </p> <p style="max-width: 350px;"> Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211742_upc_edu_pe/EUllch4GompOqxssrbxIvcoBUD8-Mf3YKlc-FjtRF528dA?e=FGGt36&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]</p>| <img src="images/EntrevistaJoaquinBenavides.png" width=400> |
+| Resumen:<p>
+
+</p> | 
+
+***Paciente 2:***
+| Datos del paciente: | Entrevista |
+|---|---|
+|  <p>Nombres:  Arnhol Alfredo </p> <p>Apellidos: Castrejón Calderon</p> <p> Edad: 19 años.</p> <p> Localidad: La Victoria </p> <p> Timing: 19:50 </p> <p> Duración: 4:52 </p> <p style="max-width: 350px;"> Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211742_upc_edu_pe/EUllch4GompOqxssrbxIvcoBUD8-Mf3YKlc-FjtRF528dA?e=FGGt36&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]</p>| <img src="images/entrevista-paciente-2.png" width=400> |
+| Resumen:<p> 
+</p> | 
+
+
+***Paciente 3:***
+| Datos del paciente: | Entrevista |
+|---|---|
+|  <p>Nombres:  Alicia Alison </p> <p>Apellidos: Garrido Lujan</p> <p> Edad: : 20 años</p> <p> Localidad: Surco </p> <p> Timing: 24.42 </p> <p> Duración: 4:22 </p> <p style="max-width: 350px;"> Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211742_upc_edu_pe/EUllch4GompOqxssrbxIvcoBUD8-Mf3YKlc-FjtRF528dA?e=FGGt36&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]</p>| <img src="images/EntrevistaAliciaGarrido - copia.png" width=400> |
+| Resumen:<p>
+</p> | 
 
 
 ## **CONCLUSIONES Y RECOMENDACIONES**
