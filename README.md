@@ -44,6 +44,7 @@ Ciclo 2024-01
 |:-----:|:--------:|:--------:|:--------:|
 | TB1     | 11/04/2024 | NinjaCode | Para esta entrega se desarrollaron los capítulos I, II, III, IV y V, y se desplegó la primera versión de la landing page |
 | TP1     | 01/05/2024 | NinjaCode | Se corrigieron detalles del informe como problem statement, assumptions, student outcome, resumen del registro de entrevistas, user personas, user task matrix, ubiquitous language, product backlog, Web Applications Wireflow Diagrams, class diagrams, database diagrams. Se hizo el sprint 2 y se desarrolló la primera versión de la Web Application |
+| TB2     | 06/06/2024 | NinjaCode | Se llevó a cabo la segunda versión de la implementación del frontend y la primera versión del backend de HormonalCare. |
 
 
 
@@ -75,6 +76,18 @@ TP1:
 En la segunda entrega de nuestro informe de proyecto, continuamos con nuestro enfoque colaborativo y centrado en la mejora continua. Utilizamos un proceso similar al de la primera entrega, donde cada miembro del equipo asumió la responsabilidad de corregir las partes del informe señaladas por el profesor para mejorar su calidad y precisión. A través de un esfuerzo conjunto, abordamos estas correcciones, asegurando que el informe reflejara de manera precisa los avances y desarrollos de nuestro proyecto.
  
 Durante este período, manteníamos una comunicación constante a través de reuniones en Discord y colaborábamos estrechamente para superar cualquier desafío que enfrentáramos. La retroalimentación mutua y el apoyo continuo fueron fundamentales para resolver los problemas de manera efectiva y asegurar que tanto el informe como la aplicación web reflejaran con precisión nuestros logros y progresos.
+
+Para respaldar nuestra colaboración y transparencia, presentamos una imagen de los commits en GitHub, demostrando nuestro compromiso con la participación activa y la responsabilidad compartida en el desarrollo del informe y la aplicación. 
+
+
+<div  align="center">
+<img src="images/GeneralCommits2.png">
+</div>
+
+
+TB2:
+
+En la tercera entrega de nuestro informe del proyecto HormonalCare, nos centramos en el desarrollo del backend para crear una API robusta y escalable. Mantenemos nuestro enfoque colaborativo con reuniones periódicas en Discord y utilizando GitHub para la gestión del código y la transparencia, reflejando nuestra participación activa y compromiso continuo en el desarrollo del proyecto.
 
 Para respaldar nuestra colaboración y transparencia, presentamos una imagen de los commits en GitHub, demostrando nuestro compromiso con la participación activa y la responsabilidad compartida en el desarrollo del informe y la aplicación. 
 
