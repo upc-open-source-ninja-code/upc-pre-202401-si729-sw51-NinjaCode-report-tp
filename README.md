@@ -2179,32 +2179,22 @@ En cuanto a los avances de la implementación de nuestro tercer sprint, se puede
 |hormonal-care-backend| Feature/medical-record-treatment |1db2495|feat(UpdateTreatmentCommandFromResourceAssembler): creating UpdateTreatmentCommandFromResourceAssembler|Introduce MedicalExams component to display patient's medical examination results|2/06/2024|
 
 
-##### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+##### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
 A continuación, se muestra ....
 capturas
 
-##### 5.2.2.5. Execution Evidence for Sprint Review.
-Lo alcanzado en este sprint es la implementación de 
+##### 5.2.3.5. Execution Evidence for Sprint Review.
+Lo alcanzado en este sprint es la implementación de lso siguientes endpoints de la API rest.
 **_screenshots de las principales vistas implementadas:**
 
 
 <img src="images/evidence-spring2-1.png">
-<img src="images/evidence-spring2-2.png">
-<img src="images/evidence-spring2-3.png">
-<img src="images/evidence-spring2-4.png">
-<img src="images/evidence-spring2-5.png">
-<img src="images/evidence-spring2-6.png">
-<img src="images/evidence-spring2-7.png">
-<img src="images/evidence-spring2-8.png">
-<img src="images/evidence-spring2-9.png">
-<img src="images/evidence-spring2-10.png">
-<img src="images/evidence-spring2-11.png">
 
 
 Link al video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218451_upc_edu_pe/EbyAhQWeUI5MnsNLvfM42PcBVWQLQGO47PHjy2U5S_uHaA?e=OcifcD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218451_upc_edu_pe/EbyAhQWeUI5MnsNLvfM42PcBVWQLQGO47PHjy2U5S_uHaA?e=OcifcD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-##### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 En este segundo Sprint tenemos los siguientes servicios:
 
 |EndPoint|Detalles|
@@ -2215,15 +2205,119 @@ En este segundo Sprint tenemos los siguientes servicios:
 |/notifications| En esta ruta se muestran los recordatorios.|
 |/doctorProfile| En esta ruta se muestra el perfil del medico endocrinologo.|
 
-##### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
 Para llevar a cabo la implementación Para realizar el despliegue automático de nuestro Front-End, utilizamos la herramienta -----, el cual permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo. El link de nuestro Front-End es el siguiente: 
 
 
-##### 5.2.2.8. Team Collaboration Insights during Sprint.
+##### 5.2.3.8. Team Collaboration Insights during Sprint.
 Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso de la herramienta Web Storm, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github. El líder del grupo aprobó los pull request correspondientes que se solicitaron. Además, cada integrante trabajó en uno o varios features y se realizaron merge entre los features y develop.
 
 <img src="images/collaboration.png">
+
+### 5.3. Validation Interviews
+
+#### 5.3.1. Diseño de Entrevistas
+
+##### Segmento 1: Paciente con enfermades hormonales.
+**Landing Page**
+- **Navegación a través de todas las sección de la landing page.**
+**Principales tareas en la aplicación**
+- **Navegación a través de la aplicación web**
+
+**User Flow: **
+1. El 
+2. P
+3. R
+4. 
+
+**Preguntas**
+- ¿Cómo describirías tu experiencia general al usar la aplicación HormonalCare?
+- ¿Qué fue lo primero que pensaste o sentiste al ver la landing page y la interfaz de la aplicación?
+- ¿Qué tan intuitiva encontraste la navegación dentro de la aplicación?
+- ¿Qué funcionalidades de la aplicación te parecieron más útiles y por qué?
+- ¿Hay algún aspecto o característica de la aplicación que realmente te haya impresionado? ¿Cuál y por qué?
+- ¿Encontraste alguna dificultad o problema mientras usabas la aplicación? ¿Puedes describirlo?
+- ¿Te sentiste bien informado(a) durante tu uso de la aplicación? ¿Hubo algo que te resultó confuso o poco claro?
+- ¿La aplicación cumplió con tus expectativas iniciales? ¿En qué aspectos sí o no?
+- ¿Cómo te resultó la experiencia de acceder y gestionar tu información médica desde la sección de Historia Médica?
+- ¿Qué cambios o mejoras sugerirías para que la aplicación sea más efectiva y satisfactoria para ti como paciente?
+
+### Segmento 2: Médicos endocrinólogos
+
+**Landing Page**
+- **Navegación a través de todas las sección de la landing page.**
+**Principales tareas en la aplicación**
+- **Navegación a través de la aplicación web**
+
+**User Flow: **
+1. El usuario ingresa a la Landing Page
+2. Puls
+
+**User Flow: P**
+1. 
+**Preguntas Principales**
+- ¿Cómo describirías tu experiencia general al usar la aplicación HormonalCare?
+- ¿Qué fue lo primero que pensaste o sentiste al ver la landing page y la interfaz de la aplicación?
+- ¿Qué tan intuitiva encontraste la navegación dentro de la aplicación?
+- ¿Qué funcionalidades de la aplicación te parecieron más útiles y por qué?
+- ¿Hay algún aspecto o característica de la aplicación que realmente te haya impresionado? ¿Cuál y por qué?
+- ¿Encontraste alguna dificultad o problema mientras usabas la aplicación? ¿Puedes describirlo?
+- ¿Te sentiste bien informado(a) durante tu uso de la aplicación? ¿Hubo algo que te resultó confuso o poco claro?
+- ¿La aplicación cumplió con tus expectativas iniciales? ¿En qué aspectos sí o no?
+- ¿Cómo te resultó la experiencia de acceder y gestionar la información de tus pacientes desde la sección de Historia Clínica?
+- ¿Qué cambios o mejoras sugerirías para que la aplicación sea más efectiva y satisfactoria para ti como médico?
+
+## 5.3.2. Registro de Entrevistas
+##### >Segmento de usuario – Médicos endocrinólogos.
+
+***Médico 1:***
+| Datos del médico: | Entrevista |
+|---|---|
+|  <p>Nombres:  Luis Hernán</p> <p>Apellidos: Chinchihualpa Montes</p> <p> Edad: 53 años</p> <p> Localidad: La Molina </p> <p> Timing: 0 </p> <p> Duración: 4:59 </p> <p style="max-width: 350px;"> Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211742_upc_edu_pe/EUllch4GompOqxssrbxIvcoBUD8-Mf3YKlc-FjtRF528dA?e=FGGt36&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]</p>| <img src="images/EntrevistaLuisChinchihualpa.png" width=400> |
+| Resumen:<p>Luis Chinchihualpa proporciona una visión detallada de sus opiniones sobre la atención endocrinológica actual y la telemedicina. Destaca los desafíos presentes en la atención endocrinológica, como los largos tiempos de espera y la escasez de médicos, resaltando la importancia de mejorar la accesibilidad y la eficiencia del servicio. En cuanto a la telemedicina, considera que una aplicación ideal debería ser fácil de usar y ofrecer información clara sobre la patología y el tratamiento, así como permitir el registro de datos del paciente y facilitar el seguimiento del progreso. Destaca el potencial de la telemedicina para mejorar la calidad de vida de los pacientes con enfermedades endocrinas. Además, se menciona que Luis utiliza macOS como sistema operativo, Google Chrome como navegador web y un iPhone como dispositivo móvil, mostrando familiaridad con el ecosistema de productos de Apple. También se destaca su experiencia con programas propios de Essalud y Minsa para la gestión de pacientes.</p> | 
+
+
+| **Fila 2** |
+***Médico 2:***
+| Datos del médico: | Entrevista |
+|---|---|
+|  <p>Nombres:  Rica </p> <p>Apellidos: Durand</p> <p> Edad: 48 años</p> <p> Localidad: Surco</p> <p> Timing: 4:59 </p> <p> Duración: 4:59 </p> <p style="max-width: 350px;"> Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211742_upc_edu_pe/EUllch4GompOqxssrbxIvcoBUD8-Mf3YKlc-FjtRF528dA?e=FGGt36&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]</p>| <img src="images/EntrevistaRicardoDurand.png" width=400> |
+| Resumen:<p>
+</p> | 
+
+| Resumen |
+***Médico 3:***
+| Datos del médico: | Entrevista |
+|---|---|
+|  <p>Nombres:  Roxana </p> <p>Apellidos: Podésta</p> <p> Edad: 38 años</p> <p> Localidad: La Victoria </p> <p> Timing: 9.58 </p> <p> Duración: 5:00 </p> <p style="max-width: 350px;"> Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211742_upc_edu_pe/EUllch4GompOqxssrbxIvcoBUD8-Mf3YKlc-FjtRF528dA?e=FGGt36&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]</p>| <img src="images/EntrevistaRoxanaPodesta.png" width=400> |
+| Resumen:<p></p> | 
+</p> | 
+
+##### >Segmento de usuario – Pacientes con enfermedades hormonales.
+
+***Paciente 1:***
+| Datos del paciente: | Entrevista |
+|---|---|
+|  <p>Nombres:  Joaquin </p> <p>Apellidos: Benavides</p> <p> Edad: 20 años</p> <p> Localidad: San Miguel </p> <p> Timing: 14:58 </p> <p> Duración: 4:52 </p> <p style="max-width: 350px;"> Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211742_upc_edu_pe/EUllch4GompOqxssrbxIvcoBUD8-Mf3YKlc-FjtRF528dA?e=FGGt36&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]</p>| <img src="images/EntrevistaJoaquinBenavides.png" width=400> |
+| Resumen:<p>
+
+</p> | 
+
+***Paciente 2:***
+| Datos del paciente: | Entrevista |
+|---|---|
+|  <p>Nombres:  Arnhol Alfredo </p> <p>Apellidos: Castrejón Calderon</p> <p> Edad: 19 años.</p> <p> Localidad: La Victoria </p> <p> Timing: 19:50 </p> <p> Duración: 4:52 </p> <p style="max-width: 350px;"> Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211742_upc_edu_pe/EUllch4GompOqxssrbxIvcoBUD8-Mf3YKlc-FjtRF528dA?e=FGGt36&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]</p>| <img src="images/entrevista-paciente-2.png" width=400> |
+| Resumen:<p> 
+</p> | 
+
+
+***Paciente 3:***
+| Datos del paciente: | Entrevista |
+|---|---|
+|  <p>Nombres:  Alicia Alison </p> <p>Apellidos: Garrido Lujan</p> <p> Edad: : 20 años</p> <p> Localidad: Surco </p> <p> Timing: 24.42 </p> <p> Duración: 4:22 </p> <p style="max-width: 350px;"> Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211742_upc_edu_pe/EUllch4GompOqxssrbxIvcoBUD8-Mf3YKlc-FjtRF528dA?e=FGGt36&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]</p>| <img src="images/EntrevistaAliciaGarrido - copia.png" width=400> |
+| Resumen:<p>
+</p> | 
 
 
 ## **CONCLUSIONES Y RECOMENDACIONES**
