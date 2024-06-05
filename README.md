@@ -2319,8 +2319,8 @@ Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso d
 ***Paciente 2:***
 | Datos del paciente: | Entrevista |
 |---|---|
-|  <p>Nombres:  Arnhol Alfredo </p> <p>Apellidos: Castrejón Calderon</p> <p> Edad: 19 años.</p> <p> Localidad: La Victoria </p> <p> Timing: 19:50 </p> <p> Duración: 4:52 </p> <p style="max-width: 350px;"> Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211742_upc_edu_pe/EUllch4GompOqxssrbxIvcoBUD8-Mf3YKlc-FjtRF528dA?e=FGGt36&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]</p>| <img src="images/entrevista-paciente-2.png" width=400> |
-| Resumen:<p> 
+|  <p>Nombres:  Arnhol Alfredo </p> <p>Apellidos: Castrejón Calderon</p> <p> Edad: 19 años.</p> <p> Localidad: La Victoria </p> <p> Timing: 19:50 </p> <p> Duración: 4:52 </p> <p style="max-width: 350px;"> Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211742_upc_edu_pe/EUllch4GompOqxssrbxIvcoBUD8-Mf3YKlc-FjtRF528dA?e=FGGt36&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]</p>| <img src="images/capentrevista-val-arnhol.png" width=400> |
+| Resumen:<p> El paciente Arnhol con hipotiroidismo describe que su experiencia al usar la app de "HormonalCare" fue buena, porque se veía muy bien y estructurado. Además, indica que al ver la landing page y la interfaz web le intereso mucho que la aplicación pueda ayudarle a manejar su historial medico y tratamiento. Luego, menciona que le pareció sencilla la navegación ya que todo es por medio de clicks e indicaciones. Después, el paciente expresa que las funciones que le parecieron más útiles fueron la de comunicación con el médico, calendario, el medicamento que debe consumir, la historia médica y las notificaciones de citas medicas. Finalmente, menciona que la aplicación no le pareció confusa y no tuvo problemas.
 </p> | 
 
 
