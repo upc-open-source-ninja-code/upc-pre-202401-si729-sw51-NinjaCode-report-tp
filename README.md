@@ -2282,8 +2282,8 @@ Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso d
 ***Médico 2:***
 | Datos del médico: | Entrevista |
 |---|---|
-|  <p>Nombres:  Rica </p> <p>Apellidos: Durand</p> <p> Edad: 48 años</p> <p> Localidad: Surco</p> <p> Timing: 4:59 </p> <p> Duración: 4:59 </p> <p style="max-width: 350px;"> Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211742_upc_edu_pe/EUllch4GompOqxssrbxIvcoBUD8-Mf3YKlc-FjtRF528dA?e=FGGt36&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]</p>| <img src="images/EntrevistaRicardoDurand.png" width=400> |
-| Resumen:<p>
+|  <p>Nombres:  Lucia Barbara </p> <p>Apellidos: Quispesivana Tapia</p> <p> Edad: 33 años</p> <p> Localidad: San Juan de Lurigancho</p> <p> Timing: 4:55 </p> <p> Duración: 4:55 </p> <p style="max-width: 350px;"> Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211742_upc_edu_pe/EUllch4GompOqxssrbxIvcoBUD8-Mf3YKlc-FjtRF528dA?e=FGGt36&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]</p>| <img src="images/EntrevistaRevisionLuciaQuispesivana.png" width=400> |
+| Resumen: <p>Lucia encontró la herramienta muy útil y cree que facilitaría su trabajo. Le llamó la atención la colorimetría y el diseño de los botones. Considera que el uso es fácil y accesible para cualquier médico. Especialmente le gustó el botón de historia clínica por su intuitividad en la razón, diagnóstico y exámenes. Aprecia la distribución de la información. Sugiere que los médicos puedan manipular los exámenes médicos, no solo los pacientes, y que se incluyan más detalles en el tratamiento, como fotos para un mejor seguimiento. Valora la didáctica y minimalista aplicación, la cual cumplió sus expectativas. Sugiere agregar estadísticas de la evolución a lo largo del tiempo como posible mejora.<p>
 </p> | 
 
 | Resumen |
