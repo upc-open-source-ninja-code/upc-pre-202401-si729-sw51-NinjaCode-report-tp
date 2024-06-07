@@ -2150,13 +2150,10 @@ Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso d
 |Attendees (to planning meeting)|Astuyauri Calderon Jherson David / Chinchihualpa Saldarriaga Luis Sebastian/Lobato Pozo Sebastian Valente/Lostaunau Pereira Estéfano Sebastián	/Quispesivana Torres Claudio Sandro|
 |**Sprint Goal & User Stories**||
 |Sprint 3 Goal|Lograr una primera implementación de la API rest para HormonalCare.|
-|Sprint 3 Velocity|26|
-|Sum of Story Points|24|
+|Sprint 3 Velocity|45|
+|Sum of Story Points|40|
 
 
-
-##### 5.2.3.2. Sprint Backlog 3.
-#### En la tercera entrega de nuestro proyecto, realizamos la implementación de la priemra versión de la API rest. Además, de agregar algunas funcionalidades al frontend de nuestra aplicación.
 ##### 5.2.3.2. Sprint Backlog 3.
 #### En la tercera entrega de nuestro proyecto, realizamos la implementación de la primera versión de la API REST, además de agregar algunas funcionalidades al frontend de nuestra aplicación.
 
@@ -2165,9 +2162,9 @@ Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso d
 | US51 | Gestión de Medicamentos              | T01: Diseño del endpoint de medicamentos         | Diseñar el endpoint para la gestión de medicamentos, considerando operaciones de CRUD.                                | 4                  | Sebastian   | Done     |
 |      |                                      | T02: Implementación del endpoint de medicamentos | Implementar el endpoint para agregar, obtener, actualizar y eliminar medicamentos en la base de datos.                | 10                 | Sebastian   | Done     |
 |      |                                      | T03: Pruebas del endpoint de medicamentos        | Realizar pruebas para asegurar el correcto funcionamiento de las operaciones CRUD en el endpoint de medicamentos.     | 4                  | Jherson     | Done     |
-| US52 | Gestión de Inscripciones             | T01: Diseño del endpoint de inscripciones        | Diseñar el endpoint para la gestión de inscripciones médicas, considerando operaciones de CRUD.                       | 4                  | Estefano    | Done     |
-|      |                                      | T02: Implementación del endpoint de inscripciones | Implementar el endpoint para agregar, obtener, actualizar y eliminar inscripciones médicas en la base de datos.       | 10                 | Estefano    | Done     |
-|      |                                      | T03: Pruebas del endpoint de inscripciones       | Realizar pruebas para asegurar el correcto funcionamiento de las operaciones CRUD en el endpoint de inscripciones.    | 4                  | Luis     | Done     |
+| US52 | Gestión de Receta Médica             | T01: Diseño del endpoint de receta médica        | Diseñar el endpoint para la gestión de recetas médicas , considerando operaciones de CRUD.                       | 4                  | Estefano    | Done     |
+|      |                                      | T02: Implementación del endpoint de receta médica  | Implementar el endpoint para agregar, obtener, actualizar y eliminar recetas médicas en la base de datos.       | 10                 | Jherson    | Done     |
+|      |                                      | T03: Pruebas del endpoint de receta médica        | Realizar pruebas para asegurar el correcto funcionamiento de las operaciones CRUD en el endpoint de recetas médicas.    | 4                  | Luis     | Done     |
 | US53 | Gestión de Tipos de Medicamentos     | T01: Diseño del endpoint de tipos de medicamentos | Diseñar el endpoint para la gestión de tipos de medicamentos, considerando operaciones de CRUD.                       | 4                  | Sandro      | Done     |
 |      |                                      | T02: Implementación del endpoint de tipos de medicamentos | Implementar el endpoint para agregar, obtener, actualizar y eliminar tipos de medicamentos en la base de datos.       | 10                 | Sandro      | Done     |
 |      |                                      | T03: Pruebas del endpoint de tipos de medicamentos | Realizar pruebas para asegurar el correcto funcionamiento de las operaciones CRUD en el endpoint de tipos de medicamentos. | 4                  | Jherson     | Done     |
@@ -2205,6 +2202,7 @@ En cuanto a los avances de la implementación de nuestro tercer sprint, se puede
 |hormonal-care-backend| Feature/medical-record-treatment |1db2495|feat(UpdateTreatmentCommandFromResourceAssembler): creating UpdateTreatmentCommandFromResourceAssembler|Introduce MedicalExams component to display patient's medical examination results|2/06/2024|
 
 
+
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
 A continuación, se muestra ....
@@ -2226,16 +2224,25 @@ En este tercer Sprint tenemos los siguientes servicios:
 
 | EndPoint                      | Detalles                                                                                      |
 |-------------------------------|-----------------------------------------------------------------------------------------------|
-| /homeDoctor                   | En esta ruta se muestra la pantalla principal del médico endocrinólogo.                       |
 | /calendar                     | En esta ruta se muestra el calendario del usuario.                                            |
-| /messages                     | En esta ruta se muestra la pantalla de comunicación médico-paciente.                          |
-| /notifications                | En esta ruta se muestran los recordatorios.                                                   |
-| /doctorProfile                | En esta ruta se muestra el perfil del médico endocrinólogo.                                   |
+| /profiles                     | En esta ruta se gestionan los perfiles.                                                       |
 | /medications                  | En esta ruta se gestionan los registros de medicación (agregar, obtener, actualizar, eliminar).|
-| /inscriptions                 | En esta ruta se gestionan las inscripciones médicas (agregar, obtener, actualizar, eliminar).  |
+| /medications/{id}             | Obtiene, actualiza o elimina un registro de medicación específico.                            |
+| /prescriptions                | En esta ruta se gestionan las inscripciones médicas (agregar, obtener, actualizar, eliminar).  |
+| /prescriptions/{id}           | Obtiene, actualiza o elimina una inscripción médica específica.                               |
 | /medicationTypes              | En esta ruta se gestionan los tipos de medicamentos (agregar, obtener, actualizar, eliminar).  |
+| /medicationTypes/{id}         | Obtiene, actualiza o elimina un tipo de medicamento específico.                               |
 | /reasonOfConsultation         | En esta ruta se gestionan las razones de consulta (agregar, obtener, actualizar, eliminar).    |
+| /reasonOfConsultation/{id}    | Obtiene, actualiza o elimina una razón de consulta específica.                                |
 | /treatments                   | En esta ruta se gestionan los tratamientos médicos (agregar, obtener, actualizar, eliminar).   |
+| /treatments/{id}              | Obtiene, actualiza o elimina un tratamiento médico específico.                                 |
+
+Además, con respecto a los métodos HTTP permitidos, algunos endpoints podrían no tener todos los métodos debido a la lógica del negocio.
+- **GET**: Utilizado para obtener información. Todos los endpoints deben admitir este método.
+- **POST**: Utilizado para agregar nuevos registros.
+- **PUT/PATCH**: Utilizado para actualizar información existente. Algunos endpoints podrían no admitir PUT, pero sí admitir PATCH si solo necesitan actualizaciones parciales.
+- **DELETE**: Utilizado para eliminar registros existentes. Algunos endpoints podrían no admitir este método por razones de seguridad o integridad de los datos.
+  
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
 Para llevar a cabo la implementación Para realizar el despliegue automático de nuestro Front-End, utilizamos la herramienta -----, el cual permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo. El link de nuestro Front-End es el siguiente: 
