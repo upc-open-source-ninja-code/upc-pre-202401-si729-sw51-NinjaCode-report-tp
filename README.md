@@ -2375,7 +2375,7 @@ Joaquín, de 20 años y diagnosticado con hipotiroidismo en San Miguel, describe
 **SECCIÓN:** SW51  
 **PROFESORES:** Todos  
 **AUDITOR:** Grupo NinjaCode  
-**CLIENTE(S):** Dr. Luis Chinchihualpa, Dr. Ernesto Requejo, Dra. Lucía Festivala  
+**CLIENTE(S):** Dr. Luis Chinchihualpa, Dr. Ernesto Requejo, Dra. Lucía Quispesivana  
 **SITE o APP A EVALUAR:** HormonalCare  
 
 ## TAREAS A EVALUAR
@@ -2453,88 +2453,165 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 **Recomendación:** Clarificar el proceso de pago con instrucciones detalladas y guías visuales para asegurar que los usuarios comprendan cada paso.
 
 
-**Paciente 1**
+# **Pacientes**
 
-**Paciente 2**
-***CARRERA:*** Ingeniería de Software
-***CURSO:*** Desarrollo de Aplicaciones Open Source
-***SECCIÓN:*** SW51
-***PROFESOR:*** Angel Augusto Velasquez Nuñez
-***AUDITOR:*** NinjaCode
-***CLIENTE(S):*** Arnhol
-###### SITE o APP A EVALUAR: HormonalCare
+**CARRERA:** Ingeniería de Software  
+**CURSO:** Desarrollo de Aplicaciones Open Source  
+**SECCIÓN:** SW51  
+**PROFESOR:** Angel Augusto Velasquez Nuñez  
+**AUDITOR:** NinjaCode  
+**CLIENTE(S):** Arnhol Castrejon, Joaquin Benavides, Alicia Garrido  
+**SITE o APP A EVALUAR:** HormonalCare  
 
-###### TAREAS A EVALUAR:
+## TAREAS A EVALUAR
+
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
-
--Registro de un usuario nuevo
--Gestión de historial médico
--Comunicación con el médico
--Uso del calendario de citas
--Seguimiento de medicación
--Recepción de notificaciones de citas médicas
+- Registro de un usuario nuevo
+- Visualización de la pestaña principal
+- Acceso y gestión de la historia clínica
+- Programación de citas médicas
+- Visualización del calendario de citas
+- Gestión de pagos
 
 No están incluidas en esta versión de la evaluación las siguientes tareas:
+- Compartir registros entre usuarios
+- Integración con otros sistemas médicos externos
+- Reportes avanzados de evolución del paciente
+- Manejo de estadísticas detalladas
 
--Integración de las notificaciones.
--Funcionalidades completas de citas medicas y calendario.
+## ESCALA DE SEVERIDAD
 
-
-### ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 | Nivel | Descripción |
 |-------|-------------|
 | 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
-| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja para resolverlo de cara a la siguiente versión. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja para resolverlo en la próxima versión. |
 | 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta. |
 | 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
 
----
+## TABLA RESUMEN
 
-### TABLA RESUMEN:
+| #  | Problema                                                          | Escala de severidad | Heurística/Principio violada(o)                 |
+|----|-------------------------------------------------------------------|---------------------|-------------------------------------------------|
+| 1  | Falta de filtros avanzados en la búsqueda de doctores             | 3                   | Usability: Flexibilidad y eficiencia de uso     |
+| 2  | Dificultad para actualizar información médica en el perfil        | 2                   | Usability: Claridad y simplicidad               |
+| 3  | Interfaz de la sección de elección de doctor necesita más detalles| 2                   | Usability: Feedback y visibilidad               |
+| 4  | Falta de tutorial para guiar al usuario en las características principales | 2                   | Usability: Ayuda y documentación                |
 
-| #   | Problema                                                                          | Escala de severidad | Heurística/Principio violada(o)                          |
-|-----|-----------------------------------------------------------------------------------|---------------------|---------------------------------------------------------|
-| 1   | Algunos elementos de navegación no son lo suficientemente descriptivos            | 2                   | Usabilidad: Consistencia y estándares                    |
-| 2   | La aplicación no proporciona retroalimentación sobre el estado de las acciones     | 3                   | Usabilidad: Visibilidad del estado del sistema           |
+## DESCRIPCIÓN DE PROBLEMAS
 
----
+**PROBLEMA #1: Falta de filtros avanzados en la búsqueda de doctores**  
+**Severidad:** 3  
+**Heurística violada:** Usability - Flexibilidad y eficiencia de uso  
+**Problema:** La aplicación no ofrece filtros avanzados para buscar doctores, lo que limita la precisión y personalización en la búsqueda de un médico especializado.  
+<img src="images/heurisiticapaciente1.png" width=400>
+**Recomendación:** Implementar filtros avanzados por especialidad, ubicación y otros criterios relevantes para mejorar la precisión en la búsqueda de doctores.
 
-**Paciente 1**
+**PROBLEMA #2: Dificultad para actualizar información médica en el perfil**  
+**Severidad:** 2  
+**Heurística violada:** Usability - Claridad y simplicidad  
+**Problema:** Los usuarios encuentran confuso el proceso de actualización de la información médica en su perfil, lo que puede llevar a errores o información desactualizada.  
+<img src="images/heurisiticapaciente2.png" width=400>
+**Recomendación:** Simplificar el proceso de actualización de información médica y añadir indicaciones claras sobre cómo editar los campos necesarios.
 
-**Doctor endocrinólogo 1**
+**PROBLEMA #3: Interfaz de la sección de elección de doctor necesita más detalles**  
+**Severidad:** 2  
+**Heurística violada:** Usability - Feedback y visibilidad  
+**Problema:** La sección de elección de doctor carece de descripciones detalladas, lo que puede confundir a los usuarios sobre las opciones disponibles.  
+<img src="images/heurisiticapaciente3.png" width=400>
+**Recomendación:** Añadir descripciones detalladas de cada doctor, incluyendo especialidades, experiencia y opiniones de otros pacientes para facilitar la elección informada.
 
-**Doctor endocrinólogo 2**
+**PROBLEMA #4: Falta de tutorial para guiar al usuario en las características principales**  
+**Severidad:** 2  
+**Heurística violada:** Usability - Ayuda y documentación  
+**Problema:** La aplicación no incluye un tutorial inicial que guíe al usuario a través de las características principales, lo que puede dificultar la comprensión y el uso eficiente de la aplicación.  
+<img src="images/heurisiticapaciente4.png" width=400>
+**Recomendación:** Implementar un tutorial interactivo que guíe al usuario por las funcionalidades principales al iniciar la aplicación por primera vez.
 
-**Doctor endocrinólogo 3**
+## TESTIMONIOS DE PACIENTES
 
-### DESCRIPCIÓN DE PROBLEMAS:
+### Joaquín Benavides
 
-**PROBLEMA #1: Algunos elementos de navegación no son lo suficientemente descriptivos**
+**Experiencia general:**  
+La experiencia en general es bastante positiva. La aplicación es intuitiva y me permite gestionar mis citas y mi historial médico de manera eficiente, lo que facilita mucho el manejo de mi salud en general.
 
-- **Severidad**: 2
-- **Heurística violada**: Usabilidad - Consistencia y estándares
+**Primera impresión de la landing page e interfaz:**  
+La landing page me parece moderna y profesional. La interfaz es clara y agradable, lo que me da una buena primera impresión. La navegación es bastante intuitiva, aunque en algunas áreas como la búsqueda de doctores sería útil tener más filtros para encontrar exactamente lo que necesito en ese momento.
 
-**Problema**: 
-Algunos elementos de navegación, como ciertos íconos y etiquetas, no son intuitivos para el usuario. Esto puede causar confusión y dificultar la navegación dentro de la aplicación.
+**Funcionalidades útiles:**  
+Las funciones más útiles son la gestión de citas y el acceso a mi historia clínica. Poder gestionar mis citas desde la aplicación sin tener que llamar al consultorio es bastante conveniente, y tener mi historial médico accesible también es muy importante.
 
-**Recomendación**:
-Asegurar que todos los elementos de navegación sean claramente descriptivos y utilizar iconografía estándar reconocida por los usuarios.
+**Aspectos impresionantes:**  
+Me impresiona la forma en que la aplicación maneja los recordatorios automáticos, ya que me ayudan a mantenerme al día con mi tratamiento sin preocupaciones.
 
----
+**Dificultades encontradas:**  
+Encontré algunas dificultades menores al intentar actualizar la información médica en mi perfil. No sé cómo editar ciertos campos, lo que podría mejorarse para ser más intuitivo.
 
-**PROBLEMA #2: La aplicación no proporciona retroalimentación sobre el estado de las acciones**
+**Confusión:**  
+En general, me siento bien informado, pero algunas partes de la interfaz, como la sección de elección de doctor, se beneficiarían de descripciones más detalladas o tutoriales.
 
-- **Severidad**: 3
-- **Heurística violada**: Usabilidad - Visibilidad del estado del sistema
+**Expectativas iniciales:**  
+La aplicación cumple con mis expectativas iniciales en términos de gestión de citas y acceso a mi historial médico. Sin embargo, espero más opciones de personalización en las notificaciones y filtros más avanzados en la búsqueda de doctores.
 
-**Problema**:
-Cuando se realizan acciones como guardar cambios o enviar mensajes, la aplicación no siempre muestra una confirmación clara de que la acción ha sido realizada con éxito.
+**Gestión de información médica:**  
+Acceder a mi información médica es sencillo y rápido. Sin embargo, gestionar y actualizar esta información podría ser más intuitivo, ya que a veces se complica un poco.
 
-**Recomendación**:
-Implementar mensajes de confirmación visibles y claros para todas las acciones críticas dentro de la aplicación.
+**Sugerencias de mejora:**  
+Simplificar el proceso de registro, tal vez mediante la integración con redes sociales o servicios de correo electrónico, e incluir un tutorial que guíe al usuario por las características principales de la aplicación. También se podría mejorar el filtro de doctores por especialidad y otras características para hacer la búsqueda más precisa y personalizada.
 
----
+### Arnhol Castrejon
+
+**Experiencia general:**  
+Mi experiencia general al usar la aplicación HormonalCare fue bastante positiva. La aplicación ofrece una interfaz limpia y fácil de usar, lo cual facilita la gestión de mi salud hormonal. Las funciones están bien organizadas y accesibles, lo que mejora la experiencia del usuario.
+
+**Primera impresión de la landing page e interfaz:**  
+Al ver la landing page y la interfaz de la aplicación, lo primero que pensé fue que se trataba de una herramienta moderna y profesional. La presentación visual es atractiva y transmite una sensación de confianza y seguridad. Sentí que estaba en buenas manos desde el principio.
+
+**Funcionalidades útiles:**  
+Las funcionalidades más útiles de la aplicación fueron los recordatorios de medicación y citas. Los recordatorios me ayudaron a no olvidar mis dosis diarias y citas médicas, lo cual es crucial para el manejo de mi salud.
+
+**Aspectos impresionantes:**  
+El apartado para encontrar a un médico especializado en las enfermedades hormonales me pareció algo muy práctico e impresionante debido a que pude ver la información del médico de manera detallada antes de su contratación.
+
+**Dificultades encontradas:**  
+Me sentí bien informado durante el uso de la aplicación. La información sobre medicamentos y mis citas estaba bien detallada.
+
+**Expectativas iniciales:**  
+La aplicación cumplió con la mayoría de mis expectativas iniciales. Ofreció una plataforma sólida para la gestión de mi salud hormonal y facilitó mi rutina diaria de cuidados.
+
+**Gestión de información médica:**  
+Acceder y gestionar mi información médica desde la sección de historia médica fue fácil y eficiente. Pude ver mis registros anteriores y añadir nueva información sin problemas. La organización cronológica de los datos fue especialmente útil para seguir mi progreso a lo largo del tiempo.
+
+**Sugerencias de mejora:**  
+No veo ningún problema con la aplicación actualmente.
+
+### Alicia Garrido
+
+**Experiencia general:**  
+Mi experiencia general al usar la aplicación HormonalCare fue bastante positiva. La aplicación ofrece una interfaz limpia y fácil de usar, lo cual facilita la gestión de mi salud hormonal. Las funciones están bien organizadas y accesibles, lo que mejora la experiencia del usuario.
+
+**Primera impresión de la landing page e interfaz:**  
+Al ver la landing page y la interfaz de la aplicación, lo primero que pensé fue que se trataba de una herramienta moderna y profesional. La presentación visual es atractiva y transmite una sensación de confianza y seguridad. Sentí que estaba en buenas manos desde el principio.
+
+**Funcionalidades útiles:**  
+Las funcionalidades más útiles de la aplicación fueron los recordatorios de medicación y citas. Los recordatorios me ayudaron a no olvidar mis dosis diarias y citas médicas, lo cual es crucial para el manejo de mi salud.
+
+**Aspectos impresionantes:**  
+El apartado para encontrar a un médico especializado en las enfermedades hormonales me pareció algo muy práctico e impresionante debido a que pude ver la información del médico de manera detallada antes de su contratación.
+
+**Dificultades encontradas:**  
+Me sentí bien informado durante el uso de la aplicación. La información sobre medicamentos y mis citas estaba bien detallada.
+
+**Expectativas iniciales:**  
+La aplicación cumplió con la mayoría de mis expectativas iniciales. Ofreció una plataforma sólida para la gestión de mi salud hormonal y facilitó mi rutina diaria de cuidados.
+
+**Gestión de información médica:**  
+Acceder y gestionar mi información médica desde la sección de historia médica fue fácil y eficiente. Pude ver mis registros anteriores y añadir nueva información sin problemas. La organización cronológica de los datos fue especialmente útil para seguir mi progreso a lo largo del tiempo.
+
+**Sugerencias de mejora:**  
+No veo ningún problema con la aplicación actualmente.
+
 
 
 ## **CONCLUSIONES Y RECOMENDACIONES**
