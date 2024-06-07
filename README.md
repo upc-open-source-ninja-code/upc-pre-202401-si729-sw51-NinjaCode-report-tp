@@ -2296,7 +2296,7 @@ El Dr. Luis Chinchihualpa encontró la aplicación novedosa y útil para el moni
 | **Fila 2** |
 ***Médico 2:***
 | Datos del médico: | Entrevista |
-|---|---|
+|---|
 | <img src="images/EntrevistaRevisionLuciaQuispesivana.png" width=400> | |  
 |  <p>Nombres:  Lucia Barbara </p> <p>Apellidos: Quispesivana Tapia</p> <p> Edad: 33 años</p> <p> Localidad: San Juan de Lurigancho</p> <p> Timing: 4:55 </p> <p> Duración: 4:55 </p> <p style="max-width: 350px;"> Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211742_upc_edu_pe/EUllch4GompOqxssrbxIvcoBUD8-Mf3YKlc-FjtRF528dA?e=FGGt36&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]</p>| |
 | Resumen: <p>Lucia encontró la herramienta muy útil y cree que facilitaría su trabajo. Le llamó la atención la colorimetría y el diseño de los botones. Considera que el uso es fácil y accesible para cualquier médico. Especialmente le gustó el botón de historia clínica por su intuitividad en la razón, diagnóstico y exámenes. Aprecia la distribución de la información. Sugiere que los médicos puedan manipular los exámenes médicos, no solo los pacientes, y que se incluyan más detalles en el tratamiento, como fotos para un mejor seguimiento. Valora la didáctica y minimalista aplicación, la cual cumplió sus expectativas. Sugiere agregar estadísticas de la evolución a lo largo del tiempo como posible mejora.<p>
@@ -2305,7 +2305,7 @@ El Dr. Luis Chinchihualpa encontró la aplicación novedosa y útil para el moni
 | Resumen |
 ***Médico 3:***
 | Datos del médico: | Entrevista |
-|---|---|
+|---|
 |  <p>Nombres:  Ernesto </p> <p>Apellidos: Requejo</p> <p> Edad: 27 años</p> <p> Localidad: San Isidro </p> <p> Timing: 9.58 </p> <p> Duración: 5:00 </p> <p style="max-width: 350px;"> Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211742_upc_edu_pe/EUllch4GompOqxssrbxIvcoBUD8-Mf3YKlc-FjtRF528dA?e=FGGt36&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]</p>| <img src="images/EntrevistaValidacionErnestoRequejo.png" width=300 height= 200> |
 | Resumen:<p>El Dr. Ernesto Requejo, médico general y especialista en endocrinología, encontró la aplicación muy intuitiva y fácil de usar. Destacó la funcionalidad del calendario, que facilita la gestión de citas, y la similitud con los sistemas del seguro, lo que le resultó familiar y útil. Sin embargo, mencionó la necesidad de mejorar las notificaciones, especialmente para pagos y registros de nuevos pacientes, ya que actualmente no funcionan adecuadamente. Apreció la organización de la información en la historia clínica, que le permite actualizar y gestionar fácilmente los datos de los pacientes. En general, la aplicación cumplió con sus expectativas, aunque subrayó la importancia de mejorar las notificaciones para optimizar el servicio.</p> | 
 </p> | 
@@ -2314,7 +2314,7 @@ El Dr. Luis Chinchihualpa encontró la aplicación novedosa y útil para el moni
 
 ***Paciente 1:***
 | Datos del paciente: | Entrevista |
-|---|---|
+|---|
 |  <p>Nombres:  Joaquin </p> <p>Apellidos: Benavides</p> <p> Edad: 20 años</p> <p> Localidad: San Miguel </p> <p> Timing: 14:58 </p> <p> Duración: 4:52 </p> <p style="max-width: 350px;"> Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211742_upc_edu_pe/EUllch4GompOqxssrbxIvcoBUD8-Mf3YKlc-FjtRF528dA?e=FGGt36&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]</p>| <img src="images/EntrevistaJoaquinBenavides.png" width=400> |
 | Resumen:<p>
 
@@ -2322,7 +2322,7 @@ El Dr. Luis Chinchihualpa encontró la aplicación novedosa y útil para el moni
 
 ***Paciente 2:***
 | Datos del paciente: | Entrevista |
-|---|---|
+|---|
 |<img src="images/capentrevista-val-arnhol.png" width=400>| |
 |  <p>Nombres:  Arnhol Alfredo </p> <p>Apellidos: Castrejón Calderon</p> <p> Edad: 19 años.</p> <p> Localidad: La Victoria </p> <p> Timing: 19:50 </p> <p> Duración: 4:52 </p> <p style="max-width: 350px;"> Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211742_upc_edu_pe/EUllch4GompOqxssrbxIvcoBUD8-Mf3YKlc-FjtRF528dA?e=FGGt36&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]</p>|  |
 | Resumen:<p> El paciente Arnhol con hipotiroidismo describe que su experiencia al usar la app de "HormonalCare" fue buena, porque se veía muy bien y estructurado. Además, indica que al ver la landing page y la interfaz web le intereso mucho que la aplicación pueda ayudarle a manejar su historial medico y tratamiento. Luego, menciona que le pareció sencilla la navegación ya que todo es por medio de clicks e indicaciones. Después, el paciente expresa que las funciones que le parecieron más útiles fueron la de comunicación con el médico, calendario, el medicamento que debe consumir, la historia médica y las notificaciones de citas medicas. Finalmente, menciona que la aplicación no le pareció confusa y no tuvo problemas.
@@ -2331,10 +2331,97 @@ El Dr. Luis Chinchihualpa encontró la aplicación novedosa y útil para el moni
 
 ***Paciente 3:***
 | Datos del paciente: | Entrevista |
-|---|---|
+|---|
 |  <p>Nombres:  Alicia Alison </p> <p>Apellidos: Garrido Lujan</p> <p> Edad: : 20 años</p> <p> Localidad: Surco </p> <p> Timing: 24.42 </p> <p> Duración: 4:22 </p> <p style="max-width: 350px;"> Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211742_upc_edu_pe/EUllch4GompOqxssrbxIvcoBUD8-Mf3YKlc-FjtRF528dA?e=FGGt36&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]</p>| <img src="images/EntrevistaAliciaGarrido - copia.png" width=400> |
 | Resumen:<p>
 </p> | 
+
+#### 5.3.3. Evaluaciones según heurísticas.
+
+**Evaluación de User Experience según Heurísticas para la App "HormonalCare"**
+
+**Paciente 1**
+
+**Paciente 2**
+***CARRERA:*** Ingeniería de Software
+***CURSO:*** Desarrollo de Aplicaciones Open Source
+***SECCIÓN:*** SW51
+***PROFESOR:*** Angel Augusto Velasquez Nuñez
+***AUDITOR:*** NinjaCode
+***CLIENTE(S):*** Arnhol
+###### SITE o APP A EVALUAR: HormonalCare
+
+###### TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+-Registro de un usuario nuevo
+-Gestión de historial médico
+-Comunicación con el médico
+-Uso del calendario de citas
+-Seguimiento de medicación
+-Recepción de notificaciones de citas médicas
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+-Integración de las notificaciones.
+-Funcionalidades completas de citas medicas y calendario.
+
+
+### ESCALA DE SEVERIDAD:
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja para resolverlo de cara a la siguiente versión. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+---
+
+### TABLA RESUMEN:
+
+| #   | Problema                                                                          | Escala de severidad | Heurística/Principio violada(o)                          |
+|-----|-----------------------------------------------------------------------------------|---------------------|---------------------------------------------------------|
+| 1   | Algunos elementos de navegación no son lo suficientemente descriptivos            | 2                   | Usabilidad: Consistencia y estándares                    |
+| 2   | La aplicación no proporciona retroalimentación sobre el estado de las acciones     | 3                   | Usabilidad: Visibilidad del estado del sistema           |
+
+---
+
+**Paciente 1**
+
+**Doctor endocrinólogo 1**
+
+**Doctor endocrinólogo 2**
+
+**Doctor endocrinólogo 3**
+
+### DESCRIPCIÓN DE PROBLEMAS:
+
+**PROBLEMA #1: Algunos elementos de navegación no son lo suficientemente descriptivos**
+
+- **Severidad**: 2
+- **Heurística violada**: Usabilidad - Consistencia y estándares
+
+**Problema**: 
+Algunos elementos de navegación, como ciertos íconos y etiquetas, no son intuitivos para el usuario. Esto puede causar confusión y dificultar la navegación dentro de la aplicación.
+
+**Recomendación**:
+Asegurar que todos los elementos de navegación sean claramente descriptivos y utilizar iconografía estándar reconocida por los usuarios.
+
+---
+
+**PROBLEMA #2: La aplicación no proporciona retroalimentación sobre el estado de las acciones**
+
+- **Severidad**: 3
+- **Heurística violada**: Usabilidad - Visibilidad del estado del sistema
+
+**Problema**:
+Cuando se realizan acciones como guardar cambios o enviar mensajes, la aplicación no siempre muestra una confirmación clara de que la acción ha sido realizada con éxito.
+
+**Recomendación**:
+Implementar mensajes de confirmación visibles y claros para todas las acciones críticas dentro de la aplicación.
+
+---
 
 
 ## **CONCLUSIONES Y RECOMENDACIONES**
