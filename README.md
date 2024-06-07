@@ -2292,14 +2292,14 @@ Para realizar el despliegue automático de nuestra Web Application, utilizamos N
 
 Para el despliegue del Back-End, hemos utilizado Railway, donde subimos el repositorio del backend y configuramos MySQL.
 ##### A continuación se muestran las evidencias: 
-<src = "images/evidence1.png">
-<src = "images/evidence2.png">
-<src = "images/evidence3.png">
-<src = "images/evidence4.png">
+<img src = "images/evidence1.png">
+<img src = "images/evidence2.png">
+<img src = "images/evidence3.png">
+<img src = "images/evidence4.png">
 
 **-Prueba de API Rest desplegada usando rail way para el endpoint medications:**
 
-<src = "images/deploy2.png">
+<img src = "images/deploy2.png">
 [https://hormonal-care-backend.up.railway.app/api/v1/medical-record/medications]
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint.
