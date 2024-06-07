@@ -2304,12 +2304,12 @@ En la presente entrega, se llevaron a cabo avances del backend de la aplicación
 - **Navegación a través de todas las sección de la landing page.**
 **Principales tareas en la aplicación**
 - **Navegación a través de la aplicación web**
-
-**User Flow: **
-1. El 
-2. P
-3. R
-4. 
+ 
+**User Flow:**
+1. Para este objetivo el paciente se encuentra en la página de log in de la aplicación y al hacer click en el botón register, se le dirigirá a una pestaña en la que podrá seleccionar su tipo de usuario. Luego de seleccionar la opción de Paciente como tipo de usuario, se le redirigirá a una instancia en la que podrá llenar un formulario con sus datos. Una vez completados los datos y le dé click al botón de Register, se le dirigirá al home de la aplicación
+2. Con el paciente se encuentre en la página de login de la aplicación, digite sus credenciales y haga clic en el botón login, será redirigido a la vista principal del paciente.
+3. Cuando el paciente se encuentra en la vista principal y haga clic en el icono de calendario del toolbar principal, el sistema desplegará un calendario para que el paciente pueda ver las fechas de sus próximas citas.
+4. Con el paciente se encuentre en la vista principal de la aplicación y haga clic sobre el icono de su foto de perfil en la barra de navegación, el paciente podrá acceder a su perfil y poder editar su información personal.
 
 **Preguntas**
 - ¿Cómo describirías tu experiencia general al usar la aplicación HormonalCare?
@@ -2330,9 +2330,10 @@ En la presente entrega, se llevaron a cabo avances del backend de la aplicación
 **Principales tareas en la aplicación**
 - **Navegación a través de la aplicación web**
 
-**User Flow: **
-1. El usuario ingresa a la Landing Page
-2. Puls
+**User Flow:**
+1. Seleccionar el apartado de registro como médico endocrinólogo, luego ingresar sus datos personales y adjunta los documentos que validen su cargo como especialista.
+2. Con el médico endocrinólogo se encuentre en la página de login de la aplicación, digite sus credenciales y haga clic en el botón login, será redirigido a la vista principal del médico endocrinólogo.
+3. Con el médico endocrinólogo se encuentre en la vista principal de la aplicación y haga clic sobre el icono de su foto de perfil en la barra de navegación, el paciente podrá acceder a su perfil y poder editar su información personal.
 
 **User Flow: P**
 1. 
