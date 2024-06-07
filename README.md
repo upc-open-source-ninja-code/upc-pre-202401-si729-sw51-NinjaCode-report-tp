@@ -2210,8 +2210,16 @@ En cuanto a los avances de la implementación de nuestro tercer sprint, se puede
 
 ##### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
-A continuación, se muestra ....
-capturas
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+| - | - | - | - | - | - |
+|Acceptance-Test| US51.feature |474174b|Create US51.feature|-|7/06/2024|
+|Acceptance-Test| US52.feature |0e9f7b0|Create US52.feature|-|7/06/2024|
+|Acceptance-Test| US53.feature |cc368d1|Create US53.feature|-|7/06/2024|
+|Acceptance-Test| US54.feature|18a6135|Create US54.feature|-|7/06/2024|
+|Acceptance-Test| US55.feature |0dae3bc|Create US55.feature|-|7/06/2024|
+|Acceptance-Test| US56.feature |b067c80|Create US56.feature|-|7/06/2024|
+|Acceptance-Test| US57.feature|b61b43b|Create US57.feature |-|7/06/2024|
+|Acceptance-Test| US58.feature |6d60a64|Create US58.feature|-|7/06/2024|
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review.
 En este Sprint, nuestro equipo se enfocó en la implementación del backend de la aplicación Hormonal Care. Hemos desarrollado los principales endpoints necesarios para la funcionalidad de la aplicación, permitiendo la gestión de historia medica con, registro de medicación, tipos de medicamentos, receta medica, razones de consulta, tratamientos médicos, exámenes médicos y sus tipos, calendario y perfiles como doctor y paciente. A continuación, se presentan los endpoints implementados:
