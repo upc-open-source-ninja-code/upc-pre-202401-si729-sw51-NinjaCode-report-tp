@@ -2368,7 +2368,90 @@ Joaquín, de 20 años y diagnosticado con hipotiroidismo en San Miguel, describe
 
 #### 5.3.3. Evaluaciones según heurísticas.
 
-**Evaluación de User Experience según Heurísticas para la App "HormonalCare"**
+**Doctores**
+
+**CARRERA:** Ingeniería de Software  
+**CURSO:** Desarrollo de Aplicaciones Open Source  
+**SECCIÓN:** SW51  
+**PROFESORES:** Todos  
+**AUDITOR:** Grupo NinjaCode  
+**CLIENTE(S):** Dr. Luis Chinchihualpa, Dr. Ernesto Requejo, Dra. Lucía Festivala  
+**SITE o APP A EVALUAR:** HormonalCare  
+
+## TAREAS A EVALUAR
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+- Registro de un usuario nuevo
+- Visualización de la pestaña principal
+- Acceso y gestión de la historia clínica
+- Programación de citas médicas
+- Visualización del calendario de citas
+- Gestión de pagos
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+- Compartir registros entre usuarios
+- Integración con otros sistemas médicos externos
+- Reportes avanzados de evolución del paciente
+- Manejo de estadísticas detalladas
+
+## ESCALA DE SEVERIDAD
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja para resolverlo en la próxima versión. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+## TABLA RESUMEN
+
+| #  | Problema                                                          | Escala de severidad | Heurística/Principio violada(o)                 |
+|----|-------------------------------------------------------------------|---------------------|-------------------------------------------------|
+| 1  | Falta de notificaciones para pagos y registros de nuevos pacientes | 3                   | Usability: Feedback y visibilidad               |
+| 2  | Necesidad de menús desplegables y base de datos editable para exámenes médicos | 4                   | Usability: Flexibilidad y eficiencia de uso     |
+| 3  | Falta de visualización de cartera de pacientes                    | 2                   | Information Architecture: Is it usable?         |
+| 4  | Interfaz no especifica claramente el proceso de pago              | 3                   | Usability: Claridad y simplicidad               |
+
+## DESCRIPCIÓN DE PROBLEMAS
+
+**PROBLEMA #1: Falta de notificaciones para pagos y registros de nuevos pacientes**  
+**Severidad:** 3  
+**Heurística violada:** Usability - Feedback y visibilidad  
+**Problema:** La aplicación no envía notificaciones adecuadas sobre los pagos de citas y el registro de nuevos pacientes, lo cual puede causar confusión y retrasos en la atención.  
+
+<img src="images/heuristicaDoctor1.png" width=400>
+
+**Recomendación:** Implementar un sistema de notificaciones claro y visible que informe a los médicos y pacientes sobre el estado de los pagos y registros.
+
+**PROBLEMA #2: Necesidad de menús desplegables y base de datos editable para exámenes médicos**  
+**Severidad:** 4  
+**Heurística violada:** Usability - Flexibilidad y eficiencia de uso  
+**Problema:** La aplicación no permite modificar directamente la información de exámenes médicos, limitando la flexibilidad y eficiencia del uso.  
+
+<img src="images/heuristicaDoctor2.png" width=400>
+
+**Recomendación:** Implementar menús desplegables y una base de datos editable para que tanto médicos como pacientes puedan gestionar adecuadamente los exámenes médicos.
+
+**PROBLEMA #3: Falta de visualización de cartera de pacientes**  
+**Severidad:** 2  
+**Heurística violada:** Information Architecture - Is it usable?  
+**Problema:** Ausencia de un panel de visualización de todos los pacientes con los que el doctor cuenta.  
+
+<img src="images/heuristicaDoctor3.png" width=400>
+
+**Recomendación:** Añadir un panel en el home de doctor para que pueda visualizar todos sus pacientes.
+
+**PROBLEMA #4: Interfaz no especifica claramente el proceso de pago**  
+**Severidad:** 3  
+**Heurística violada:** Usability - Claridad y simplicidad  
+**Problema:** Los usuarios encuentran confuso el proceso de pago dentro de la aplicación, lo que puede llevar a errores y pagos no completados debido a que no aparece el modal del pago.  
+
+<img src="images/heuristicaDoctor4.png" width=400>
+
+**Recomendación:** Clarificar el proceso de pago con instrucciones detalladas y guías visuales para asegurar que los usuarios comprendan cada paso.
+
 
 **Paciente 1**
 
