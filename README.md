@@ -1850,7 +1850,12 @@ https://github.com/upc-open-source-ninja-code/Landing-Page
 
 Single Page Application: Este repositorio contiene el código fuente de la aplicación web principal del proyecto. Esta aplicación es el núcleo del proyecto y es donde los usuarios interactúan con las principales características y funcionalidades del proyecto.
 
-https://github.com/upc-open-source-ninja-code/Single-Page-Application
+https://github.com/upc-open-source-ninja-code/HormonalCare-frontend
+
+
+Fake Api: Este repositorio contiene el código fuente de la API falsa que se utiliza para proporcionar datos de prueba y simular interacciones con el backend. Esta API es fundamental para el desarrollo y pruebas de la aplicación web principal del proyecto.
+
+https://github.com/upc-open-source-ninja-code/Fake-API
 
 
 Acceptance Test: Este repositorio contiene las pruebas de aceptación del proyecto. Estas pruebas son esenciales para garantizar que todas las características y funcionalidades del proyecto funcionan como se esperaba y para identificar y corregir cualquier problema o error que pueda surgir.
@@ -1940,7 +1945,7 @@ Los pasos que seguimos:
 2.	Dentro del repositorio, accedemos a la pestaña “Settings” y buscamos la sección “Deploy” en el menú lateral.
 3.	En la sección “Deploy”, seleccionamos la rama main desde la cual se desplegará las aplicaciones.
 4.	Tras seleccionar la rama, confirmamos los cambios realizados, y Vercel realizo el proceso de despliegue de las aplicaciones.
-5.	Una vez finalizado el proceso de despliegue, Vercel nos proporcionó el enlace para ver nuestra frontend web applications publicadas ([]()).
+5.	Una vez finalizado el proceso de despliegue, Vercel nos proporcionó el enlace para ver nuestra frontend web applications publicadas ([https://main--stupendous-kangaroo-4e2bfa.netlify.app](https://main--stupendous-kangaroo-4e2bfa.netlify.app)).
 
 
 
@@ -2340,9 +2345,9 @@ El Dr. Luis Chinchihualpa encontró la aplicación novedosa y útil para el moni
 ***Paciente 1:***
 | Datos del paciente: | Entrevista |
 |---|
-|  <p>Nombres:  Joaquin </p> <p>Apellidos: Benavides</p> <p> Edad: 20 años</p> <p> Localidad: San Miguel </p> <p> Timing: 14:58 </p> <p> Duración: 4:52 </p> <p style="max-width: 350px;"> Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211742_upc_edu_pe/EUllch4GompOqxssrbxIvcoBUD8-Mf3YKlc-FjtRF528dA?e=FGGt36&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]</p>| <img src="images/EntrevistaJoaquinBenavides.png" width=400> |
+|  <p>Nombres:  Joaquin </p> <p>Apellidos: Benavides</p> <p> Edad: 20 años</p> <p> Localidad: San Miguel </p> <p> Timing: 14:58 </p> <p> Duración: 4:02 </p> <p style="max-width: 350px;"> Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211742_upc_edu_pe/EUllch4GompOqxssrbxIvcoBUD8-Mf3YKlc-FjtRF528dA?e=FGGt36&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]</p>| <img src="images/paciente1-vali.png" width=400> |
 | Resumen:<p>
-
+Joaquín, de 20 años y diagnosticado con hipotiroidismo en San Miguel, describe su experiencia con la aplicación HormonalCare como positiva. La encuentra intuitiva y eficiente para gestionar citas y su historial médico. Destaca la landing page moderna y profesional, y aunque la navegación es buena, sugiere que la búsqueda de doctores podría tener filtros más avanzados. Las notificaciones automáticas para citas y medicamentos le parecen especialmente útiles. Sin embargo, señala dificultades menores al actualizar su información médica y sugiere mejorar la intuición en esta área. También propone simplificar el registro, añadir tutoriales y mejorar los filtros de búsqueda de doctores para una experiencia más personalizada. En general, la aplicación cumple sus expectativas en gestión de citas y acceso al historial médico, pero espera más opciones de personalización y mejoras en la interfaz.
 </p> | 
 
 ***Paciente 2:***
