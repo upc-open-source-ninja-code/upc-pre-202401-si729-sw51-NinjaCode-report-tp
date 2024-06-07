@@ -2288,9 +2288,10 @@ Para llevar a cabo la implementación Para realizar el despliegue automático de
 
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint.
-Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso de la herramienta Web Storm, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github. El líder del grupo aprobó los pull request correspondientes que se solicitaron. Además, cada integrante trabajó en uno o varios features y se realizaron merge entre los features y develop.
+En la presente entrega, se llevaron a cabo avances del backend de la aplicación web usando como software al IDE IntelliJ Idea y git. De las misma forma que en entregas anteriores, se dividió las partes del bounded context de Medical Record entre los integrantes del grupo. Se creó el repositorio dentro de la organización NinjaCode en donde cada alumno creó su rama para trabajar en el feature asignado. Una vez que sus implementaciones estaban realizadas de forma correcta, cada participante llevaba los commits de su rama a la rama Develop.
+<img src="images/evidenceSprint31.png">
+<img src="images/evidenceSprint32.png">
 
-<img src="images/collaboration.png">
 
 ### 5.3. Validation Interviews
 
