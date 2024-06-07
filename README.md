@@ -2507,6 +2507,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 **Heurística violada:** Usability - Flexibilidad y eficiencia de uso  
 **Problema:** La aplicación no ofrece filtros avanzados para buscar doctores, lo que limita la precisión y personalización en la búsqueda de un médico especializado.  
 <img src="images/heurisiticapaciente1.png" width=400>
+
 **Recomendación:** Implementar filtros avanzados por especialidad, ubicación y otros criterios relevantes para mejorar la precisión en la búsqueda de doctores.
 
 **PROBLEMA #2: Dificultad para actualizar información médica en el perfil**  
@@ -2514,6 +2515,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 **Heurística violada:** Usability - Claridad y simplicidad  
 **Problema:** Los usuarios encuentran confuso el proceso de actualización de la información médica en su perfil, lo que puede llevar a errores o información desactualizada.  
 <img src="images/heurisiticapaciente2.png" width=400>
+
 **Recomendación:** Simplificar el proceso de actualización de información médica y añadir indicaciones claras sobre cómo editar los campos necesarios.
 
 **PROBLEMA #3: Interfaz de la sección de elección de doctor necesita más detalles**  
@@ -2521,6 +2523,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 **Heurística violada:** Usability - Feedback y visibilidad  
 **Problema:** La sección de elección de doctor carece de descripciones detalladas, lo que puede confundir a los usuarios sobre las opciones disponibles.  
 <img src="images/heurisiticapaciente3.png" width=400>
+
 **Recomendación:** Añadir descripciones detalladas de cada doctor, incluyendo especialidades, experiencia y opiniones de otros pacientes para facilitar la elección informada.
 
 **PROBLEMA #4: Falta de tutorial para guiar al usuario en las características principales**  
@@ -2528,6 +2531,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 **Heurística violada:** Usability - Ayuda y documentación  
 **Problema:** La aplicación no incluye un tutorial inicial que guíe al usuario a través de las características principales, lo que puede dificultar la comprensión y el uso eficiente de la aplicación.  
 <img src="images/heurisiticapaciente4.png" width=400>
+
 **Recomendación:** Implementar un tutorial interactivo que guíe al usuario por las funcionalidades principales al iniciar la aplicación por primera vez.
 
 
