@@ -2214,8 +2214,42 @@ A continuación, se muestra ....
 capturas
 
 ##### 5.2.3.5. Execution Evidence for Sprint Review.
-Lo alcanzado en este sprint es la implementación de lso siguientes endpoints de la API rest.
-**_screenshots de las principales vistas implementadas:**
+En este Sprint, nuestro equipo se enfocó en la implementación del backend de la aplicación Hormonal Care. Hemos desarrollado los principales endpoints necesarios para la funcionalidad de la aplicación, permitiendo la gestión de historia medica con, registro de medicación, tipos de medicamentos, receta medica, razones de consulta, tratamientos médicos, exámenes médicos y sus tipos, calendario y perfiles como doctor y paciente. A continuación, se presentan los endpoints implementados:
+
+
+### Capturas de Pantalla
+A continuación se presentan capturas de pantalla de las principales vistas implementadas:
+
+***-reason-of-consultation***
+<img src = "images/postman1.png">
+<img src = "images/postman2.png">
+<img src = "images/postman3.png">
+<img src = "images/deploy1.png">
+
+***-medications***
+<img src = "images/postman4.png">
+<img src = "images/postman6.png">
+<img src = "images/postman9.png">
+<img src = "images/deploy2.png">
+<img src = "images/deploy3.png">
+<img src = "images/deploy4.png">
+
+***-medical-exams***
+<img src = "images/postman10.png">
+<img src = "images/deploy5.png">
+
+***-treatments***
+<img src = "images/postman14.png">
+<img src = "images/postman15.png">
+<img src = "images/deploy8.png">
+
+***-Calendar***
+<img src = "images/postman12.png">
+<img src = "images/deploy7.png">
+
+### Enlace al Video
+En el siguiente video se muestra las funcionalidades implementadas en este sprint:
+ [Video de Sprint 3](images/videosprint3.mp4)
 
 
 <img src="images/evidence-spring2-1.png">
