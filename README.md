@@ -2284,8 +2284,23 @@ Además, con respecto a los métodos HTTP permitidos, algunos endpoints podrían
   
 ##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
-Para llevar a cabo la implementación Para realizar el despliegue automático de nuestro Front-End, utilizamos la herramienta -----, el cual permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo. El link de nuestro Front-End es el siguiente: 
+Para llevar a cabo la implementación del despliegue automático de nuestra aplicación HormonalCare, utilizamos las siguientes herramientas:
 
+Para realizar el despliegue automático de nuestra Landing Page, utilizamos la función que nos brinda Github Pages, donde pudimos alojar el código de nuestra página para que, mediante la función, se pueda visualizar en un enlace autogenerado. El enlace de nuestra Landing Page es el siguiente: [https://upc-open-source-ninja-code.github.io/Landing-Page/].
+
+Para realizar el despliegue automático de nuestra Web Application, utilizamos Netlify para alojar nuestro código desarrollado y generar una página web en base al despliegue del desarrollo. El enlace de nuestro servicio es el siguiente: [https://main--stupendous-kangaroo-4e2bfa.netlify.app/selectRole].
+
+Para el despliegue del Back-End, hemos utilizado Railway, donde subimos el repositorio del backend y configuramos MySQL.
+##### A continuación se muestran las evidencias: 
+<src = "images/evidence1.png">
+<src = "images/evidence2.png">
+<src = "images/evidence3.png">
+<src = "images/evidence4.png">
+
+**-Prueba de API Rest desplegada usando rail way para el endpoint medications:**
+
+<src = "images/deploy2.png">
+[https://hormonal-care-backend.up.railway.app/api/v1/medical-record/medications]
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint.
 En la presente entrega, se llevaron a cabo avances del backend de la aplicación web usando como software al IDE IntelliJ Idea y git. De las misma forma que en entregas anteriores, se dividió las partes del bounded context de Medical Record entre los integrantes del grupo. Se creó el repositorio dentro de la organización NinjaCode en donde cada alumno creó su rama para trabajar en el feature asignado. Una vez que sus implementaciones estaban realizadas de forma correcta, cada participante llevaba los commits de su rama a la rama Develop.
