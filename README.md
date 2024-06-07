@@ -2362,7 +2362,7 @@ Joaquín, de 20 años y diagnosticado con hipotiroidismo en San Miguel, describe
 ***Paciente 3:***
 | Datos del paciente: | Entrevista |
 |---|
-|  <p>Nombres:  Alicia Alison </p> <p>Apellidos: Garrido Lujan</p> <p> Edad: : 20 años</p> <p> Localidad: Surco </p> <p> Timing: 24.42 </p> <p> Duración: 4:22 </p> <p style="max-width: 350px;"> Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211742_upc_edu_pe/EUllch4GompOqxssrbxIvcoBUD8-Mf3YKlc-FjtRF528dA?e=FGGt36&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]</p>| <img src="images/EntrevistaAliciaGarrido - copia.png" width=400> |
+|  <p>Nombres:  Alicia Alison </p> <p>Apellidos: Garrido Lujan</p> <p> Edad: : 20 años</p> <p> Localidad: Surco </p> <p> Timing: 24.42 </p> <p> Duración: 4:22 </p> <p style="max-width: 350px;"> Link: [https://upcedupe-my.sharepoint.com/personal/u202215312_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215312%5Fupc%5Fedu%5Fpe%2FDocuments%2F2024%2D06%2D06%2019%2D27%2D35%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efbb1646e%2D81c7%2D405d%2Db12a%2D390219382074]</p>| <img src="images/EntrevistaValidacionSebastianLobato.png - copia.png" width=400> |
 | Resumen:<p>
 </p> | 
 
