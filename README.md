@@ -2289,8 +2289,8 @@ Para llevar a cabo la implementación Para realizar el despliegue automático de
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint.
 En la presente entrega, se llevaron a cabo avances del backend de la aplicación web usando como software al IDE IntelliJ Idea y git. De las misma forma que en entregas anteriores, se dividió las partes del bounded context de Medical Record entre los integrantes del grupo. Se creó el repositorio dentro de la organización NinjaCode en donde cada alumno creó su rama para trabajar en el feature asignado. Una vez que sus implementaciones estaban realizadas de forma correcta, cada participante llevaba los commits de su rama a la rama Develop.
-<img src="images/evidenceSprint31.png">
-<img src="images/evidenceSprint32.png">
+<img src="images/evidenceSprint31.png" width=400>
+<img src="images/evidenceSprint32.png" width=400>
 
 
 ### 5.3. Validation Interviews
