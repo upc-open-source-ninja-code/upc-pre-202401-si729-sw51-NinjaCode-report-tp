@@ -2256,13 +2256,6 @@ A continuación se presentan capturas de pantalla de las principales vistas impl
 <img src = "images/postman12.png">
 <img src = "images/deploy7.png">
 
-### Enlace al Video
-En el siguiente video se muestra las funcionalidades implementadas en este sprint:
- [Video de Sprint 3](images/videosprint3.mp4)
-
-
-<img src="images/evidence-spring2-1.png">
-
 
 Link al video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218451_upc_edu_pe/EbyAhQWeUI5MnsNLvfM42PcBVWQLQGO47PHjy2U5S_uHaA?e=OcifcD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218451_upc_edu_pe/EbyAhQWeUI5MnsNLvfM42PcBVWQLQGO47PHjy2U5S_uHaA?e=OcifcD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
