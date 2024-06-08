@@ -94,7 +94,7 @@ Para respaldar nuestra colaboración y transparencia, presentamos una imagen de 
 
 
 <div  align="center">
-<img src="images/GeneralCommits2.png">
+<img src="images/tb2.png">
 </div>
 
 ## Contenido
