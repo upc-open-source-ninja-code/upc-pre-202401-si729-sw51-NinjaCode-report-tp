@@ -2595,7 +2595,23 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 **Recomendación:** Implementar un tutorial interactivo que guíe al usuario por las funcionalidades principales al iniciar la aplicación por primera vez.
 
 
+### 5.4. Video About-the-Product.
+En esta sección, presentamos un video detallado sobre HormonalCare, diseñado para ofrecer una visión completa de sus características, funcionalidades, ventajas y una opinion de un paciente y medico acerca del mismo. 
 
+A continuación, puedes ver el video a través de dos plataformas:
+
+
+
+**Link video en Youtube:** https://youtu.be/STOvoLPNSbs
+
+**Link video en Microsoft Stream** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215099_upc_edu_pe/EdYnIhWUGZNHujBHghSjEF8Bk0Qr5-x0hvOgADo3-e0jhQ?e=jZ6Dav&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+
+<div align="center">
+<img src="images/imagen video about the product.png" width=400>
+
+</div>
 
 ## **CONCLUSIONES Y RECOMENDACIONES**
 
