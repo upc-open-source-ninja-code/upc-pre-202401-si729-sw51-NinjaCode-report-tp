@@ -1667,7 +1667,7 @@ Link: https://lucid.app/lucidchart/d44fb0b9-bf32-40fc-95c1-5925166b7d09/edit?vie
 
 
 #### Class Diagram
-![](images/ClassDiagrams.png)
+![](images/NinjaCode_Diagrama.png)
 
 Link: [https://lucid.app/lucidchart/abe981e7-1c29-4d33-af25-1a2ba48c3300/edit?viewport_loc=-7598%2C-884%2C3976%2C2123%2C0_0&invitationId=inv_34e168e9-90db-4b20-9ca7-1c81ca7a0310](https://lucid.app/lucidchart/abe981e7-1c29-4d33-af25-1a2ba48c3300/edit?viewport_loc=-7598%2C-884%2C3976%2C2123%2C0_0&invitationId=inv_34e168e9-90db-4b20-9ca7-1c81ca7a0310)
 ### 4.7.2.   Class Dictionary.
