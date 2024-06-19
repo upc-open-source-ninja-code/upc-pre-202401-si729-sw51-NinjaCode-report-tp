@@ -1646,28 +1646,28 @@ Link: [https://www.figma.com/file/5bhJ7aAWlbKHEJgjVZ8Gfc/ninjacode?type=design&n
 
 
 #### Identity & Access Class Diagram
-![](images/Identity&Access_diagram.png)
+![](images/identityaccess.png)
 #### Profile Class Diagram
-![](images/Profile_diagram.png)
+![](images/profile.png)
 #### Communication Class Diagram
-![](images/Communication_diagram.png)
+![](images/communication.png)
 #### Subscription and Payments Class Diagram
-![](images/SubscriptionandPayments_diagram.png)
+![](images/subscription.png)
 #### Medical Appointment Class Diagram
-![](images/MedicalAppointment_diagram.png)
+![](images/mappointment.png)
 #### History Medical Class Diagram
-![](images/HistoryMedical_diagram.png)
+![](images/hmedical.png)
 #### Calendar Class Diagram
-![](images/Calendar_diagram.png)
+![](images/calendar.png)
 #### Notification Class Diagram
-![](images/Notification_diagram.png)
+![](images/notification.png)
 
 Link: https://lucid.app/lucidchart/d44fb0b9-bf32-40fc-95c1-5925166b7d09/edit?viewport_loc=-6058%2C-4170%2C9111%2C6374%2C0_0&invitationId=inv_1c796232-59df-47e8-aa7a-00e4001bc754
 
 
 
 #### Class Diagram
-![](images/NinjaCode_Diagrama.png)
+![](images/classdiagram.png)
 
 Link: [https://lucid.app/lucidchart/abe981e7-1c29-4d33-af25-1a2ba48c3300/edit?viewport_loc=-7598%2C-884%2C3976%2C2123%2C0_0&invitationId=inv_34e168e9-90db-4b20-9ca7-1c81ca7a0310](https://lucid.app/lucidchart/abe981e7-1c29-4d33-af25-1a2ba48c3300/edit?viewport_loc=-7598%2C-884%2C3976%2C2123%2C0_0&invitationId=inv_34e168e9-90db-4b20-9ca7-1c81ca7a0310)
 ### 4.7.2.   Class Dictionary.
