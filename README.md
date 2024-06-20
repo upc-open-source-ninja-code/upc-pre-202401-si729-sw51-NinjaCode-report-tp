@@ -2592,10 +2592,10 @@ A continuación, puedes ver el video a través de dos plataformas:
 
 
 
-**Link video en Youtube:** https://youtu.be/STOvoLPNSbs (duracion: 2:15)
+**Link video en Youtube:** https://youtu.be/rZrRMwphbxY (duracion: 1:37)
 
-**Link video en Microsoft Stream** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215099_upc_edu_pe/EdYnIhWUGZNHujBHghSjEF8Bk0Qr5-x0hvOgADo3-e0jhQ?e=jZ6Dav&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-(duracion: 2:15)
+**Link video en Microsoft Stream** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215099_upc_edu_pe/EcmkmF5OJHFFjfJWigMGsR8BDIRuh33cZ3w8OLi5H078Aw?e=8tUt4m&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+(duracion: 1:37)
 
 
 <div align="center">
@@ -2642,3 +2642,10 @@ A continuación, puedes ver el video a través de dos plataformas:
 >>>>>>> parent of 6751f98 (Update readme.md)
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## ANEXOS
+
+* Video About the product *
+
+**Link video en Youtube:** https://youtu.be/rZrRMwphbxY (duracion: 1:37)
