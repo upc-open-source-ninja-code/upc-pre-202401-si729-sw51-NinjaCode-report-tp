@@ -2643,9 +2643,59 @@ A continuación, puedes ver el video a través de dos plataformas:
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
+* Video About-the-Team. 
 
-## ANEXOS
+**Link video en Youtube:** https://youtu.be/DnfOV7qsQBs (duración: 10:19)
+
+
+
+**Link video en Microsoft Stream:** 
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215099_upc_edu_pe/EWZOQMv9iqRCtuCOmrtsPQQBsVK6cnPKlrGpj7fWaUTXjw?e=3HHWsv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+(duración: 10:19)
+
+<img src="images/about the team.png" width=400>
+
+[0:00 Presentación]
+
+[0:06 Sesión de trabajo real del equipo]
+
+[05:05 Testimonios]
+
+[05:08 Testimonio de Luis Chinchihualpa]
+
+[06:09 Testimonio de Jherson Astuyauri]
+
+[07:02 Testimonio de Claudio Quispesivana]
+
+[08:04 Testimonio de Estefano Lostaunau]
+
+[08:57 Testimonio de Sebastian Lobato]
+
+[10:07 Despedida]
+
+## ANEXO A
 
 * Video About the product *
 
 **Link video en Youtube:** https://youtu.be/rZrRMwphbxY (duracion: 1:37)
+
+**Link video en Youtube:** https://youtu.be/DnfOV7qsQBs (duración: 10:19)
+
+[0:00 Presentación]
+
+[0:06 Sesión de trabajo real del equipo]
+
+[05:05 Testimonios]
+
+[05:08 Testimonio de Luis Chinchihualpa]
+
+[06:09 Testimonio de Jherson Astuyauri]
+
+[07:02 Testimonio de Claudio Quispesivana]
+
+[08:04 Testimonio de Estefano Lostaunau]
+
+[08:57 Testimonio de Sebastian Lobato]
+
+[10:07 Despedida]
