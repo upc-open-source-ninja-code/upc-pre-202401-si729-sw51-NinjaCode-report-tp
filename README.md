@@ -2326,12 +2326,14 @@ En la presente entrega, se llevaron a cabo avances del backend de la aplicación
 |Prepared By|Astuyauri Calderon Jherson David|
 |Attendees (to planning meeting)|Astuyauri Calderon Jherson David / Chinchihualpa Saldarriaga Luis Sebastian / Lobato Pozo Sebastian Valente / Lostaunau Pereira Estéfano Sebastián / Quispesivana Torres Claudio Sandro|
 |**Sprint Goal & User Stories**||
-|Sprint 4 Goal|Integrar y conectar los perfiles de pacientes y doctores con la información de consultas y tratamientos.|
+|Sprint 4 Goal|Integrar y conectar el frontend con el backend.|
 |Sprint 4 Velocity|50|
-|Sum of Story Points|45|
+|Sum of Story Points|50|
 
 #### 5.3.3.2. Sprint Backlog 4.
-#### En la cuarta entrega de nuestro proyecto, conectamos los perfiles de pacientes y doctores con la información de consultas y tratamientos, integrando el frontend y el backend de la aplicación.
+
+En la cuarta entrega de nuestro proyecto, conectamos los perfiles de pacientes y doctores con la información de consultas y tratamientos, integrando el frontend y el backend de la aplicación. Además, se ampliará la funcionalidad para asegurar una mejor gestión y visualización de la información médica, incluyendo historial médico, exámenes médicos y reportes externos.
+
 
 | ID   | User Story                           | Work-Item / Task                                     | Description                                                                                                         | Estimation (Hours) | Assigned To | Status   |
 |------|--------------------------------------|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|--------------------|-------------|----------|
@@ -2341,8 +2343,22 @@ En la presente entrega, se llevaron a cabo avances del backend de la aplicación
 | US60 | Tabla de Pacientes de Hoy            | T01: Diseño del componente de la tabla               | Diseñar el componente frontend para mostrar la lista de pacientes con citas hoy.                                    | 4                  | Sandro      | Done     |
 |      |                                      | T02: Implementación del componente de la tabla       | Implementar el componente frontend y conectar con el backend para obtener la lista de pacientes de hoy.             | 8                  | Luis        | Done     |
 |      |                                      | T03: Pruebas del componente de la tabla              | Realizar pruebas para asegurar que la tabla muestra correctamente la información de pacientes con citas hoy.        | 4                  | Sebastian   | Done     |
-| US61 | Gestión de Razones de Consulta       | T01: Implementación del frontend para razones        | Implementar la interfaz frontend para mostrar y gestionar las razones de consulta y sus descripciones.               | 8                  | Jherson     | Done     |
+| US61 | Gestión de Razones de Consulta       | T01: Implementación del frontend para razones        | Implementar la interfaz frontend para mostrar y gestionar las razones de consulta y sus descripciones.              | 8                  | Jherson     | Done     |
 | US62 | Gestión de Tratamientos y Medicación | T01: Implementación del frontend para tratamientos   | Implementar la interfaz frontend para mostrar y gestionar los tratamientos y medicación asociados a una consulta.    | 8                  | Estefano    | Done     |
+| US63 | Ver Historial Médico del Paciente    | T01: Diseño del componente de historial médico       | Diseñar el componente frontend para mostrar el historial médico detallado de cada paciente.                         | 4                  | Sandro      | Done |
+|      |                                      | T02: Implementación del componente de historial      | Implementar el componente frontend y conectar con el backend para mostrar el historial médico de cada paciente.     | 10                 | Luis        | Done  |
+|      |                                      | T03: Pruebas del componente de historial             | Realizar pruebas para asegurar que el historial médico se muestra correctamente y de manera completa.               | 4                  | Sebastian   | Done  |
+| US64 | Añadir Medicación                    | T01: Diseño del formulario de medicación             | Diseñar el formulario frontend para añadir y gestionar la medicación de los pacientes.                              | 3                  | Jherson     | Done  |
+|      |                                      | T02: Implementación del formulario de medicación     | Implementar el formulario frontend y conectar con el backend para gestionar la medicación.                          | 8                  | Estefano    | Done  |
+|      |                                      | T03: Pruebas del formulario de medicación            | Realizar pruebas para asegurar que la medicación se puede añadir y gestionar correctamente.                         | 4                  | Sebastian   | Done  |
+| US65 | Ver Resultados de Exámenes Médicos   | T01: Diseño del componente de exámenes médicos       | Diseñar el componente frontend para mostrar los resultados de exámenes médicos subidos por los pacientes.           | 4                  | Sandro      | Done  |
+|      |                                      | T02: Implementación del componente de exámenes       | Implementar el componente frontend y conectar con el backend para mostrar los resultados de exámenes médicos.       | 10                 | Luis        | Done  |
+|      |                                      | T03: Pruebas del componente de exámenes              | Realizar pruebas para asegurar que los resultados de exámenes médicos se muestran correctamente y de manera segura. | 4                  | Sebastian   | Done  |
+| US66 | Ver Reportes Externos                | T01: Diseño del componente de reportes externos      | Diseñar el componente frontend para mostrar reportes externos relacionados con el paciente.                        | 4                  | Sandro      | Done |
+|      |                                      | T02: Implementación del componente de reportes       | Implementar el componente frontend y conectar con el backend para mostrar reportes externos relacionados.           | 10                 | Luis        | Done  |
+|      |                                      | T03: Pruebas del componente de reportes              | Realizar pruebas para asegurar que los reportes externos se muestran correctamente y de manera completa.            | 4                  | Sebastian   | Done  |
+
+#### Total Story Points Usados: 50 de 50
 
 #### 5.3.3.3. Development Evidence for Sprint Review.
 
