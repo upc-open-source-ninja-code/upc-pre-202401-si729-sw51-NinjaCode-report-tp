@@ -21,7 +21,7 @@
 
 <h3 align="center">Team Members:</h3>
 
-<p align="center">
+<div align="center">
 
 | Member                            |    Code    |
 | :-------------------------------- | :--------: |
@@ -31,7 +31,8 @@
 | Luis Sebastian Chinchihualpa Saldarriaga | U202212112 |
 | Sebastian Valente Lobato Pozo | U202215312 |
 
-</p>
+</div>
+
 
 
 
