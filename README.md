@@ -1,4 +1,3 @@
-![image](https://github.com/upc-open-source-ninja-code/upc-pre-202401-si729-sw51-NinjaCode-report-tp/assets/112771173/e9aca98c-6950-4f0f-ac4b-7c8f461b6ecd)<div align="center">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC">
 
