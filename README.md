@@ -1,40 +1,57 @@
 <div style="text-align: center;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC">
 
+    <h1>Universidad Peruana de Ciencias Aplicadas</h1>
 
-# Universidad Peruana de Ciencias Aplicadas
+    <h2>Ingeniería de Software</h2>
+    <h3>Ciclo 2024-01</h3>
 
-Ingeniería de Software
+    <hr>
 
-Ciclo 2024-01
+    <h1>Desarrollo de Aplicaciones Open Source</h1>
 
-<hr>
+    <h2>TF REPORT</h2>
 
-# <center>Desarrollo de Aplicaciones Open Source</center>
+    <p><strong>Sección:</strong> SW51</p>
+    <p><strong>Profesor:</strong> Angel Augusto Velasquez Nuñez</p>
 
-## TF REPORT
+    <p><strong>StartUp Name:</strong> NinjaCode</p>
+    <p><strong>Producto:</strong> HormonalCare</p>
 
-**Sección:** SW51
+    <h3>Team Members:</h3>
 
-**Profesor**: Angel Augusto Velasquez Nuñez
-
-
-*StartUp Name*: NinjaCode
-
-*Producto*: HormonalCare
-
-### Team Members:
-
-| Member                            |    Code    |
-| :-------------------------------- | :--------: |
-| Claudio Sandro Quispesivana Torres| U202215099 |
-| Jherson David Astuyauri Calderon  | U202218451 |
-| Estefano Sebastian Lostaunau Pereira | U202211742 |
-| Luis Sebastian Chinchihualpa Saldarriaga | U202212112 |
-| Sebastian Valente Lobato Pozo | U202215312 |
-
-<br>
+    <table style="margin-left:auto; margin-right:auto;">
+        <thead>
+            <tr>
+                <th>Member</th>
+                <th>Code</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Claudio Sandro Quispesivana Torres</td>
+                <td>U202215099</td>
+            </tr>
+            <tr>
+                <td>Jherson David Astuyauri Calderon</td>
+                <td>U202218451</td>
+            </tr>
+            <tr>
+                <td>Estefano Sebastian Lostaunau Pereira</td>
+                <td>U202211742</td>
+            </tr>
+            <tr>
+                <td>Luis Sebastian Chinchihualpa Saldarriaga</td>
+                <td>U202212112</td>
+            </tr>
+            <tr>
+                <td>Sebastian Valente Lobato Pozo</td>
+                <td>U202215312</td>
+            </tr>
+        </tbody>
+    </table>
 </div>
+
 
 
 ## Registro de versiones del informe
