@@ -2366,27 +2366,30 @@ En cuanto a los avances de la implementación de nuestro cuarto sprint, se puede
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 | - | - | - | - | - | - |
-|hormonal-care-backend| Feature/integration-profile-consultation |b21f657|feat(integration-profile-consultation): connected patient and doctor profiles with consultation info.|-|01/07/2024|
-|hormonal-care-backend| Feature/today-patients-table |c6a73bc|feat(today-patients-table): added component to display today's patients.|-|02/07/2024|
-|hormonal-care-frontend| Feature/reason-consultation-frontend |d7a489e|feat(reason-consultation-frontend): implemented frontend for managing reasons of consultation.|-|03/07/2024|
-|hormonal-care-frontend| Feature/treatment-medication-frontend |e9a5dce|feat(treatment-medication-frontend): added UI for managing treatments and medications.|-|04/07/2024|
+|hormonal-care-backend| Feature/IAM  |3b4be65|feat(patient): added get method to show medicalExam based on medicalRecordId|-|24/06/2024|
+|hormonal-care-backend| Feature/IAM |2921e36|feat(GetDoctorByDoctorRecordIdQuery & GetDoctorByProfileIdQuery)|-|24/06/2024|
+|hormonal-care-backend| Feature/medical-record-medication |283701e|feat(medical-record-medication): added medical record fk.|-|18/06/2024|
+|hormonal-care-backend| Feature/medical-record |e186d19|feat(MedicalRecord): added medicalrecord implementation with only patientId|-|22/06/2024|
+|hormonal-care-frontend| Feature/medical-history-review |d4f399a|feat(reason of consultation): added post method in medical record.|-|23/06/2024|
+|hormonal-care-frontend| Feature/medical-history-review |09fc54a|feat(medical-record-review): added home doctor connection with backend.|-|23/06/2024|
+|hormonal-care-frontend| Feature/medical-history-upload |01a05e2|feat(medical-record-medication): added medication connection to the backend and improved the medication form.|-|24/06/2024|
 
 #### 5.3.3.4. Testing Suite Evidence for Sprint Review.
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
 | - | - | - | - | - | - |
-|Acceptance-Test| US59.feature |a84f789|Create US59.feature|-|05/07/2024|
-|Acceptance-Test| US60.feature |b9c63f2|Create US60.feature|-|05/07/2024|
-|Acceptance-Test| US61.feature |c2d1478|Create US61.feature|-|05/07/2024|
-|Acceptance-Test| US62.feature |d1e45ab|Create US62.feature|-|05/07/2024|
+|Acceptance-Test| US59.feature |a84f789|Create US59.feature|-|24/06/2024|
+|Acceptance-Test| US60.feature |b9c63f2|Create US60.feature|-|24/06/2024|
+|Acceptance-Test| US61.feature |c2d1478|Create US61.feature|-|24/06/2024|
+|Acceptance-Test| US62.feature |d1e45ab|Create US62.feature|-|24/06/2024|
 
 #### 5.3.3.5. Execution Evidence for Sprint Review.
-En este Sprint, nuestro equipo se enfocó en la integración del frontend y el backend, permitiendo una conexión fluida entre perfiles, consultas y tratamientos. Los endpoints implementados y componentes creados se listan a continuación:
+En este Sprint, nuestro equipo se enfocó en la integración del frontend y el backend. Los endpoints implementados y componentes creados se listan a continuación:
 
 ### Capturas de Pantalla
 A continuación se presentan capturas de pantalla de las principales vistas implementadas:
 
-***- Perfiles de Pacientes y Doctores con Consultas ***
+***- Perfiles de Pacientes y Doctores  ***
 <img src="images/profile_integration1.png">
 <img src="images/profile_integration2.png">
 
@@ -2406,12 +2409,75 @@ A continuación se presentan capturas de pantalla de las principales vistas impl
 
 En este cuarto Sprint, los siguientes servicios fueron implementados y mejorados:
 
+
 | EndPoint                      | Detalles                                                                                      |
 |-------------------------------|-----------------------------------------------------------------------------------------------|
-| /profiles                     | En esta ruta se gestionan los perfiles, ahora conectados con la información de consultas.      |
-| /todayPatients                | En esta ruta se obtiene la lista de pacientes con citas hoy.                                   |
-| /reasonOfConsultation         | En esta ruta se gestionan las razones de consulta (agregar, obtener, actualizar, eliminar).    |
-| /treatments                   | En esta ruta se gestionan los tratamientos médicos y medicación asociados (agregar, obtener, actualizar, eliminar). |
+| `/api/v1/profile/profile`     | En esta ruta se gestionan los perfiles, ahora conectados con la información de consultas.      |
+| `/api/v1/doctor/doctor`       | Gestión de los perfiles de doctores, incluyendo la creación, actualización y obtención de información.|
+| `/api/v1/doctor/doctor/record/{doctorRecordId}` | Obtención de los registros médicos asociados a un doctor específico.            |
+| `/api/v1/medicalRecords`      | Gestión de los registros médicos, permitiendo la creación y consulta de registros médicos.     |
+| `/api/v1/medical-record/medical-exam` | Gestión de los exámenes médicos, incluyendo la creación y consulta de exámenes.        |
+| `/api/v1/medical-record/medications` | Gestión de medicaciones, incluyendo la creación y consulta de medicaciones.             |
+| `/api/v1/medical-record/treatments`  | Gestión de tratamientos médicos, incluyendo la creación, actualización y eliminación.   |
+| `/api/v1/medical-record/reasons-of-consultation` | Gestión de las razones de consulta (agregar, obtener, actualizar, eliminar). |
+| `/api/v1/medical-record/patient` | Gestión de pacientes, permitiendo la creación, actualización y consulta de información de pacientes. |
+| `/api/v1/medical-record/medical-appointment` | Gestión de citas médicas, incluyendo la creación, consulta, actualización y eliminación de citas. |
+
+Además, se agregaron nuevos controladores y métodos para mejorar la funcionalidad y la integración de los datos en el sistema:
+
+#### doctor-controller
+- **GET** `/api/v1/doctor/doctor/{doctorId}`: Obtiene la información de un doctor por su ID.
+- **PUT** `/api/v1/doctor/doctor/{doctorId}`: Actualiza la información de un doctor por su ID.
+- **POST** `/api/v1/doctor/doctor`: Crea un nuevo perfil de doctor.
+- **GET** `/api/v1/doctor/doctor/profile-id`: Obtiene la información del perfil del doctor.
+
+#### medical-record-controller
+- **POST** `/api/v1/medicalRecords`: Crea un nuevo registro médico.
+- **GET** `/api/v1/medicalRecords/{medicalRecordId}`: Obtiene un registro médico por su ID.
+
+#### type-exam-controller
+- **POST** `/api/v1/medical-record/medical-exam/type-exam`: Crea un nuevo tipo de examen médico.
+- **GET** `/api/v1/medical-record/medical-exam/type-exam/{typeExamId}`: Obtiene un tipo de examen médico por su ID.
+
+#### medication-controller
+- **GET** `/api/v1/medical-record/medications/{medicationId}`: Obtiene información de una medicación por su ID.
+- **PUT** `/api/v1/medical-record/medications/{medicationId}`: Actualiza información de una medicación por su ID.
+- **POST** `/api/v1/medical-record/medications`: Crea una nueva medicación.
+- **GET** `/api/v1/medical-record/medications`: Obtiene la lista de todas las medicaciones.
+- **GET** `/api/v1/medical-record/medications/prescriptions/{prescriptionId}`: Obtiene una prescripción por su ID.
+- **POST** `/api/v1/medical-record/medications/prescriptions`: Crea una nueva prescripción.
+- **GET** `/api/v1/medical-record/medications/medicationTypes`: Obtiene los tipos de medicación.
+- **POST** `/api/v1/medical-record/medications/medicationTypes`: Crea un nuevo tipo de medicación.
+
+#### medical-exam-controller
+- **GET** `/api/v1/medical-record/medical-exam/{medicalExamId}`: Obtiene un examen médico por su ID.
+- **PUT** `/api/v1/medical-record/medical-exam/{medicalExamId}`: Actualiza un examen médico por su ID.
+- **POST** `/api/v1/medical-record/medical-exam`: Crea un nuevo examen médico.
+
+#### treatment-controller
+- **GET** `/api/v1/medical-record/treatments/{treatmentId}`: Obtiene información de un tratamiento por su ID.
+- **PUT** `/api/v1/medical-record/treatments/{treatmentId}`: Actualiza un tratamiento por su ID.
+- **POST** `/api/v1/medical-record/treatments`: Crea un nuevo tratamiento.
+- **GET** `/api/v1/medical-record/treatments/medicalRecordId/{medicalRecordId}`: Obtiene tratamientos asociados a un registro médico.
+
+#### reason-of-consultation-controller
+- **GET** `/api/v1/medical-record/reasons-of-consultation/{reasonOfConsultationId}`: Obtiene una razón de consulta por su ID.
+- **PUT** `/api/v1/medical-record/reasons-of-consultation/{reasonOfConsultationId}`: Actualiza una razón de consulta por su ID.
+- **POST** `/api/v1/medical-record/reasons-of-consultation`: Crea una nueva razón de consulta.
+
+#### patient-controller
+- **GET** `/api/v1/medical-record/patient/{patientId}`: Obtiene información de un paciente por su ID.
+- **PUT** `/api/v1/medical-record/patient/{patientId}`: Actualiza la información de un paciente por su ID.
+- **POST** `/api/v1/medical-record/patient`: Crea un nuevo paciente.
+- **GET** `/api/v1/medical-record/patient/doctor/{patientId}`: Obtiene la lista de doctores asociados a un paciente.
+- **GET** `/api/v1/medical-record/patient/record/{patientRecordId}`: Obtiene el registro médico de un paciente por su ID.
+
+#### medical-appointment-controller
+- **GET** `/api/v1/medical-appointment/{medicalAppointmentId}`: Obtiene información de una cita médica por su ID.
+- **PUT** `/api/v1/medical-appointment/{medicalAppointmentId}`: Actualiza información de una cita médica por su ID.
+- **POST** `/api/v1/medical-appointment`: Crea una nueva cita médica.
+- **DELETE** `/api/v1/medical-appointment/{medicalAppointmentId}`: Elimina una cita médica por su ID.
+
 
 #### 5.3.3.7. Software Deployment Evidence for Sprint Review.
 
