@@ -2320,7 +2320,7 @@ En la presente entrega, se llevaron a cabo avances del backend de la aplicación
 |Sprint #|Sprint 4|
 | - | - |
 |**Sprint Planning Background**||
-|Date|01-07-2024|
+|Date|07-06-2024|
 |Time|21:00|
 |Location|Reunión realizada mediante Discord|
 |Prepared By|Astuyauri Calderon Jherson David|
@@ -2360,6 +2360,8 @@ En la cuarta entrega de nuestro proyecto, conectamos los perfiles de pacientes y
 
 #### Total Story Points Usados: 50 de 50
 
+***Asimismo, para el sprint 4 backlog se incluye en la herramienta recomendada que es Trello.***
+<img src="images/sprint3.png">
 #### 5.3.3.3. Development Evidence for Sprint Review.
 
 En cuanto a los avances de la implementación de nuestro cuarto sprint, se puede observar que:
@@ -2390,20 +2392,25 @@ En este Sprint, nuestro equipo se enfocó en la integración del frontend y el b
 A continuación se presentan capturas de pantalla de las principales vistas implementadas:
 
 ***- Perfiles de Pacientes y Doctores  ***
-<img src="images/profile_integration1.png">
-<img src="images/profile_integration2.png">
+<img src="images/doctor profile.png">
+<img src="images/doctorbd.png">
+<img src="images/patient.png">
+<img src="images/patientbd.png">
 
 ***- Tabla de Pacientes de Hoy***
-<img src="images/today_patients1.png">
-<img src="images/today_patients2.png">
+<img src="images/patienttable">
+<img src="images/patienttablebd">
 
 ***- Razones de Consulta***
-<img src="images/reason_consultation1.png">
-<img src="images/reason_consultation2.png">
+<img src="images/reasonofconsultation.png">
+<img src="images/reasonofconsultationbd.png">
 
 ***- Tratamientos y Medicación***
-<img src="images/treatment_medication1.png">
-<img src="images/treatment_medication2.png">
+<img src="images/medication.png">
+<img src="images/medicationsbd.png">
+
+***- Tabla de Hoy para pacientes***
+<img src="images/homepatient.png">
 
 #### 5.3.3.6. Services Documentation Evidence for Sprint Review.
 
@@ -2482,21 +2489,17 @@ Además, se agregaron nuevos controladores y métodos para mejorar la funcionali
 #### 5.3.3.7. Software Deployment Evidence for Sprint Review.
 
 Para la implementación y despliegue automático de nuestra aplicación HormonalCare, utilizamos las siguientes herramientas:
-
-Para realizar el despliegue de nuestra Web Application, seguimos utilizando Netlify. El enlace de nuestro servicio es el siguiente: [https://main--stupendous-kangaroo-4e2bfa.netlify.app/selectRole].
+Primero para eñ despliegue de la landing page, usamos github Pages. El enlace es: [https://upc-open-source-ninja-code.github.io/Landing-Page/](https://upc-open-source-ninja-code.github.io/Landing-Page/).
+Para realizar el despliegue de nuestra Web Application, seguimos utilizando Netlify. El enlace de nuestro servicio es el siguiente: [https://main--stupendous-kangaroo-4e2bfa.netlify.app/](https://main--stupendous-kangaroo-4e2bfa.netlify.app/).
 
 Para el despliegue del Back-End, seguimos utilizando Railway, con configuraciones actualizadas para las nuevas funcionalidades.
-##### A continuación se muestran las evidencias: 
-<img src="images/deploy5.png">
-<img src="images/deploy6.png">
-
 **- Prueba de API Rest desplegada usando Railway para la tabla de pacientes de hoy:**
 
-<img src="images/deploy7.png">
-[https://hormonal-care-backend.up.railway.app/api/v1/todayPatients]
+<img src="images/railway.png">
+[https://hormonal-care-backend.up.railway.app/api/v1/medical-record/patient](https://hormonal-care-backend.up.railway.app/api/v1/medical-record/patient)
 
 #### 5.3.3.8. Team Collaboration Insights during Sprint.
-En la presente entrega, se llevaron a cabo avances significativos en la integración del frontend y backend de la aplicación HormonalCare. Se trabajó de manera colaborativa, asignando tareas específicas a cada miembro del equipo y utilizando herramientas como Discord y Trello para coordinar las actividades y el seguimiento del progreso.
+En la presente entrega, se llevaron a cabo avances significativos en la integración del frontend y backend de la aplicación HormonalCare. Se trabajó de manera colaborativa, asignando tareas específicas a cada miembro del equipo y utilizando herramientas como Discord para coordinar las actividades y el seguimiento del progreso.
 
 <img src="images/evidenceSprint41.png" width=400>
 <img src="images/evidenceSprint42.png" width=400>
