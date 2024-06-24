@@ -1,56 +1,37 @@
-<div style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC">
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC">
+</p>
 
-    <h1>Universidad Peruana de Ciencias Aplicadas</h1>
+<h1 align="center">Universidad Peruana de Ciencias Aplicadas</h1>
 
-    <h2>Ingeniería de Software</h2>
-    <h3>Ciclo 2024-01</h3>
+<h2 align="center">Ingeniería de Software</h2>
+<h3 align="center">Ciclo 2024-01</h3>
 
-    <hr>
+<hr>
 
-    <h1>Desarrollo de Aplicaciones Open Source</h1>
+<h1 align="center">Desarrollo de Aplicaciones Open Source</h1>
 
-    <h2>TF REPORT</h2>
+<h2 align="center">TF REPORT</h2>
 
-    <p><strong>Sección:</strong> SW51</p>
-    <p><strong>Profesor:</strong> Angel Augusto Velasquez Nuñez</p>
+<p align="center"><strong>Sección:</strong> SW51</p>
+<p align="center"><strong>Profesor:</strong> Angel Augusto Velasquez Nuñez</p>
 
-    <p><strong>StartUp Name:</strong> NinjaCode</p>
-    <p><strong>Producto:</strong> HormonalCare</p>
+<p align="center"><strong>StartUp Name:</strong> NinjaCode</p>
+<p align="center"><strong>Producto:</strong> HormonalCare</p>
 
-    <h3>Team Members:</h3>
+<h3 align="center">Team Members:</h3>
 
-    <table style="margin-left:auto; margin-right:auto;">
-        <thead>
-            <tr>
-                <th>Member</th>
-                <th>Code</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Claudio Sandro Quispesivana Torres</td>
-                <td>U202215099</td>
-            </tr>
-            <tr>
-                <td>Jherson David Astuyauri Calderon</td>
-                <td>U202218451</td>
-            </tr>
-            <tr>
-                <td>Estefano Sebastian Lostaunau Pereira</td>
-                <td>U202211742</td>
-            </tr>
-            <tr>
-                <td>Luis Sebastian Chinchihualpa Saldarriaga</td>
-                <td>U202212112</td>
-            </tr>
-            <tr>
-                <td>Sebastian Valente Lobato Pozo</td>
-                <td>U202215312</td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+<p align="center">
+
+| Member                            |    Code    |
+| :-------------------------------- | :--------: |
+| Claudio Sandro Quispesivana Torres| U202215099 |
+| Jherson David Astuyauri Calderon  | U202218451 |
+| Estefano Sebastian Lostaunau Pereira | U202211742 |
+| Luis Sebastian Chinchihualpa Saldarriaga | U202212112 |
+| Sebastian Valente Lobato Pozo | U202215312 |
+
+</p>
 
 
 
