@@ -44,7 +44,12 @@ Ciclo 2024-01
 |:-----:|:--------:|:--------:|:--------:|
 | TB1     | 11/04/2024 | NinjaCode | Para esta entrega se desarrollaron los capítulos I, II, III, IV y V, y se desplegó la primera versión de la landing page |
 | TP1     | 01/05/2024 | NinjaCode | Se corrigieron detalles del informe como problem statement, assumptions, student outcome, resumen del registro de entrevistas, user personas, user task matrix, ubiquitous language, product backlog, Web Applications Wireflow Diagrams, class diagrams, database diagrams. Se hizo el sprint 2 y se desarrolló la primera versión de la Web Application |
+| TP1 v1.0.1     | 10/05/2024 | NinjaCode | Se llevaron a cabo algunos avances del frontend. |
+| TP1 v1.0.2    | 20/05/2024 | NinjaCode | Se implementaron algunos servicios externos. |
 | TB2     | 06/06/2024 | NinjaCode | Se llevó a cabo la segunda versión de la implementación del frontend y la primera versión del backend de HormonalCare. |
+| TB2 v1.0.1    | 15/06/2024 | NinjaCode | Se implementó la segunda versión del backend de la aplicación junto a correciones de la BD. |
+| TB2 v1.0.2    | 22/06/2024 | NinjaCode | Se llegaron a conectar algunas funcionalidades del frontend con el backend, adaptando el frontend. |
+| TF   | 24/06/2024 | NinjaCode | Se llegaron a implementar más cambios, y conexiones entre el frontend y backend de la app "HormonalCare". |
 
 
 
