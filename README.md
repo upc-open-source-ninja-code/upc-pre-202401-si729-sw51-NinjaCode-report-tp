@@ -2494,9 +2494,9 @@ Para realizar el despliegue de nuestra Web Application, seguimos utilizando Netl
 
 Para el despliegue del Back-End, seguimos utilizando Railway, con configuraciones actualizadas para las nuevas funcionalidades.
 **- Prueba de API Rest desplegada usando Railway para la tabla de pacientes de hoy:**
-
 <img src="images/railway.png">
-[https://hormonal-care-backend.up.railway.app/api/v1/medical-record/patient](https://hormonal-care-backend.up.railway.app/api/v1/medical-record/patient)
+<img src="images/profiledeploy.png">
+[https://hormonal-care-backend.up.railway.app/api/v1/profile/profile/1](https://hormonal-care-backend.up.railway.app/api/v1/profile/profile/1)
 
 #### 5.3.3.8. Team Collaboration Insights during Sprint.
 En la presente entrega, se llevaron a cabo avances significativos en la integración del frontend y backend de la aplicación HormonalCare. Se trabajó de manera colaborativa, asignando tareas específicas a cada miembro del equipo y utilizando herramientas como Discord para coordinar las actividades y el seguimiento del progreso.
