@@ -102,6 +102,16 @@ Para respaldar nuestra colaboración y transparencia, presentamos una imagen de 
 <img src="images/tb2.png">
 </div>
 
+TF:
+
+En la última entrega del informe del proyecto HormonalCare, nos centramos en la implementación e integración del frontend y backend. Por ello, en el informe se evidencia el sprint 4. Además de las correcciones subsanadas. Mantenemos nuestro enfoque colaborativo con reuniones periódicas en Discord y utilizando GitHub para la gestión del código y la transparencia, reflejando nuestra participación activa y compromiso continuo en el desarrollo del proyecto.
+
+Para respaldar nuestra colaboración y transparencia, presentamos una imagen de los commits en GitHub, demostrando nuestro compromiso con la participación activa y la responsabilidad compartida en el desarrollo del informe y la aplicación. 
+
+<div  align="center">
+<img src="images/insightstf.png">
+</div>
+
 ## Contenido
 
 ### [Registro de versiones del informe](#)
@@ -2360,8 +2370,6 @@ En la cuarta entrega de nuestro proyecto, conectamos los perfiles de pacientes y
 
 #### Total Story Points Usados: 50 de 50
 
-***Asimismo, para el sprint 4 backlog se incluye en la herramienta recomendada que es Trello.***
-<img src="images/sprint3.png">
 #### 5.3.3.3. Development Evidence for Sprint Review.
 
 En cuanto a los avances de la implementación de nuestro cuarto sprint, se puede observar que:
@@ -2501,8 +2509,8 @@ Para el despliegue del Back-End, seguimos utilizando Railway, con configuracione
 #### 5.3.3.8. Team Collaboration Insights during Sprint.
 En la presente entrega, se llevaron a cabo avances significativos en la integración del frontend y backend de la aplicación HormonalCare. Se trabajó de manera colaborativa, asignando tareas específicas a cada miembro del equipo y utilizando herramientas como Discord para coordinar las actividades y el seguimiento del progreso.
 
-<img src="images/evidenceSprint41.png" width=400>
-<img src="images/evidenceSprint42.png" width=400>
+<img src="images/insightsbackend.png" width=400>
+<img src="images/insightsfrontend.png" width=400>
 
 
 
