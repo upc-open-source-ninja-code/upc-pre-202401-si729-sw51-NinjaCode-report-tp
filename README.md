@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/upc-open-source-ninja-code/upc-pre-202401-si729-sw51-NinjaCode-report-tp/assets/112771173/e9aca98c-6950-4f0f-ac4b-7c8f461b6ecd)<div align="center">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC">
 
@@ -2270,6 +2270,10 @@ A continuación se presentan capturas de pantalla de las principales vistas impl
 ***-Calendar***
 <img src = "images/postman12.png">
 <img src = "images/deploy7.png">
+
+
+Link del video: [https://youtu.be/yPg2IT_mdNY] (https://youtu.be/yPg2IT_mdNY)
+<img src = "images/executionspring3.png">
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
