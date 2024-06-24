@@ -2313,6 +2313,113 @@ En la presente entrega, se llevaron a cabo avances del backend de la aplicación
 
 <img src="images/evidenceSprint32.png" width=400>
 
+### 5.3.3. Sprint 4
+
+#### 5.3.3.1. Sprint Planning 4.
+
+|Sprint #|Sprint 4|
+| - | - |
+|**Sprint Planning Background**||
+|Date|01-07-2024|
+|Time|21:00|
+|Location|Reunión realizada mediante Discord|
+|Prepared By|Astuyauri Calderon Jherson David|
+|Attendees (to planning meeting)|Astuyauri Calderon Jherson David / Chinchihualpa Saldarriaga Luis Sebastian / Lobato Pozo Sebastian Valente / Lostaunau Pereira Estéfano Sebastián / Quispesivana Torres Claudio Sandro|
+|**Sprint Goal & User Stories**||
+|Sprint 4 Goal|Integrar y conectar los perfiles de pacientes y doctores con la información de consultas y tratamientos.|
+|Sprint 4 Velocity|50|
+|Sum of Story Points|45|
+
+#### 5.3.3.2. Sprint Backlog 4.
+#### En la cuarta entrega de nuestro proyecto, conectamos los perfiles de pacientes y doctores con la información de consultas y tratamientos, integrando el frontend y el backend de la aplicación.
+
+| ID   | User Story                           | Work-Item / Task                                     | Description                                                                                                         | Estimation (Hours) | Assigned To | Status   |
+|------|--------------------------------------|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|--------------------|-------------|----------|
+| US59 | Integración de Perfiles con Consultas| T01: Diseño de la integración de perfiles            | Diseñar la integración de los perfiles de pacientes y doctores con la información de consultas y tratamientos.      | 4                  | Luis        | Done     |
+|      |                                      | T02: Implementación de la integración de perfiles    | Implementar la integración en el backend para conectar perfiles con consultas y tratamientos.                       | 12                 | Sebastian   | Done     |
+|      |                                      | T03: Pruebas de la integración de perfiles           | Realizar pruebas para asegurar el correcto funcionamiento de la integración.                                        | 6                  | Estefano    | Done     |
+| US60 | Tabla de Pacientes de Hoy            | T01: Diseño del componente de la tabla               | Diseñar el componente frontend para mostrar la lista de pacientes con citas hoy.                                    | 4                  | Sandro      | Done     |
+|      |                                      | T02: Implementación del componente de la tabla       | Implementar el componente frontend y conectar con el backend para obtener la lista de pacientes de hoy.             | 8                  | Luis        | Done     |
+|      |                                      | T03: Pruebas del componente de la tabla              | Realizar pruebas para asegurar que la tabla muestra correctamente la información de pacientes con citas hoy.        | 4                  | Sebastian   | Done     |
+| US61 | Gestión de Razones de Consulta       | T01: Implementación del frontend para razones        | Implementar la interfaz frontend para mostrar y gestionar las razones de consulta y sus descripciones.               | 8                  | Jherson     | Done     |
+| US62 | Gestión de Tratamientos y Medicación | T01: Implementación del frontend para tratamientos   | Implementar la interfaz frontend para mostrar y gestionar los tratamientos y medicación asociados a una consulta.    | 8                  | Estefano    | Done     |
+
+#### 5.3.3.3. Development Evidence for Sprint Review.
+
+En cuanto a los avances de la implementación de nuestro cuarto sprint, se puede observar que:
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+| - | - | - | - | - | - |
+|hormonal-care-backend| Feature/integration-profile-consultation |b21f657|feat(integration-profile-consultation): connected patient and doctor profiles with consultation info.|-|01/07/2024|
+|hormonal-care-backend| Feature/today-patients-table |c6a73bc|feat(today-patients-table): added component to display today's patients.|-|02/07/2024|
+|hormonal-care-frontend| Feature/reason-consultation-frontend |d7a489e|feat(reason-consultation-frontend): implemented frontend for managing reasons of consultation.|-|03/07/2024|
+|hormonal-care-frontend| Feature/treatment-medication-frontend |e9a5dce|feat(treatment-medication-frontend): added UI for managing treatments and medications.|-|04/07/2024|
+
+#### 5.3.3.4. Testing Suite Evidence for Sprint Review.
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+| - | - | - | - | - | - |
+|Acceptance-Test| US59.feature |a84f789|Create US59.feature|-|05/07/2024|
+|Acceptance-Test| US60.feature |b9c63f2|Create US60.feature|-|05/07/2024|
+|Acceptance-Test| US61.feature |c2d1478|Create US61.feature|-|05/07/2024|
+|Acceptance-Test| US62.feature |d1e45ab|Create US62.feature|-|05/07/2024|
+
+#### 5.3.3.5. Execution Evidence for Sprint Review.
+En este Sprint, nuestro equipo se enfocó en la integración del frontend y el backend, permitiendo una conexión fluida entre perfiles, consultas y tratamientos. Los endpoints implementados y componentes creados se listan a continuación:
+
+### Capturas de Pantalla
+A continuación se presentan capturas de pantalla de las principales vistas implementadas:
+
+***- Perfiles de Pacientes y Doctores con Consultas ***
+<img src="images/profile_integration1.png">
+<img src="images/profile_integration2.png">
+
+***- Tabla de Pacientes de Hoy***
+<img src="images/today_patients1.png">
+<img src="images/today_patients2.png">
+
+***- Razones de Consulta***
+<img src="images/reason_consultation1.png">
+<img src="images/reason_consultation2.png">
+
+***- Tratamientos y Medicación***
+<img src="images/treatment_medication1.png">
+<img src="images/treatment_medication2.png">
+
+#### 5.3.3.6. Services Documentation Evidence for Sprint Review.
+
+En este cuarto Sprint, los siguientes servicios fueron implementados y mejorados:
+
+| EndPoint                      | Detalles                                                                                      |
+|-------------------------------|-----------------------------------------------------------------------------------------------|
+| /profiles                     | En esta ruta se gestionan los perfiles, ahora conectados con la información de consultas.      |
+| /todayPatients                | En esta ruta se obtiene la lista de pacientes con citas hoy.                                   |
+| /reasonOfConsultation         | En esta ruta se gestionan las razones de consulta (agregar, obtener, actualizar, eliminar).    |
+| /treatments                   | En esta ruta se gestionan los tratamientos médicos y medicación asociados (agregar, obtener, actualizar, eliminar). |
+
+#### 5.3.3.7. Software Deployment Evidence for Sprint Review.
+
+Para la implementación y despliegue automático de nuestra aplicación HormonalCare, utilizamos las siguientes herramientas:
+
+Para realizar el despliegue de nuestra Web Application, seguimos utilizando Netlify. El enlace de nuestro servicio es el siguiente: [https://main--stupendous-kangaroo-4e2bfa.netlify.app/selectRole].
+
+Para el despliegue del Back-End, seguimos utilizando Railway, con configuraciones actualizadas para las nuevas funcionalidades.
+##### A continuación se muestran las evidencias: 
+<img src="images/deploy5.png">
+<img src="images/deploy6.png">
+
+**- Prueba de API Rest desplegada usando Railway para la tabla de pacientes de hoy:**
+
+<img src="images/deploy7.png">
+[https://hormonal-care-backend.up.railway.app/api/v1/todayPatients]
+
+#### 5.3.3.8. Team Collaboration Insights during Sprint.
+En la presente entrega, se llevaron a cabo avances significativos en la integración del frontend y backend de la aplicación HormonalCare. Se trabajó de manera colaborativa, asignando tareas específicas a cada miembro del equipo y utilizando herramientas como Discord y Trello para coordinar las actividades y el seguimiento del progreso.
+
+<img src="images/evidenceSprint41.png" width=400>
+<img src="images/evidenceSprint42.png" width=400>
+
+
 
 ### 5.3. Validation Interviews
 
