@@ -2407,8 +2407,8 @@ A continuación se presentan capturas de pantalla de las principales vistas impl
 <img src="images/patientbd.png">
 
 ***- Tabla de Pacientes de Hoy***
-<img src="images/patienttable">
-<img src="images/patienttablebd">
+<img src="images/patienttable.png">
+<img src="images/patienttablebd.png">
 
 ***- Razones de Consulta***
 <img src="images/reasonofconsultation.png">
