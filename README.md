@@ -2271,7 +2271,7 @@ A continuación se presentan capturas de pantalla de las principales vistas impl
 
 
 Link del video: [https://youtu.be/yPg2IT_mdNY] (https://youtu.be/yPg2IT_mdNY)
-<img src = "images/executionspring3.png">
+<img src = "images/execution-spring3.png">
 
 ##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
@@ -2321,7 +2321,6 @@ Para el despliegue del Back-End, hemos utilizado Railway, donde subimos el repos
 ##### 5.2.3.8. Team Collaboration Insights during Sprint.
 En la presente entrega, se llevaron a cabo avances del backend de la aplicación web usando como software al IDE IntelliJ Idea y git. De las misma forma que en entregas anteriores, se dividió las partes del bounded context de Medical Record entre los integrantes del grupo. Se creó el repositorio dentro de la organización NinjaCode en donde cada alumno creó su rama para trabajar en el feature asignado. Una vez que sus implementaciones estaban realizadas de forma correcta, cada participante llevaba los commits de su rama a la rama Develop.
 <img src="images/evidenceSprint31.png" width=400>
-
 
 <img src="images/evidenceSprint32.png" width=400>
 
