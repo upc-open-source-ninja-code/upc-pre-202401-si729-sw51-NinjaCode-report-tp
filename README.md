@@ -2510,8 +2510,8 @@ Para el despliegue del Back-End, seguimos utilizando Railway, con configuracione
 #### 5.3.3.8. Team Collaboration Insights during Sprint.
 En la presente entrega, se llevaron a cabo avances significativos en la integración del frontend y backend de la aplicación HormonalCare. Se trabajó de manera colaborativa, asignando tareas específicas a cada miembro del equipo y utilizando herramientas como Discord para coordinar las actividades y el seguimiento del progreso.
 
-<img src="images/insightsbackend.png" width=400>
-<img src="images/insightsfrontend.png" width=400>
+<img src="images/insightsbackend.png" >
+<img src="images/insightsfrontend.png">
 
 
 
